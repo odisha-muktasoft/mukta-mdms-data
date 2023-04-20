@@ -1,0 +1,30 @@
+{
+  "tenantId": "od",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "PROJECT_CREATOR",
+      "actionid": 51,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PROJECT_CREATOR",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PROJECT_CREATOR",
+      "actionid": 53,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PROJECT_VIEWER",
+      "actionid": 52,
+      "actioncode": "",
+      "tenantId": "od"
+    }
+  ]
+}

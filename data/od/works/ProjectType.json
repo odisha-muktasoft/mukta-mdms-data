@@ -1,0 +1,42 @@
+{
+  "tenantId": "pg",
+  "moduleName": "works",
+  "ProjectType": [
+    {
+      "id": 1,
+      "name": "Drainage and sewerage work [Except de-siltation]",
+      "code": "DR",
+      "group": "",
+      "beneficiary": "",
+      "active": true,
+      "projectSubType": []
+    },
+    {
+      "id": 5,
+      "name": "Sanitation work [Except road sweeping and drain cleaning]",
+      "code": "SN",
+      "group": "",
+      "beneficiary": "",
+      "active": true,
+      "projectSubType": []
+    },
+    {
+      "id": 9,
+      "name": "Water conservation and rain water harvesting structures",
+      "code": "WT",
+      "group": "",
+      "beneficiary": "",
+      "active": true,
+      "projectSubType": []
+    },
+    {
+      "id": 13,
+      "name": "Development and renovation of water bodies",
+      "code": "WB",
+      "group": "",
+      "beneficiary": "Slum",
+      "active": true,
+      "projectSubType": []
+    }
+  ]
+}
