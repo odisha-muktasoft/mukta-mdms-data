@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
     {
-      "id": 51,
+      "id": 1,
       "name": "Create Project",
       "url": "/pms/project/v1/_create",
       "parentModule": "project-management-system",
@@ -15,7 +15,7 @@
       "path": ""
     },
     {
-      "id": 52,
+      "id": 2,
       "name": "Search Project",
       "url": "/pms/project/v1/_search",
       "parentModule": "project-management-system",
@@ -27,7 +27,7 @@
       "path": ""
     },
     {
-      "id": 53,
+      "id": 3,
       "name": "Update Project",
       "url": "/pms/project/v1/_update",
       "parentModule": "project-management-system",
