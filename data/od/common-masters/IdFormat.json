@@ -1,0 +1,18 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+  "IdFormat": [
+    {
+      "format": "ORG-[SEQ_ORG_NUM]",
+      "idname": "org.number"
+    },
+    {
+      "format": "SR/ORG/[cy:dd-MM-yyyy]/[SEQ_ORG_APP_NUM]",
+      "idname": "org.application.number"
+    },
+    {
+      "format": "SR/FUNC/[cy:dd-MM-yyyy]/[SEQ_FUNC_APP_NUM]",
+      "idname": "function.application.number"
+    }
+  ]
+}
