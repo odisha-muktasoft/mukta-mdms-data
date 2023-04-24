@@ -73,6 +73,54 @@
       "serviceCode": "organisation",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 7,
+      "name": "Inbox service V2",
+      "url": "/inbox/v2/_search",
+      "parentModule": "inbox-v2",
+      "displayName": "Works inbox",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8,
+      "name": "Create Estimate",
+      "url": "/estimate-service/estimate/v1/_create",
+      "parentModule": "estimate-service",
+      "displayName": "Create Estimate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "estimate-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 9,
+      "name": "Update Estimate",
+      "url": "/estimate-service/estimate/v1/_update",
+      "parentModule": "estimate-service",
+      "displayName": "Update Estimate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "estimate-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 10,
+      "name": "Search Estimate",
+      "url": "/estimate-service/estimate/v1/_search",
+      "parentModule": "estimate-service",
+      "displayName": "Search Estimate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "estimate-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
