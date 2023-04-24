@@ -13,6 +13,10 @@
     {
       "format": "SR/FUNC/[cy:dd-MM-yyyy]/[SEQ_FUNC_APP_NUM]",
       "idname": "function.application.number"
+    },
+    {
+      "format": "ES/[fy:yyyy-yy]/[SEQ_ESTIMATE_NUM]",
+      "idname": "estimate.number"
     }
   ]
 }

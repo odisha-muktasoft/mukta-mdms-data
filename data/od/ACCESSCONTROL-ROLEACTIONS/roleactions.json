@@ -49,6 +49,80 @@
       "actionid": 6,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Creator",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Verifier",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Technical_Sanctioner",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Approver",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Creator",
+      "actionid": 8,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Verifier",
+      "actionid": 9,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Technical_Sanctioner",
+      "actionid": 9,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Approver",
+      "actionid": 9,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Creator",
+      "actionid": 10,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Verifier",
+      "actionid": 10,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Technical_Sanctioner",
+      "actionid": 10,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "Estimate_Approver",
+      "actionid": 10,
+      "actioncode": "",
+      "tenantId": "od"
     }
+
+
   ]
 }
