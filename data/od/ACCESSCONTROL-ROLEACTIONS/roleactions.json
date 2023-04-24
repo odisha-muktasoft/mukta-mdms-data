@@ -319,7 +319,312 @@
       "actionid": 20,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 21,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 22,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
+      "actionid": 23,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_VIEWER",
+      "actionid": 24,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 25,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "OFFICER_IN_CHARGE",
+      "actionid": 25,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_VERIFIER",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_APPROVER",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CBO_ADMIN",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "OFFICER_IN_CHARGE",
+      "actionid": 26,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "OFFICER_IN_CHARGE",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CBO_ADMIN",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_APPROVER",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_VERIFIER",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_VIEWER",
+      "actionid": 27,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 28,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 29,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_STAFF",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 30,
+      "actioncode": "",
+      "tenantId": "od"
     }
-
   ]
 }
