@@ -141,6 +141,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 36,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MUSTER_ROLL_VERIFIER",
       "actionid": 65,
       "actioncode": "",
@@ -260,6 +272,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 70,
+      "actioncode": "",
+      "tenantId": "od"
+    },
 
     {
       "rolecode": "EMPLOYEE_COMMON",
@@ -345,6 +363,5 @@
       "actioncode": "",
       "tenantId": "od"
     }
-
   ]
 }

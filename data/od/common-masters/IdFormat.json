@@ -25,7 +25,18 @@
     {
       "format": "MR/[fy:yyyy-yy]/[cy:MM]/[cy:dd]/[SEQ_MUSTER_NUM]",
       "idname": "muster.number"
+    },
+    {
+      "format": "PJ/[fy:yyyy-yy]/[cy:MM]/[SEQ_PROJECT_NUM]",
+      "idname": "project.number"
+    },
+    {
+      "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
+      "idname": "individual.id"
+    },
+    {
+      "format": "WO/[fy:yyyy-yy]/[SEQ_CONTRACT_NUM]",
+      "idname": "contract.number"
     }
-
   ]
 }
