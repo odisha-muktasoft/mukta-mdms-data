@@ -111,21 +111,6 @@
       "code": "ESTIMATE_VIEWER",	
       "name": "ESTIMATE VIEWER",	
       "description": "Estimate Viewer"	
-    },
-    {
-      "code": "ORG_STAFF",
-      "name": "Organization staff",
-      "description": "Role for the staff of any organization"
-    },
-    {
-      "code": "JUNIOR_ENGINEER",
-      "name": "JUNIOR ENGINEER",
-      "description": "Junior engineer of a ULB"
-    },
-    {
-      "code": "MUNICIPAL_ENGINEER",
-      "name": "MUNICIPAL ENGINEER",
-      "description": "Municipal engineer of a ULB"
     }
   ]
 }
