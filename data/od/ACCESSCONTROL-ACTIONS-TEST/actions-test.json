@@ -427,7 +427,6 @@
       "path": "9HRMS.Search",
       "leftIcon": "dynamic:HRIcon"
     },
-    //NO role is present for localization apis as in promotion Doc SUPERUSER role is given but this role is not in master data
     {
       "id": 36,
       "name": "LocalizationMessagesSearch",
@@ -627,7 +626,6 @@
       "code": "null",
       "path": ""
     },
-    //No role is mapped for the below pdf  apis
     {
       "id": 52,
       "name": "Pdf Generator search",
@@ -672,7 +670,6 @@
       "code": "null",
       "path": ""
     },
-    //No role mapped for below api
     {
       "id": 56,
       "name": "SHG Home",
@@ -1159,7 +1156,6 @@
       "code": "null",
       "path": ""
     },
-    //No role is mapped for below api id 94
     {
       "id": 94,
       "name": "Project Detail Pdf",
