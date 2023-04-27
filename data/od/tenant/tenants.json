@@ -4,10 +4,10 @@
   "tenants": [
     {
       "code": "od",
-      "name": "Odissa",
-      "description": "Demo",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/mukta-uat-bucket-s3/od/logo.png",
-      "imageId": "https://s3.ap-south-1.amazonaws.com/mukta-uat-bucket-s3/od/logo.png",
+      "name": "Odisha",
+      "description": "Odisha",
+      "logoId": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
+      "imageId": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
       "domainUrl": "www.mccitya.in",
       "type": "CITY",
       "twitterUrl": "https://twitter.com/search?q=%23citya",
@@ -31,9 +31,9 @@
         "code": "0",
         "ddrName": null
       },
-      "address": "5 Demo Municipal Bhawan, 3, Dakshin Marg, 35A, Sector 35A, Chandigarh, 160022",
+      "address": "Odisha",
       "pincode": [],
-      "contactNumber": "0181-2227015",
+      "contactNumber": "",
       "pdfHeader": "OD_PDF_HEADER",
       "pdfContactDetails": "OD_CONTACT_DETAILS"
     },
