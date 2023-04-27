@@ -3,8 +3,8 @@
     "moduleName": "tenant",
     "citymodule": [
         {
-            "module": "Mukta",
-            "code": "Mukta",
+            "module": "Works",
+            "code": "Works",
             "active": true,
             "order": 1,
             "tenants": [
@@ -129,8 +129,8 @@
             ]
         },
          {
-            "module": "Mukta",
-            "code": "Mukta",
+            "module": "Works",
+            "code": "Works",
             "active": true,
             "order": 9,
             "tenants": [
