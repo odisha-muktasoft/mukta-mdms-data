@@ -25,7 +25,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Ward",
-            "code": "W001"
+            "code": "W001",
+            "children": []
           },
           {
             "id": 3,
@@ -35,7 +36,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Ward",
-            "code": "W002"
+            "code": "W002",
+            "children": []
           },
           {
             "id": 4,
@@ -45,7 +47,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Ward",
-            "code": "W003"
+            "code": "W003",
+            "children": []
           }
         ]
       }
