@@ -362,6 +362,36 @@
       "actionid": 10,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 7,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 105,
+      "actioncode": "",
+      "tenantId": "statea"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 107,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 107,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
