@@ -1,0 +1,54 @@
+{
+  "tenantId": "od.jatni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "JATNI",
+        "localname": "JATNI",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jatni",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001"
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002"
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003"
+          }
+        ]
+      }
+    }]
+}
+  
