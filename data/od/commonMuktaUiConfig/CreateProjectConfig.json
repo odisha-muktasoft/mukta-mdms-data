@@ -253,7 +253,7 @@
               }
             },
             {
-              "isMandatory": true,
+              "isMandatory": false,
               "key": "noSubProject_locality",
               "type": "radioordropdown",
               "label": "WORKS_LOCALITY",
