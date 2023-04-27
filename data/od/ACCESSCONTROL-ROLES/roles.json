@@ -58,6 +58,11 @@
       "description": "Work Order Viewer"
     },
     {
+      "code": "WORK_ORDER_VERIFIER",
+      "name": "WORK ORDER VERIFIER",
+      "description": "Work Order Verifier"
+    },
+    {
       "code": "WORK_ORDER_APPROVER",
       "name": "WORK ORDER APPROVER",
       "description": "Work Order Approver"
@@ -101,6 +106,16 @@
       "code": "BILL_VIEWER",
       "name": "BILL_VIEWER",
       "description": "Bill Viewer"
+    },
+    {
+      "code": "BILL_VERIFIER",
+      "name": "BILL_VERIFIER",
+      "description": "Bill Verfier"
+    },
+    {
+      "code": "BILL_APPROVER",
+      "name": "BILL_APPROVER",
+      "description": "Bill Approver"
     },
     {
       "code": "EMPLOYEE_COMMON",
