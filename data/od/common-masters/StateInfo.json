@@ -1,0 +1,68 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+  "StateInfo": [
+    {
+      "name": "Odisha",
+      "code": "od",
+      "qrCodeURL": "",
+      "bannerUrl": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/banner-bg.jpg",
+      "logoUrl": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
+      "logoUrlWhite": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/mukta-white-logo.png",
+      "statelogo":"https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
+      "hasLocalisation": true,
+      "enableWhatsApp": true,
+      "defaultUrl": {
+        "employee": "/works-ui/employee/user/login"
+      },
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
+      "localizationModules": [
+        {
+          "label": "rainmaker-contracts",
+          "value": "rainmaker-contracts"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-common-masters",
+          "value": "rainmaker-common-masters"
+        },
+        {
+          "label": "rainmaker-estimate",
+          "value": "rainmaker-estimate"
+        },
+        {
+          "label": "rainmaker-project",
+          "value": "rainmaker-project"
+        },
+        {
+          "label": "rainmaker-expenditure",
+          "value": "rainmaker-expenditure"
+        },
+        {
+          "label": "rainmaker-attendencemgmt",
+          "value": "rainmaker-attendencemgmt"
+        },
+        {
+          "label": "rainmaker-masters",
+          "value": "rainmaker-masters"
+        },
+        {
+          "label": "rainmaker-od",
+          "value": "rainmaker-od"
+        }
+      ]
+    }
+  ]
+}
