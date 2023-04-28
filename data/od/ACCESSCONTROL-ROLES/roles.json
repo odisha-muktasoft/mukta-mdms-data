@@ -3,34 +3,59 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "CITIZEN",
-      "name": "Citizen",
-      "description": "Default role for citizen"
-    },
-    {
-      "code": "EMPLOYEE",
-      "name": "Employee",
-      "description": "Default role for all employees"
+      "code": "HRMS_ADMIN",
+      "name": "HRMS Admin",
+      "description": "HRMS Admin"
     },
     {
       "code": "SUPERUSER",
       "name": "SUPER USER",
       "description": "SUPER USER"
+    },   
+    {
+      "code": "ORG_ADMIN",
+      "name": "Organization admin",
+      "description": "Role for the admin of any organization"
     },
     {
-      "code": "PROJECT_CREATOR",
-      "name": "PROJECT CREATOR",
-      "description": "Project Creator"
+      "code": "WORK_ORDER_CREATOR",
+      "name": "WORK ORDER CREATOR",
+      "description": "Creator of a contract"
     },
     {
-      "code": "PROJECT_VIEWER",
-      "name": "PROJECT VIEWER",
-      "description": "Project Viewer"
+      "code": "WORK_ORDER_VERIFIER",
+      "name": "WORK ORDER VERIFIER",
+      "description": "Verifier of a contract"
+    },
+    {
+      "code": "WORK_ORDER_APPROVER",
+      "name": "WORK ORDER APPROVER",
+      "description": "Approver of a contract"
+    },
+    {
+      "code": "OFFICER_IN_CHARGE",
+      "name": "OFFICER IN CHARGE",
+      "description": "Officer in charge of the contract"
+    },
+    {
+      "code": "MUKTA_ADMIN",
+      "name": "MUKTA Admin",
+      "description": "Officer in charge of the Masters"
+    },
+    {
+      "code": "STADMIN",
+      "name": "State Dashboard Admin",
+      "description": "State Dashboard Admin"
     },
     {
       "code": "ESTIMATE_CREATOR",
       "name": "ESTIMATE CREATOR",
       "description": "Estimate Creator"
+    },
+    {	
+      "code": "ESTIMATE_VIEWER",	
+      "name": "ESTIMATE VIEWER",	
+      "description": "Estimate VIEWER having search api access"	
     },
     {
       "code": "ESTIMATE_VERIFIER",
@@ -48,54 +73,24 @@
       "description": "Estimate Approver"
     },
     {
-      "code": "WORK_ORDER_CREATOR",
-      "name": "WORK ORDER CREATOR",
-      "description": "Work Order Creator"
+      "code": "PROJECT_CREATOR",
+      "name": "PROJECT CREATOR",
+      "description": "Project Creator"
     },
     {
-      "code": "WORK_ORDER_VIEWER",
-      "name": "WORK ORDER VIEWER",
-      "description": "Work Order Viewer"
-    },
-    {
-      "code": "WORK_ORDER_VERIFIER",
-      "name": "WORK ORDER VERIFIER",
-      "description": "Work Order Verifier"
-    },
-    {
-      "code": "WORK_ORDER_APPROVER",
-      "name": "WORK ORDER APPROVER",
-      "description": "Work Order Approver"
+      "code": "PROJECT_VIEWER",
+      "name": "PROJECT VIEWER",
+      "description": "Project Viewer"
     },
     {
       "code": "MUSTER_ROLL_VERIFIER",
       "name": "MUSTER ROLL VERIFIER",
-      "description": "Muster Roll Verifier"
+      "description": "Muster Roll Viewer"
     },
     {
       "code": "MUSTER_ROLL_APPROVER",
       "name": "MUSTER ROLL APPROVER",
       "description": "Muster Roll Approver"
-    },
-    {
-      "code": "MUKTA_ADMIN",
-      "name": "MUKTA Admin",
-      "description": "MUKTA Admin"
-    },
-    {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS Admin",
-      "description": "HRMS Admin"
-    },
-    {
-      "code": "STADMIN",
-      "name": "State Dashboard Admin",
-      "description": "Dashboard Viewer"
-    },
-    {
-      "code": "ORG_ADMIN",
-      "name": "Organization admin",
-      "description": "CBO Admin"
     },
     {
       "code": "BILL_CREATOR",
@@ -108,24 +103,9 @@
       "description": "Bill Viewer"
     },
     {
-      "code": "BILL_VERIFIER",
-      "name": "BILL_VERIFIER",
-      "description": "Bill Verfier"
-    },
-    {
-      "code": "BILL_APPROVER",
-      "name": "BILL_APPROVER",
-      "description": "Bill Approver"
-    },
-    {
       "code": "EMPLOYEE_COMMON",
       "name": "Employee Common",
-      "description": "Common Role For all employee"
-    },
-    {	
-      "code": "ESTIMATE_VIEWER",	
-      "name": "ESTIMATE VIEWER",	
-      "description": "Estimate Viewer"	
+      "description": "Default role for all employees that need hrms search, edit profile, logout action"
     }
   ]
 }
