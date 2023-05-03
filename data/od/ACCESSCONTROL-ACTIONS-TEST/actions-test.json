@@ -1216,6 +1216,17 @@
       "serviceCode": "user",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 108,
+      "name": "Estimate Details PDF",
+      "url": "/egov-pdf/download/estimate/estimates",
+      "displayName": "Estimate PDF download",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
   ]
 }
