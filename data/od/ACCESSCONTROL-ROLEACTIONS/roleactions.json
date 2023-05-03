@@ -135,6 +135,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PROJECT_VIEWER",
+      "actionid": 99,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "ESTIMATE_CREATOR",
       "actionid": 9,
       "actioncode": "",
@@ -381,6 +387,24 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 110,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WORK_ORDER_VIEWER",
+      "actionid": 110,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WORK_ORDER_APPROVER",
+      "actionid": 110,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "MUKTA_ADMIN",
       "actionid": 91,
       "actioncode": "",
@@ -454,6 +478,18 @@
     },
     {
       "rolecode": "ORG_ADMIN",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 38,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
       "actionid": 38,
       "actioncode": "",
       "tenantId": "od"
@@ -573,8 +609,32 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 92,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "ORG_ADMIN",
       "actionid": 92,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 94,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 94,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_VIEWER",
+      "actionid": 91,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -608,7 +668,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+    {
       "rolecode": "MUSTER_ROLL_VERIFIER",
       "actionid": 104,
       "actioncode": "",
@@ -617,6 +677,24 @@
     {
       "rolecode": "MUKTA_ADMIN",
       "actionid": 105,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 92,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+      {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 93,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 94,
       "actioncode": "",
       "tenantId": "od"
     }
