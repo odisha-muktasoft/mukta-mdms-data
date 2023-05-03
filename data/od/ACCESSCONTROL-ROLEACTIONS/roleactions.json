@@ -697,6 +697,30 @@
       "actionid": 94,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MUKTA_ADMIN",
+      "actionid": 108,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 108,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VERIFIER",
+      "actionid": 108,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_APPROVER",
+      "actionid": 108,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
