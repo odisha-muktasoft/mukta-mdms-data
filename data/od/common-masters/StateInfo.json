@@ -9,7 +9,7 @@
       "bannerUrl": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/banner-bg.jpg",
       "logoUrl": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/mseva-white-logo.png",
       "logoUrlWhite": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/mukta-white-logo.png",
-      "statelogo":"https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/mseva-white-logo.png",
+      "statelogo":"https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
