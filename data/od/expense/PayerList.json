@@ -1,0 +1,20 @@
+{
+    "tenantId": "od",
+    "moduleName": "expense",
+    "PayerList": [
+      {
+        "id": "001",
+        "tenantId": "od.jatni",
+        "code": "od.jatni",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "002",
+        "tenantId": "od.dhenkanal",
+        "code": "od.dhenkanal",
+        "type": "ULB",
+        "active": true
+      }
+    ]
+}
