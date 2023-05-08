@@ -13,6 +13,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -27,6 +30,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -41,6 +47,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -55,6 +64,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -69,6 +81,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -83,6 +98,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -97,6 +115,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -111,6 +132,9 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
@@ -125,10 +149,13 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
-         {
+        {
             "module": "Mukta",
             "code": "Mukta",
             "active": true,
@@ -139,36 +166,45 @@
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
             ]
         },
         {
-           "module": "DSS",
-           "code": "DSS",
-           "active": true,
-           "order": 10,
-           "tenants": [
+            "module": "DSS",
+            "code": "DSS",
+            "active": true,
+            "order": 10,
+            "tenants": [
                 {
                     "code": "od.jatni"
                 },
                 {
                     "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
                 }
-           ]
-       },
+            ]
+        },
         {
-           "module": "Utilities",
-           "code": "Utilities",
-           "active": true,
-           "order": 11,
-           "tenants": [
-            {
-                "code": "od.jatni"
-            },
-            {
-                "code": "od.dhenkanal"
-            }
-           ]
-       }
+            "module": "Utilities",
+            "code": "Utilities",
+            "active": true,
+            "order": 11,
+            "tenants": [
+                {
+                    "code": "od.jatni"
+                },
+                {
+                    "code": "od.dhenkanal"
+                },
+                {
+                    "code": "od.testing"
+                }
+            ]
+        }
     ]
 }

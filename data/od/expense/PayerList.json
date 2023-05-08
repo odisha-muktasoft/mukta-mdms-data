@@ -15,6 +15,13 @@
         "code": "od.dhenkanal",
         "type": "ULB",
         "active": true
+      },
+      {
+        "id": "003",
+        "tenantId": "od.testing",
+        "code": "od.testing",
+        "type": "ULB",
+        "active": true
       }
     ]
 }
