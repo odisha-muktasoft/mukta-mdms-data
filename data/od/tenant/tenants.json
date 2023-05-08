@@ -116,6 +116,46 @@
       "contactNumber": "1800 121 6833",
       "pdfHeader": "OD_DHENKANAL_PDF_HEADER",
       "pdfContactDetails": "OD_DHENKANAL_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.testing",
+      "name": "Testing",
+      "description": "Testing Tenant",
+      "logoId": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
+      "imageId": "https://mukta-uat-bucket-s3.s3.ap-south-1.amazonaws.com/od/logo.jpeg",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "helpdesk.sujog@odisha.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "KH",
+        "districtName": "Khordha",
+        "districtTenantCode": "od.testing",
+        "regionName": "WATCO-II",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 85.7058693,
+        "latitude": 20.1703784,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "TE",
+        "regionCode": "",
+        "municipalityName": "Testing",
+        "ddrName": "Khordha"
+      },
+      "address": "Testing Municipality",
+      "pincode": [
+        752050
+      ],
+      "contactNumber": "1800 121 6833",
+      "pdfHeader": "OD_JATNI_PDF_HEADER",
+      "pdfContactDetails": "OD_JATNI_CONTACT_DETAILS"
     }
   ]
 }
