@@ -417,6 +417,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "ORG_VIEWER",
+      "actionid": 91,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MUKTA_ADMIN",
       "actionid": 64,
       "actioncode": "",
@@ -721,6 +727,79 @@
       "actionid": 108,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
+      "actionid": 109,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 109,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 109,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 111,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_VIEWER",
+      "actionid": 111,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_APPROVER",
+      "actionid": 111,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 113,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 114,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_VERIFIER",
+      "actionid": 114,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_VIEWER",
+      "actionid": 114,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 115,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 117,
+      "actioncode": "",
+      "tenantId": "od"
     }
+
   ]
 }
