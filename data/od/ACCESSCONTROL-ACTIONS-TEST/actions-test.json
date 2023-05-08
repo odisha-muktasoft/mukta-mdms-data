@@ -1227,6 +1227,125 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 109,
+      "name": "Calculator Estimate API",
+      "url": "/expense-calculator/v1/_estimate",
+      "parentModule": "expense-calculator",
+      "displayName": "Calculator Estimate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 110,
+      "name": "Calculate API",
+      "url": "/expense-calculator/v1/_calculate",
+      "parentModule": "expense-calculator",
+      "displayName": "Calculate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 111,
+      "name": "Work Order Pdf",
+      "url": "/egov-pdf/download/workOrder/work-order",
+      "displayName": "contract search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 112,
+      "name": "WMS search expense",
+      "url": "/wms/expense/_search",
+      "parentModule": "works-management-service",
+      "displayName": "WMS search expense",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "works-management-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 113,
+      "name": "Calculate API",
+      "url": "/expense-calculator/purchase/v1/_createbill",
+      "parentModule": "expense-calculator",
+      "displayName": "Calculate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 114,
+      "name": "Search Expense Calculate API",
+      "url": "/expense-calculator/v1/_search",
+      "parentModule": "expense-calculator",
+      "displayName": "Calculate Search API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 115,
+      "name": "Search Expense Bill PDF API",
+      "url": "/egov-pdf/bill/_search",
+      "parentModule": "expense-calculator",
+      "displayName": "Expense Bill PDF Search API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 116,
+      "name": "Generate Expense Bill PDF API",
+      "url": "/egov-pdf/bill/_generate",
+      "parentModule": "expense-calculator",
+      "displayName": "Expense Bill PDF generate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 117,
+      "name": "Generate Expense Bill PDF API",
+      "url": "/expense/payment/v1/_create",
+      "parentModule": "expense-calculator",
+      "displayName": "Expense Bill PDF generate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 118,
+      "name": "Calculate API",
+      "url": "/expense-calculator/purchase/v1/_updatebill",
+      "parentModule": "expense-calculator",
+      "displayName": "Calculate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
     }
-  ]
+    ]
 }
