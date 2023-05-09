@@ -1,6 +1,6 @@
 {
     "tenantId": "od",
-    "moduleName": "commonMuktaUiConfig",
+    "moduleName": "commonUiConfig",
     "SearchEstimateConfig": [
         {
             "label": "WORKS_SEARCH_ESTIMATES",
@@ -20,74 +20,20 @@
                 "search": {
                     "uiConfig": {
                         "headerStyle": null,
-                        "formClassName": "custom-both-clear-search",
                         "primaryLabel": "ES_COMMON_SEARCH",
                         "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
                         "minReqFields": 1,
-                        "showFormInstruction": "ESTIMATE_SEARCH_HINT",
                         "defaultValues": {
-                            "ward": "",
-                            "projectType": "",
-                            "projectName": "",
                             "estimateNumber": "",
-                            "wfStatus": "",
+                            "projectId": "",
+                            "department": "",
+                            "estimateStatus": "",
                             "fromProposalDate": "",
                             "toProposalDate": ""
                         },
                         "fields": [
                             {
-                                "label": "COMMON_WARD",
-                                "type": "locationdropdown",
-                                "isMandatory": false,
-                                "disable": false,
-                                "populators": {
-                                    "name": "ward",
-                                    "type": "ward",
-                                    "optionsKey": "name",
-                                    "defaultText": "COMMON_SELECT_WARD",
-                                    "selectedText": "COMMON_SELECTED",
-                                    "allowMultiSelect": false
-                                }
-                            },
-                            {
-                                "label": "WORKS_PROJECT_TYPE",
-                                "type": "dropdown",
-                                "isMandatory": false,
-                                "disable": false,
-                                "populators": {
-                                    "name": "projectType",
-                                    "optionsKey": "name",
-                                    "optionsCustomStyle": {
-                                        "top": "2.3rem"
-                                    },
-                                    "mdmsConfig": {
-                                        "masterName": "ProjectType",
-                                        "moduleName": "works",
-                                        "localePrefix": "COMMON_MASTERS"
-                                    }
-                                }
-                            },
-                            {
-                                "label": "ES_COMMON_PROJECT_NAME",
-                                "type": "text",
-                                "isMandatory": false,
-                                "disable": false,
-                                "preProcess": {
-                                    "convertStringToRegEx": [
-                                        "populators.validation.pattern"
-                                    ]
-                                },
-                                "populators": {
-                                    "name": "projectName",
-                                    "error": "PROJECT_PATTERN_ERR_MSG",
-                                    "validation": {
-                                        "pattern": "^[^\\$\"<>?\\\\~`!@$%^()+={}\\[\\]*:;“”‘’]{1,50}$",
-                                        "minlength": 2
-                                    }
-                                }
-                            },
-                            {
-                                "label": "ESTIMATE_ESTIMATE_NO",
+                                "label": "WORKS_ESTIMATE_ID",
                                 "type": "text",
                                 "isMandatory": false,
                                 "disable": false,
@@ -95,18 +41,47 @@
                                     "name": "estimateNumber",
                                     "error": "ESTIMATE_PATTERN_ERR_MSG",
                                     "validation": {
-                                        "pattern": "ES\/[0-9]+-[0-9]+\/[0-9]+",
+                                        "pattern": {},
                                         "minlength": 2
                                     }
                                 }
                             },
                             {
-                                "label": "CORE_COMMON_STATUS",
+                                "label": "WORKS_PROJECT_ID",
                                 "type": "text",
                                 "isMandatory": false,
                                 "disable": false,
                                 "populators": {
-                                    "name": "wfStatus"
+                                    "name": "projectId",
+                                    "error": "PROJECT_PATTERN_ERR_MSG",
+                                    "validation": {
+                                        "pattern": {},
+                                        "minlength": 2
+                                    }
+                                }
+                            },
+                            {
+                                "label": "WORKS_DEPARTMENT",
+                                "type": "dropdown",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "department",
+                                    "optionsKey": "name",
+                                    "mdmsConfig": {
+                                        "masterName": "Department",
+                                        "moduleName": "common-masters",
+                                        "localePrefix": "COMMON_MASTERS_DEPARTMENT"
+                                    }
+                                }
+                            },
+                            {
+                                "label": "WORKS_STATUS",
+                                "type": "text",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "estimateStatus"
                                 }
                             },
                             {
@@ -144,31 +119,28 @@
                     "uiConfig": {
                         "columns": [
                             {
-                                "label": "ESTIMATE_ESTIMATE_NO",
+                                "label": "WORKS_ESTIMATE_ID",
                                 "jsonPath": "estimateNumber",
                                 "additionalCustomization": true
                             },
                             {
-                                "label": "ES_COMMON_PROJECT_NAME",
-                                "jsonPath": "name"
+                                "label": "WORKS_PROJECT_ID",
+                                "jsonPath": "projectId"
                             },
                             {
-                                "label": "ES_COMMON_LOCATION",
-                                "additionalCustomization": true
+                                "label": "PROJECT_OWNING_DEPT",
+                                "jsonPath": "executingDepartment",
+                                "translate": true,
+                                "prefix": "COMMON_MASTERS_DEPARTMENT_"
                             },
                             {
-                                "label": "ESTIMATE_PREPARED_BY",
-                                "jsonPath": "additionalDetails.creator"
-                            },
-                            {
-                                "label": "CORE_COMMON_STATUS",
+                                "label": "WORKS_STATUS",
                                 "jsonPath": "wfStatus"
                             },
                             {
                                 "label": "WORKS_ESTIMATED_AMOUNT",
                                 "jsonPath": "estimateDetails",
-                                "additionalCustomization": true,
-                                "headerAlign": "right"
+                                "additionalCustomization": true
                             }
                         ],
                         "enableGlobalSearch": false,

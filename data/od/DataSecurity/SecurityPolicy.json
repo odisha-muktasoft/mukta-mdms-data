@@ -322,6 +322,50 @@
             "name": "aadhaarNumber",
             "jsonPath": "identifiers/*/identifierId",
             "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "BankAccountEncrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountHolderName",
+            "jsonPath": "accountHolderName",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "accountNumber",
+            "jsonPath": "accountNumber",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          }
+        ],
+        "roleBasedDecryptionPolicy": []
+      },
+      {
+        "model": "BankAccountDecrypt",
+        "uniqueIdentifier": {
+          "name": "id",
+          "jsonPath": "/id"
+        },
+        "attributes": [
+          {
+            "name": "accountHolderName",
+            "jsonPath": "accountHolderName",
+            "patternId": "001",
+            "defaultVisibility": "PLAIN"
+          },
+          {
+            "name": "accountNumber",
+            "jsonPath": "accountNumber",
+            "patternId": "001",
             "defaultVisibility": "MASKED"
         }],
         "roleBasedDecryptionPolicy": []
