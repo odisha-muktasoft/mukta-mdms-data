@@ -12,7 +12,7 @@
                         "inbox": {
                             "processSearchCriteria": {
                                 "businessService": [
-                                    "mukta-estimate"
+                                    "ESTIMATE"
                                 ],
                                 "moduleName": "estimate-service"
                             },
@@ -121,7 +121,7 @@
                                 },
                                 {
                                     "label": "ES_COMMON_PROJECT_NAME",
-                                    "jsonPath": "businessObject.project.name"
+                                    "jsonPath": "businessObject.additionalDetails.projectName"
                                 },
                                 {
                                     "label": "ESTIMATE_PREPARED_BY",
@@ -143,7 +143,8 @@
                                     "label": "WORKS_ESTIMATED_AMOUNT",
                                     "jsonPath": "businessObject.additionalDetails.totalEstimatedAmount",
                                     "additionalCustomization": true,
-                                    "key": "estimatedAmount"
+                                    "key": "estimatedAmount",
+                                    "headerAlign": "right"
                                 },
                                 {
                                     "label": "COMMON_SLA_DAYS",
@@ -165,7 +166,7 @@
                                 {
                                     "text": "ACTION_TEST_CREATE_ESTIMATE",
                                     "url": "/employee/project/search-project",
-                                    "roles": ["PROJECT_VIEWER","ESTIMATE_CREATOR"]
+                                    "roles": ["ESTIMATE_CREATOR"]
                                 },
                                 {
                                     "text": "ACTION_TEST_SEARCH_ESTIMATE",
@@ -236,20 +237,6 @@
                                         "type": "ward",
                                         "optionsKey": "i18nKey",
                                         "defaultText": "COMMON_SELECT_WARD",
-                                        "selectedText": "COMMON_SELECTED",
-                                        "allowMultiSelect": true
-                                    }
-                                },
-                                {
-                                    "label": "COMMON_LOCALITY",
-                                    "type": "locationdropdown",
-                                    "isMandatory": false,
-                                    "disable": false,
-                                    "populators": {
-                                        "name": "locality",
-                                        "type": "locality",
-                                        "optionsKey": "i18nKey",
-                                        "defaultText": "COMMON_SELECT_LOCALITY",
                                         "selectedText": "COMMON_SELECTED",
                                         "allowMultiSelect": true
                                     }

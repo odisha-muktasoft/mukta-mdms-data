@@ -1,12 +1,12 @@
 {
     "tenantId": "od",
-    "moduleName": "commonMuktaUiConfig",
+    "moduleName": "commonUiConfig",
     "InboxProjectConfig":[
         {
             "label": "ES_COMMON_INBOX",
             "type": "inbox",
             "apiDetails": {
-              "serviceName": "/project/v1/_search",
+              "serviceName": "/pms/project/v1/_search",
               "requestParam": {},
               "requestBody": {
                 "apiOperation": "SEARCH",
@@ -15,7 +15,7 @@
                 ]
               },
               "minParametersForSearchForm": 1,
-              "masterName": "commonMuktaUiConfig",
+              "masterName": "commonUiConfig",
               "moduleName": "ProjectInboxConfig",
               "tableFormJsonPath": "requestParam",
               "filterFormJsonPath": "requestBody.Projects[0]",

@@ -106,7 +106,7 @@
     {
       "id": 9,
       "name": "Create Estimate",
-      "url": "/estimate-service/estimate/v1/_create",
+      "url": "/estimate/v1/_create",
       "parentModule": "estimate-service",
       "displayName": "Create Estimate",
       "orderNumber": 0,
@@ -118,7 +118,7 @@
     {
       "id": 10,
       "name": "Search Estimate",
-      "url": "/estimate-service/estimate/v1/_search",
+      "url": "/estimate/v1/_search",
       "parentModule": "estimate-service",
       "displayName": "Search Estimate",
       "orderNumber": 0,
@@ -130,7 +130,7 @@
     {
       "id": 11,
       "name": "Update Estimate",
-      "url": "/estimate-service/estimate/v1/_update",
+      "url": "/estimate/v1/_update",
       "parentModule": "estimate-service",
       "displayName": "Update Estimate",
       "orderNumber": 0,
@@ -550,7 +550,7 @@
     {
       "id": 51,
       "name": "Create Project",
-      "url": "/pms/project/v1/_create",
+      "url": "/project/v1/_create",
       "parentModule": "project-management-system",
       "displayName": "Create Project",
       "orderNumber": 0,
@@ -562,7 +562,7 @@
     {
       "id": 52,
       "name": "Search Project",
-      "url": "/pms/project/v1/_search",
+      "url": "/project/v1/_search",
       "parentModule": "project-management-system",
       "displayName": "Search Project",
       "orderNumber": 0,
@@ -574,7 +574,7 @@
     {
       "id": 53,
       "name": "Update Project",
-      "url": "/pms/project/v1/_update",
+      "url": "/project/v1/_update",
       "parentModule": "project-management-system",
       "displayName": "Update Project",
       "orderNumber": 0,
@@ -738,7 +738,7 @@
     {
       "id": 66,
       "name": "Create Contract",
-      "url": "/contract-service/contract/v1/_create",
+      "url": "/contract/v1/_create",
       "parentModule": "contract-service",
       "displayName": "Create Contract",
       "orderNumber": 0,
@@ -750,7 +750,7 @@
     {
       "id": 67,
       "name": "Update Contract",
-      "url": "/contract-service/contract/v1/_update",
+      "url": "/contract/v1/_update",
       "parentModule": "contract-service",
       "displayName": "Update Contract",
       "orderNumber": 0,
@@ -762,7 +762,7 @@
     {
       "id": 68,
       "name": "Search Contract",
-      "url": "/contract-service/contract/v1/_search",
+      "url": "/contract/v1/_search",
       "parentModule": "contract-service",
       "displayName": "Create Contract",
       "orderNumber": 0,
@@ -1163,6 +1163,17 @@
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "works-management-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 103,
+      "name": "Estimate Pdf",
+      "url": "/egov-pdf/download/estimate/estimates",
+      "displayName": "estimates search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
     },
