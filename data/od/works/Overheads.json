@@ -25,31 +25,6 @@
       "isWorkOrderValue":true,
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
-    },
-    {
-      "id": "3",
-      "code": "REW",
-      "description": "Royalty on Earth Work",
-      "active": false,
-      "isAutoCalculated": false,
-      "type":"lumpsum",
-      "isWorkOrderValue": false,
-      "effectiveFrom": 1682164954037,
-      "effectiveTo": null
-    },
-
-    {
-      "id": "4",
-      "code": "TST",
-      "description": "Testing Overhead",
-      "active": true,
-      "isAutoCalculated": true,
-      "type": "lumpsum",
-      "value": "5000",
-      "isWorkOrderValue": true,
-      "effectiveFrom": 1682164954037,
-      "effectiveTo": null
     }
-
   ]
 }
