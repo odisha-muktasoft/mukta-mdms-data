@@ -248,7 +248,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-     {
+    {
       "rolecode": "ESTIMATE_VIEWER",
       "actionid": 103,
       "actioncode": "",
@@ -607,7 +607,7 @@
       "actionid": 94,
       "actioncode": "",
       "tenantId": "od"
-    }, 
+    },
     {
       "rolecode": "MUSTER_ROLL_APPROVER",
       "actionid": 104,
@@ -734,7 +734,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-      {
+    {
       "rolecode": "MUKTA_ADMIN",
       "actionid": 93,
       "actioncode": "",
@@ -815,6 +815,24 @@
     {
       "rolecode": "BILL_VIEWER",
       "actionid": 117,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
+      "actionid": 109,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 109,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 109,
       "actioncode": "",
       "tenantId": "od"
     }
