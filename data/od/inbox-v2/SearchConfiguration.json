@@ -26,7 +26,7 @@
         },
         {
           "name": "status",
-          "path": "Data.currentProcessInstance.state.applicationStatus.keyword",
+          "path": "Data.currentProcessInstance.state.state.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
@@ -100,7 +100,7 @@
         },
         {
           "name": "status",
-          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "path": "Data.currentProcessInstance.state.state.keyword",
           "isMandatory": false
         },
         {
@@ -227,7 +227,7 @@
         },
         {
           "name": "status",
-          "path": "Data.contractStatus.keyword",
+          "path": "Data.currentProcessInstance.state.state.keyword",
           "operator": "IN",
           "isMandatory": false
         },
@@ -429,12 +429,12 @@
         },
         {
           "name": "status",
-          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "path": "Data.currentProcessInstance.state.state.keyword",
           "isMandatory": false
         },
         {
           "name": "billType",
-          "path": "Data.businessservice.keyword",
+          "path": "Data.businessService.keyword",
           "operator": "IN",
           "isMandatory": false
         },
@@ -465,6 +465,17 @@
           "name": "ward",
           "path": "Data.additionalDetails.ward.keyword",
           "isMandatory": false
+        },
+        {
+          "name": "paymentStatus",
+          "path": "Data.paymentStatus.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "referenceId",
+          "path": "Data.referenceId.keyword",
+          "isMandatory": false,
+          "operator": "FUZZY"
         }
       ],
       "sortBy": {
@@ -479,10 +490,12 @@
         "Data.startDate",
         "Data.endDate",
         "Data.additionalDetails",
-        "Data.businessservice",
+        "Data.businessService",
         "Data.currentProcessInstance",
         "Data.auditDetails",
-        "Data.netPayableAmount"
+        "Data.totalAmount",
+        "Data.paymentStatus",
+        "Data.referenceId"
       ]
     }
   ]

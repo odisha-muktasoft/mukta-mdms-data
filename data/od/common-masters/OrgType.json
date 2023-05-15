@@ -44,7 +44,7 @@
     },
     {
       "code": "CBO.CLF",
-      "description": "Community Based Organization - Clustor Level Federation",
+      "description": "Community Based Organization - Community Level Federation",
       "parent": "CBO",
       "active": true,
       "effectiveFrom": 1677044852,

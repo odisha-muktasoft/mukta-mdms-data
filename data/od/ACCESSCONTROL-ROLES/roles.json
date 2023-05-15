@@ -18,6 +18,11 @@
       "description": "Role for the admin of any organization"
     },
     {
+      "code": "ORG_VIEWER",
+      "name": "Organization viewer",
+      "description": "Organization viewer"
+    },
+    {
       "code": "WORK_ORDER_CREATOR",
       "name": "WORK ORDER CREATOR",
       "description": "Creator of a contract"
@@ -103,6 +108,20 @@
       "description": "Bill Viewer"
     },
     {
+      "code": "BILL_APPROVER",
+      "name": "BILL_APPROVER",
+      "description": "Bill Approver"
+    },
+    {
+      "code": "BILL_VERIFIER",
+      "name": "BILL_VERIFIER",
+      "description": "Bill Verifier"
+    }, {
+      "code": "WORK_ORDER_VIEWER",
+      "name": "WORK_ORDER_VIEWER",
+      "description": "Workorder Viewer"
+    },
+    {
       "code": "EMPLOYEE_COMMON",
       "name": "Employee Common",
       "description": "Default role for all employees that need hrms search, edit profile, logout action"
@@ -116,11 +135,6 @@
       "code": "BILL_ACCOUNTANT",
       "name": "BILL_ACCOUNTANT",
       "description": "Bill Accountant"
-    },
-    {
-      "code": "ORG_VIEWER",
-      "name": "Organization viewer",
-      "description": "Organization viewer"
     }
   ]
 }
