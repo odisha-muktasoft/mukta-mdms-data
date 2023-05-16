@@ -48,7 +48,8 @@
         {
             "jsonPath": "addresses/*/address",
             "type": "Normal"
-        }]
+          }
+        ]
     },
     {
         "key": "UserSearchCriteria",
@@ -76,6 +77,8 @@
         {
             "jsonPath": "emailId",
             "type": "Normal"
-        }]
-    }]
+          }
+        ]
+      }
+    ]
 }

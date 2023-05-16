@@ -258,7 +258,6 @@
       "code": "null",
       "path": "Administration.Profile Update"
     },
-    
     {
       "id": 26,
       "name": "Update Password",
@@ -1188,7 +1187,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 105,
       "name": "MASTERS",
       "url": "url",
@@ -1230,17 +1229,6 @@
     },
     {
       "id": 108,
-      "name": "Estimate Details PDF",
-      "url": "/egov-pdf/download/estimate/estimates",
-      "displayName": "Estimate PDF download",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 109,
       "name": "Calculator Estimate API",
       "url": "/expense-calculator/v1/_estimate",
       "parentModule": "expense-calculator",
@@ -1252,7 +1240,7 @@
       "path": ""
     },
     {
-      "id": 110,
+      "id": 109,
       "name": "Calculate API",
       "url": "/expense-calculator/v1/_calculate",
       "parentModule": "expense-calculator",
@@ -1264,7 +1252,7 @@
       "path": ""
     },
     {
-      "id": 111,
+      "id": 110,
       "name": "Work Order Pdf",
       "url": "/egov-pdf/download/workOrder/work-order",
       "displayName": "contract search",
@@ -1275,7 +1263,7 @@
       "path": ""
     },
     {
-      "id": 112,
+      "id": 111,
       "name": "WMS search expense",
       "url": "/wms/expense/_search",
       "parentModule": "works-management-service",
@@ -1287,7 +1275,7 @@
       "path": ""
     },
     {
-      "id": 113,
+      "id": 112,
       "name": "Calculate API",
       "url": "/expense-calculator/purchase/v1/_createbill",
       "parentModule": "expense-calculator",
@@ -1299,7 +1287,7 @@
       "path": ""
     },
     {
-      "id": 114,
+      "id": 113,
       "name": "Search Expense Calculate API",
       "url": "/expense-calculator/v1/_search",
       "parentModule": "expense-calculator",
@@ -1311,7 +1299,7 @@
       "path": ""
     },
     {
-      "id": 115,
+      "id": 114,
       "name": "Search Expense Bill PDF API",
       "url": "/egov-pdf/bill/_search",
       "parentModule": "expense-calculator",
@@ -1323,7 +1311,7 @@
       "path": ""
     },
     {
-      "id": 116,
+      "id": 115,
       "name": "Generate Expense Bill PDF API",
       "url": "/egov-pdf/bill/_generate",
       "parentModule": "expense-calculator",
@@ -1335,7 +1323,7 @@
       "path": ""
     },
     {
-      "id": 117,
+      "id": 116,
       "name": "Generate Expense Bill PDF API",
       "url": "/expense/payment/v1/_create",
       "parentModule": "expense-calculator",
@@ -1347,7 +1335,7 @@
       "path": ""
     },
     {
-      "id": 118,
+      "id": 117,
       "name": "Calculate API",
       "url": "/expense-calculator/purchase/v1/_updatebill",
       "parentModule": "expense-calculator",
@@ -1357,6 +1345,112 @@
       "serviceCode": "expense-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 118,
+      "name": "Generate Expense Bill PDF API",
+      "url": "/expense/payment/v1/_update",
+      "parentModule": "expense-calculator",
+      "displayName": "Expense Bill PDF generate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    },   
+    {
+      "id": 119,
+      "name": "Generate Expense Bill PDF API",
+      "url": "/expense/payment/v1/_search",
+      "parentModule": "expense-calculator",
+      "displayName": "Expense Bill PDF generate API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense-calculator",
+      "code": "null",
+      "path": ""
+    }, 
+    {
+      "id": 120,
+      "name": "PAYMENT",
+      "url": "url",
+      "displayName": "PAYMENT Generate",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PAYMENT",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/search-bill",
+      "path": "5PAYMENT.GENERATEPAY",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 121,
+      "name": "PAYMENT",
+      "url": "url",
+      "displayName": "PAYMENT Download",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PAYMENT",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/download-bill",
+      "path": "5PAYMENT.DOWNLOADPAY",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 122,
+      "name": "BILLS",
+      "url": "url",
+      "displayName": "Bill Inbox",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/billinbox",
+      "path": "5BILLS.BillInbox",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 123,
+      "name": "BILLS",
+      "url": "url",
+      "displayName": "Bill Search",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/search-bill",
+      "path": "5BILLS.BillSearch",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 124,
+      "name": "BILLS",
+      "url": "url",
+      "displayName": "Bill Create",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/contracts/search-contract",
+      "path": "5BILLS.BillView",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 125,
+      "name": "Expense Search API",
+      "url": "/expense/bill/v1/_search",
+      "parentModule": "expense",
+      "displayName": "Expense Search API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "expense",
+      "code": "null",
+      "path": ""
     }
-    ]
+  ]  
 }
