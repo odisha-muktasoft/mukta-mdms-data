@@ -61,6 +61,10 @@
         {
           "label": "rainmaker-od",
           "value": "rainmaker-od"
+        },
+        {
+          "label": "rainmaker-ward-locality",
+          "value": "rainmaker-ward-locality"
         }
       ]
     }
