@@ -42,7 +42,7 @@
             "id": "4",
             "code": "TST",
             "description": "Testing Overhead",
-            "active": true,
+            "active": false,
             "isAutoCalculated": true,
             "type": "lumpsum",
             "value": "5000",
