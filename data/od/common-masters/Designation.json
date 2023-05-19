@@ -129,9 +129,15 @@
         "active": true
       },
       {
-        "code": "Tax",
+        "code": "Tax_WO",
         "name": "Ward Officer",
         "description": "Ward Officer",
+        "active": true
+      },
+      {
+        "code": "ADM_DEO",
+        "name": "Data Entry Operator",
+        "description": "Data Entry Operator",
         "active": true
       }
     ]
