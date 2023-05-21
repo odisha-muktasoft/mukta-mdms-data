@@ -256,7 +256,7 @@
               }
             ]
           },
-          "label": "Filter",
+          "label": "ES_COMMON_FILTER",
           "show": true
         }
       },
