@@ -17,8 +17,8 @@
             "code": "LC",
             "service": "works.purchase",
             "active": true,
-            "calculationType":"lumpsum",
-            "value":"1000",
+            "calculationType":"percentage",
+            "value":"1",
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
@@ -62,7 +62,7 @@
             "description": "GST TDS",
             "active": true,
             "calculationType":"percentage",
-            "value": "12",
+            "value": "2",
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
