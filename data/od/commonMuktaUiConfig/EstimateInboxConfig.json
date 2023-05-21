@@ -29,8 +29,8 @@
         "search": {
           "uiConfig": {
             "headerStyle": null,
-            "primaryLabel": "Search",
-            "secondaryLabel": "Clear Search",
+            "primaryLabel": "ES_COMMON_SEARCH",
+            "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
             "minReqFields": 1,
             "defaultValues": {
               "estimateNumber": "",
@@ -186,7 +186,7 @@
           "uiConfig": {
             "type": "filter",
             "headerStyle": null,
-            "primaryLabel": "Filter",
+            "primaryLabel": "ES_COMMON_FILTER",
             "secondaryLabel": "",
             "minReqFields": 0,
             "defaultValues": {
