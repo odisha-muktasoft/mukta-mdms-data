@@ -1026,7 +1026,8 @@
       "actionid": 115,
       "actioncode": "",
       "tenantId": "od"
-    },{
+    },
+    {
       "rolecode": "MUKTA_ADMIN",
       "actionid": 74,
       "actioncode": "",
