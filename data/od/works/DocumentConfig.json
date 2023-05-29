@@ -12,7 +12,7 @@
           "code": "PROJECT_PROPOSAL",
           "name" : "noSubProject_doc_project_proposal",
           "active": true,
-          "isMandatory": false,
+          "isMandatory": true,
           "showTextInput" : false,
           "allowedFileTypes": ["pdf","doc","docx","xlsx","xls","jpeg","jpg","png"],
           "maxSizeInMB": 5,
@@ -22,7 +22,7 @@
           "code": "FINALIZED_WORKLIST",
           "name" : "noSubProject_doc_finalized_worklist",
           "active": true,
-          "isMandatory": false,
+          "isMandatory": true,
           "showTextInput" : false,
           "allowedFileTypes": ["pdf","doc","docx","xlsx","xls","jpeg","jpg","png"],
           "maxSizeInMB": 5,
@@ -32,7 +32,7 @@
           "code": "FEASIBILITY_ANALYSIS",
           "name" : "noSubProject_doc_feasibility_analysis",
           "active": true,
-          "isMandatory": false,
+          "isMandatory": true,
           "showTextInput" : false,
           "allowedFileTypes": ["pdf","doc","docx","xlsx","xls","jpeg","jpg","png"],
           "maxSizeInMB": 5,
@@ -52,7 +52,7 @@
     },
     {
       "module": "Estimate",
-      "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+      "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
       "maxSizeInMB": 5,
       "bannerLabel": "ESTIMATE_UPLOAD_BANNER_TEXT",
       "documents": [
@@ -62,7 +62,7 @@
           "active": true,
           "isMandatory": true,
           "showTextInput" : false,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 1
         },
@@ -72,7 +72,7 @@
           "active": true,
           "isMandatory": true,
           "showTextInput" : false,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 1
         },
@@ -82,7 +82,7 @@
           "active": true,
           "isMandatory": true,
           "showTextInput" : false,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 1
         },
@@ -92,7 +92,7 @@
           "active": true,
           "isMandatory": false,
           "showTextInput" : false,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 1
         },
@@ -102,7 +102,7 @@
           "active": true,
           "isMandatory": false,
           "showTextInput" : true,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg"],
+          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 1
         }
