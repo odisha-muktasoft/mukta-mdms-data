@@ -29,7 +29,7 @@
             "description": "IT TDS",
             "active": true,
             "calculationType": "percentage",
-            "value": "10",
+            "value": "1",
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
