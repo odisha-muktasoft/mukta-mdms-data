@@ -272,7 +272,8 @@
                 "optionsKey": "i18nKey",
                 "error": "WORKS_REQUIRED_ERR",
                 "optionsCustomStyle": {
-                  "top": "2.3rem"
+                  "top": "2.3rem",
+                  "maxHeight": "370px"
                 },
                 "options": []
               }
@@ -293,7 +294,8 @@
                 "optionsKey": "i18nKey",
                 "error": "WORKS_REQUIRED_ERR",
                 "optionsCustomStyle": {
-                  "top": "2.3rem"
+                  "top": "2.3rem",
+                  "maxHeight": "309px"
                 },
                 "options": []
               }
