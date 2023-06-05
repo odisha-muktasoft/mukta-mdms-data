@@ -239,7 +239,7 @@
                 }
               },
               {
-                "label": "COMMON_WORKFLOW_STATES",
+                "label": "",
                 "type": "workflowstatesfilter",
                 "isMandatory": false,
                 "disable": false,
