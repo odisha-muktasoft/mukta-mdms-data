@@ -227,7 +227,7 @@
     {
       "templateCode": "sms.login.otp.msg",
       "templateId": "1007329030717590092",
-      "action": "sendOTPSMS",
+      "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     },
     {
@@ -239,7 +239,7 @@
     {
       "templateCode": "sms.pwd.reset.otp.msg",
       "templateId": "1007547883491871341",
-      "action": "sendOTPSMS",
+      "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     }
   ]
