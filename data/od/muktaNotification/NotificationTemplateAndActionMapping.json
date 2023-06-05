@@ -231,63 +231,15 @@
       "locale": "or_IN"
     },
     {
-      "templateCode": "",
-      "templateId": "1007118206615760717",
-      "action": "singleSMS",
+      "templateCode": "sms.pwd.reset.otp.msg",
+      "templateId": "1007620030534813049",
+      "action": "sendOTPSMS",
       "locale": "en_IN"
     },
     {
-      "templateCode": "",
-      "templateId": "1007901012549947122",
-      "action": "singlewithbulkunicodeSMS",
-      "locale": "or_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007666124633841565",
-      "action": "singleSMS",
-      "locale": "en_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007640295353091347",
-      "action": "singlewithbulkunicodeSMS",
-      "locale": "or_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007591982299676892",
-      "action": "singleSMS",
-      "locale": "en_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007209723898268863",
-      "action": "singlewithbulkunicodeSMS",
-      "locale": "or_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007790917061993395",
-      "action": "singleSMS",
-      "locale": "en_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007129773634783732",
-      "action": "singlewithbulkunicodeSMS",
-      "locale": "or_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007790917061993395",
-      "action": "singleSMS",
-      "locale": "en_IN"
-    },
-    {
-      "templateCode": "",
-      "templateId": "1007129773634783732",
-      "action": "singlewithbulkunicodeSMS",
+      "templateCode": "sms.pwd.reset.otp.msg",
+      "templateId": "1007547883491871341",
+      "action": "sendOTPSMS",
       "locale": "or_IN"
     }
   ]
