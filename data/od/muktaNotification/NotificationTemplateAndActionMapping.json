@@ -219,6 +219,18 @@
       "locale": "or_IN"
     },
     {
+      "templateCode": "sms.login.otp.msg",
+      "templateId": "1007729459862470872",
+      "action": "sendOTPSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "sms.login.otp.msg",
+      "templateId": "1007329030717590092",
+      "action": "sendOTPSMS",
+      "locale": "or_IN"
+    },
+    {
       "templateCode": "",
       "templateId": "1007118206615760717",
       "action": "singleSMS",
