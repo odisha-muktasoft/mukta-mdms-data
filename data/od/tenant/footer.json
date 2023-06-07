@@ -13,6 +13,42 @@
                 {
                     "disclaimer": "IA_CONDITION_2",
                     "order": "2."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_3",
+                    "order": "3."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_4",
+                    "order": "4."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_5",
+                    "order": "5."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_6",
+                    "order": "6."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_7",
+                    "order": "7."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_8",
+                    "order": "8."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_9",
+                    "order": "9."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_10",
+                    "order": "2."
+                },
+                {
+                    "disclaimer": "IA_CONDITION_11",
+                    "order": "11."
                 }
             ]
         },
