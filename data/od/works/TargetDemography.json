@@ -4,8 +4,8 @@
     "TargetDemography": [
           {
             "code": "SM",
-            "name": "Slum",
-            "description": "Slum", 
+            "name": "Slum Area",
+            "description": "Slum Area", 
             "effectiveFrom": 1676875575195,
             "effectiveTo": null,
             "active": true
@@ -30,6 +30,14 @@
             "code": "MN",
             "name": "Area inhabited by Minorities",
             "description": "Area inhabited by Minorities", 
+            "effectiveFrom": 1676875575195,
+            "effectiveTo": null,
+            "active": true
+          },
+          {
+            "code": "NSM",
+            "name": "Non Slum Area",
+            "description": "Non Slum Area", 
             "effectiveFrom": 1676875575195,
             "effectiveTo": null,
             "active": true
