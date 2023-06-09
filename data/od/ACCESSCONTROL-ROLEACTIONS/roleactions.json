@@ -1056,6 +1056,24 @@
       "actionid": 59,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "PROJECT_CREATOR",
+      "actionid": 88,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PROJECT_VIEWER",
+      "actionid": 88,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 55,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
