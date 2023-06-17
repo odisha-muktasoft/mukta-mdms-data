@@ -38,6 +38,18 @@
       "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     },
+      {
+      "templateCode": "CONTRACTS_NOTIFICATION_TO_CREATOR_WORKFLOW_APPROVE_ACTION",
+      "templateId": "1007202086274341590",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "CONTRACTS_NOTIFICATION_TO_CREATOR_WORKFLOW_APPROVE_ACTION",
+      "templateId": "1007968812089738982",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
     {
       "templateCode": "MUSTER_ROLL_CBO_NOTIFICATION_FOR_CORRECTION",
       "templateId": "1007872770235530151",
