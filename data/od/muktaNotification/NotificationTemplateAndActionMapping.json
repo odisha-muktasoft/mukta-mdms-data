@@ -136,7 +136,7 @@
     },
     {
       "templateCode": "INDIVIDUAL_NOTIFICATION_ON_CREATE",
-      "templateId": "1007925866336668287",
+      "templateId": "1007024654573629044",
       "action": "singleSMS",
       "locale": "en_IN"
     },
