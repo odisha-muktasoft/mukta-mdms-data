@@ -195,14 +195,14 @@
       "locale": "or_IN"
     },
     {
-      "templateCode": "hrms.employee.create.notification",
-      "templateId": "1007925866336668287",
+      "templateCode": "CONTRACTS_NOTIFICATION_TO_CREATOR_WORKFLOW_ACCEPT_ACTION",
+      "templateId": "1007697091380541113",
       "action": "singleSMS",
       "locale": "en_IN"
     },
     {
-      "templateCode": "hrms.employee.create.notification",
-      "templateId": "1007194454278897474",
+      "templateCode": "CONTRACTS_NOTIFICATION_TO_CREATOR_WORKFLOW_ACCEPT_ACTION",
+      "templateId": "1007455275390753183",
       "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     },
