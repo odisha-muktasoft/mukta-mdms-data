@@ -21,7 +21,7 @@
       "locale": "en_IN"
     },
     {
-      "templateCode": "CONTRACTS_NOTIFICATION_WORKFLOW_REJECT_ACTION",
+      "templateCode": "CONTRACTS_NOTIFICATION_TO_CBOADMIN_WORKFLOW_APPROVE_ACTION",
       "templateId": "1007553237067533780",
       "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
