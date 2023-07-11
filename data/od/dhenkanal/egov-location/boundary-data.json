@@ -471,17 +471,6 @@
             "children": []
           },
           {
-            "id": 279,
-            "boundaryNum": 1,
-            "name": "Ward 13",
-            "localname": "Ward13",
-            "longitude": null,
-            "latitude": null,
-            "label": "Ward",
-            "code": "W0013",
-            "children": []
-          },
-          {
             "id": 280,
             "boundaryNum": 1,
             "name": "Ward 14",
