@@ -280,24 +280,16 @@
             },
             {
               "label": "COMMON_LOCALITY",
+              "type": "apidropdown",
               "isMandatory": true,
-              "key": "locDetails_locality",
-              "type": "radioordropdown",
               "disable": false,
-              "preProcess": {
-                "updateDependent": [
-                  "populators.options"
-                ]
-              },
               "populators": {
                 "name": "locDetails_locality",
                 "optionsKey": "i18nKey",
-                "error": "WORKS_REQUIRED_ERR",
-                "optionsCustomStyle": {
-                  "top": "2.3rem",
-                  "maxHeight": "309px"
-                },
-                "options": []
+                "allowMultiSelect": false,
+                "url": "/egov-location/location/v11/boundarys/_search",
+                "params": { "hierarchyTypeCode" : "ADMIN", "boundaryType": "locality" },
+                "selectFun": "return data?.TenantBoundary[0]?.boundary?.map(item => ({ code: item.code, name: item.name, i18nKey: `${headerLocale}_ADMIN_${item?.code}` }))"
               }
             },
             {
