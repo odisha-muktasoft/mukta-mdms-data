@@ -1164,6 +1164,24 @@
       "actionid": 128,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 129,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 79,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 80,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
