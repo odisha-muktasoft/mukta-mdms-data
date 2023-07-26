@@ -101,7 +101,7 @@
               },
               "populators": {
                 "name": "basicDetails_dateOfIncorporation",
-                "error": "WORKS_REQUIRED_ERR",
+                "error": "ORG_VALIDATION_ERROR_DEPT",
                 "validation":{
                   "max":"currentDate"
                 }
