@@ -86,7 +86,7 @@
                 "name": "basicDetails_projectDesc",
                 "error": "PROJECT_PATTERN_ERR_MSG_PROJECT_DESC",
                 "validation": {
-                  "pattern": "^[a-zA-Z0-9\\/{ \\/ .\\- ,_$@#\\'() } ]*$",
+                  "pattern": "^[a-zA-Z0-9\\/{ \\/ .\\- ,:_$@#\\'() } ]*$",
                   "minlength": 2,
                   "maxlength" : 256
                 }
@@ -193,10 +193,24 @@
           "head": "ES_COMMON_LOCATION_DETAILS",
           "body": [
             {
-              "type": "component",
-              "component": "SelectGeoLocation",
-              "withoutLabel": true,
-              "key": "noSubProject_geoLocation"
+              "inline": true,
+              "label": "WORKS_GEO_LOCATION",
+              "isMandatory": true,
+              "key": "noSubProject_geoLocation",
+              "type": "text",
+              "disable": false,
+              "preProcess": {
+                "convertStringToRegEx": [
+                  "populators.validation.pattern"
+                ]
+              },
+              "populators": {
+                "name": "noSubProject_geoLocation",
+                "error": "COMMON_ENTER_VALID_GEO_LOCATION",
+                "validation": {
+                  "pattern": "^[-+]?([1-8]?\\d(\\.\\d+)?|90(\\.0+)?)\\s*,\\s*[-+]?(180(\\.0+)?|((1[0-7]\\d)|([1-9]?\\d))(\\.\\d+)?)$"
+                }
+              }
             },
             {
               "isMandatory": false,
@@ -242,27 +256,19 @@
                 "options": []
               }
             },
-            {
-              "isMandatory": true,
-              "key": "noSubProject_locality",
-              "type": "radioordropdown",
+             {
               "label": "WORKS_LOCALITY",
+              "type": "apidropdown",
+              "isMandatory": false,
               "disable": false,
-              "preProcess": {
-                "updateDependent": [
-                  "populators.options"
-                ]
-              },
               "populators": {
                 "name": "noSubProject_locality",
                 "optionsKey": "i18nKey",
-                "error": "WORKS_REQUIRED_ERR",
-                "required": false,
-                "optionsCustomStyle": {
-                  "top": "2.5rem"
-                },
-                "options": []
-              }
+                "allowMultiSelect": false,
+                "url": "/egov-location/location/v11/boundarys/_search",
+                "params": { "hierarchyTypeCode" : "ADMIN", "boundaryType": "locality" },
+                "selectFun": "return data?.TenantBoundary[0]?.boundary?.map(item => ({ code: item.code, name: item.name, i18nKey: `${headerLocale}_ADMIN_${item?.code}` }))"
+               }
             }
           ]
         },
