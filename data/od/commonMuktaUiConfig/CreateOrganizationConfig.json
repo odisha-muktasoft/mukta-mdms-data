@@ -289,6 +289,10 @@
                 "allowMultiSelect": false,
                 "url": "/egov-location/location/v11/boundarys/_search",
                 "params": { "hierarchyTypeCode" : "ADMIN", "boundaryType": "locality" },
+                "optionsCustomStyle": {
+                  "top": "2.3rem",
+                  "maxHeight": "300px"
+                },
                 "selectFun": "return data?.TenantBoundary[0]?.boundary?.map(item => ({ code: item.code, name: item.name, i18nKey: `${headerLocale}_ADMIN_${item?.code}` }))"
               }
             },
