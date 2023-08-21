@@ -131,36 +131,18 @@
                       "type": "date",
                       "isMandatory": false,
                       "disable": false,
-                      "key":"createdFrom",
-                      "preProcess" : {
-                        "updateDependent" : ["populators.max"]
-                      },
                       "populators": {
-                        "name": "createdFrom",
-                        "error": "DATE_VALIDATION_MSG",
-                        "max" : "currentDate"
-                      },
-                        "additionalValidation": {
-                          "type": "date",
-                          "keys": {
-                            "start": "createdFrom",
-                            "end": "createdTo"
-                          }
-                        }
+                        "name": "createdFrom"
+                      }
                     },
                     {
                       "label": "CREATED_TO_DATE",
                       "type": "date",
                       "isMandatory": false,
                       "disable": false,
-                       "key":"createdTo",
-                        "preProcess" : {
-                          "updateDependent" : ["populators.max"]
-                        },
                       "populators": {
                         "name": "createdTo",
-                        "error": "DATE_VALIDATION_MSG",
-                        "max" : "currentDate"
+                        "error": "DATE_VALIDATION_MSG"
                       },
                       "additionalValidation": {
                         "type": "date",
