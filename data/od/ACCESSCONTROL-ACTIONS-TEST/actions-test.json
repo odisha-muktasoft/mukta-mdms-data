@@ -1537,7 +1537,7 @@
       "serviceCode": "PAYMENTINSTRUCTION",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
-      "path": "PAYMENTINSTRUCTION.PAYMENTINSTRUCTION",
+      "path": "5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
       "leftIcon": "dynamic:ExpenditureIcon"
     }
   ]  
