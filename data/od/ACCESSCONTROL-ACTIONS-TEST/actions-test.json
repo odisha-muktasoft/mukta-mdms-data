@@ -1383,7 +1383,7 @@
       "serviceCode": "expense-calculator",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 120,
       "name": "PAYMENT",
@@ -1391,7 +1391,21 @@
       "displayName": "PAYMENT Generate",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
+      "serviceCode": "PAYMENT",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/search-bill?status=APPROVED",
+      "path": "5PAYMENT.GENERATEPAY",
+      "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 120,
+      "name": "PAYMENT",
+      "url": "url",
+      "displayName": "PAYMENT Generate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
       "serviceCode": "PAYMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill?status=APPROVED",
@@ -1405,7 +1419,7 @@
       "displayName": "PAYMENT Download",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PAYMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/download-bill",
@@ -1525,6 +1539,20 @@
       "serviceCode": "ifms-adapter",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 131,
+      "name": "PAYMENTINSTRUCTION",
+      "url": "url",
+      "displayName": "PAYMENT INSTRUCTION",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "PAYMENTINSTRUCTION",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
+      "path": "PAYMENTINSTRUCTION.PAYMENTINSTRUCTION",
+      "leftIcon": "dynamic:ExpenditureIcon"
     }
   ]  
 }
