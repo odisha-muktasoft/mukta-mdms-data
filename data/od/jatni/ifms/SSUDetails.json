@@ -4,11 +4,11 @@
     "SSUDetails": [
       {
         "id": "1",
-        "ssuCode": "OLSHUD001",
+        "ssuCode": "",
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0016",
         "granteeName": "JATNI MUNICIPALITY",
-        "ssuId": "1621",
+        "ssuId": "",
         "ssuOffice": "angul_op",
         "effectiveFrom": 1682164954037,
         "effectiveTo": null,
