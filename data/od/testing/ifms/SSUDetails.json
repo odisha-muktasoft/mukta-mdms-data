@@ -5,14 +5,14 @@
       {
         "id": "1",
         "ssuCode": "",
-        "ddoCode": "OLSHUD001",
-        "granteeAgCode": "GOHUDULBMPL0036",
-        "granteeName": "ANGUL MUNICIPALITY",
+        "ddoCode": "",
+        "granteeAgCode": "",
+        "granteeName": "",
         "ssuId": "",
-        "ssuOffice": "angul_op",
+        "ssuOffice": "",
         "effectiveFrom": 1682164954037,
         "effectiveTo": null,
-        "active": true
+        "active": false
       }
     ]
   }
