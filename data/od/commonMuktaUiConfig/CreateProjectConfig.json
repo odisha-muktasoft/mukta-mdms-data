@@ -259,7 +259,7 @@
              {
               "label": "WORKS_LOCALITY",
               "type": "apidropdown",
-              "isMandatory": false,
+              "isMandatory": true,
               "disable": false,
               "populators": {
                 "name": "noSubProject_locality",
