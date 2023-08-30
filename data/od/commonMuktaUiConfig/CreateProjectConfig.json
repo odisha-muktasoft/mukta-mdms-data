@@ -264,6 +264,8 @@
               "populators": {
                 "name": "noSubProject_locality",
                 "optionsKey": "i18nKey",
+                "error": "WORKS_REQUIRED_ERR",
+                "required": true,
                 "allowMultiSelect": false,
                 "url": "/egov-location/location/v11/boundarys/_search",
                 "params": { "hierarchyTypeCode" : "ADMIN", "boundaryType": "locality" },
