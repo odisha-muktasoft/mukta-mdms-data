@@ -140,6 +140,11 @@
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "CITIZEN",
+      "name": "Citizen",
+      "description": "Default role for citizen"
     }
   ]
 }
