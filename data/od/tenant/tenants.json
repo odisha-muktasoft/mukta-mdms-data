@@ -128,6 +128,50 @@
       "contactNumber": "9438120410/8984387997",
       "pdfHeader": "OD_DHENKANAL_PDF_HEADER",
       "pdfContactDetails": "OD_DHENKANAL_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.testing",
+      "name": "Testing",
+      "description": "Testing Tenant",
+      "logoId": "https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/logo.jpeg",
+      "imageId": "https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta-uat.digit.org/mukta-uat-bucket-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "Muktaodisha1@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "TE",
+        "districtName": "Testing",
+        "districtTenantCode": "od.testing",
+        "regionName": "WATCO-II",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 85.7058693,
+        "latitude": 20.1703784,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "TE",
+        "regionCode": "",
+        "municipalityName": "Testing",
+        "ddrName": "Testing"
+      },
+      "address": "Testing Municipality",
+      "pincode": [
+        752050
+      ],
+      "contactNumber": "9438120410/8984387997",
+      "pdfHeader": "OD_TESTING_PDF_HEADER",
+      "pdfContactDetails": "OD_TESTING_CONTACT_DETAILS"
     }
   ]
 }
