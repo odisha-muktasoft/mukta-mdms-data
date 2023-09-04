@@ -150,8 +150,8 @@
       "city": {
         "name": "Testing",
         "localName": "Testing",
-        "districtCode": "KH",
-        "districtName": "Khordha",
+        "districtCode": "TE",
+        "districtName": "Testing",
         "districtTenantCode": "od.testing",
         "regionName": "WATCO-II",
         "ulbGrade": "Municipality",
@@ -163,15 +163,15 @@
         "code": "TE",
         "regionCode": "",
         "municipalityName": "Testing",
-        "ddrName": "Khordha"
+        "ddrName": "Testing"
       },
       "address": "Testing Municipality",
       "pincode": [
         752050
       ],
       "contactNumber": "9438120410/8984387997",
-      "pdfHeader": "OD_JATNI_PDF_HEADER",
-      "pdfContactDetails": "OD_JATNI_CONTACT_DETAILS"
+      "pdfHeader": "OD_TESTING_PDF_HEADER",
+      "pdfContactDetails": "OD_TESTING_CONTACT_DETAILS"
     }
   ]
 }
