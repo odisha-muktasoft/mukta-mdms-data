@@ -253,6 +253,42 @@
       "templateId": "1007547883491871341",
       "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_SEND_BACK_TO_CBO",
+      "templateId": "1007942951701049051",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_SEND_BACK_TO_CBO",
+      "templateId": "1007254555564064556",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_REJECT",
+      "templateId": "1007000522814211144",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_REJECT",
+      "templateId": "1007236444303677730",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_APPROVE",
+      "templateId": "1007028601064792419",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "TIME_EXTENSION_APPROVE",
+      "templateId": "1007369252451952756",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
     }
   ]
 }
