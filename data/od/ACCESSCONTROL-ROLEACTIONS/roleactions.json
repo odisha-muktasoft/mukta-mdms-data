@@ -1206,6 +1206,12 @@
       "actionid": 131,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 66,
+      "actioncode": "",
+      "tenantId": "od"
+    }    
   ]
 }
