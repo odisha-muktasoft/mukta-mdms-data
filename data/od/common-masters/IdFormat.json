@@ -77,6 +77,10 @@
     {
       "format": "BNUAT-[CITY.CODE]/[SEQ_IFMS_BENEFICIARY_NUMBER]",
       "idname": "ifms.benef.reference.number"
+    },
+    {
+      "format": "RW/[fy:yyyy-yy]/[SEQ_CONT_SUPPLEMENT_NUM]",
+      "idname": "contract.supplement.number"
     }
   ]
 }
