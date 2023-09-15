@@ -44,11 +44,15 @@
                 },
                 {
                     "disclaimer": "IA_CONDITION_10",
-                    "order": "2."
+                    "order": "10."
                 },
                 {
                     "disclaimer": "IA_CONDITION_11",
                     "order": "11."
+                },
+                 {
+                    "disclaimer": "IA_CONDITION_12",
+                    "order": "12."
                 }
                 
             ]
@@ -95,11 +99,15 @@
                 },
                 {
                     "disclaimer": "IP_CONDITION_10",
-                    "order": "2."
+                    "order": "10."
                 },
                 {
                     "disclaimer": "IP_CONDITION_11",
                     "order": "11."
+                },
+                {
+                    "disclaimer": "IP_CONDITION_12",
+                    "order": "12."
                 }
             ]
         },
