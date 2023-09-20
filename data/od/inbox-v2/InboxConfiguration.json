@@ -154,6 +154,12 @@
           "isMandatory": true,
           "operator": "EQUAL"
         },
+	      {
+          "name": "revisedWorkOrderNumber",
+          "path": "Data.supplementNumber.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
         {
           "name": "status",
           "path": "Data.currentProcessInstance.state.uuid.keyword",
