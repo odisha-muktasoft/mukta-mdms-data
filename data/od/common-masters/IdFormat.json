@@ -71,11 +71,11 @@
       "idname": "wage.reference.number"
     },
     {
-      "format": "PIUAT-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_IFMS_PAYMENT_INSTRUCTION_NUMBER]",
+      "format": "PI-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_IFMS_PAYMENT_INSTRUCTION_NUMBER]",
       "idname": "ifms.pi.reference.number"
     },
     {
-      "format": "BNUAT-[CITY.CODE]/[SEQ_IFMS_BENEFICIARY_NUMBER]",
+      "format": "BN-[CITY.CODE]/[SEQ_IFMS_BENEFICIARY_NUMBER]",
       "idname": "ifms.benef.reference.number"
     },
     {

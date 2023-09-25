@@ -4,12 +4,12 @@
     "SSUDetails": [
       {
         "id": "1",
-        "ssuCode": "OLSHUD001",
+        "ssuCode": "",
         "ddoCode": "OLSHUD001",
-        "granteeAgCode": "GOHUDULBMPL0036",
-        "granteeName": "ANGUL MUNICIPALITY",
-        "ssuId": "1621",
-        "ssuOffice": "angul_op",
+        "granteeAgCode": "GOHUDULBMPL0013",
+        "granteeName": "DHENKANAL MUNICIPALITY",
+        "ssuId": "",
+        "ssuOffice": "",
         "effectiveFrom": 1682164954037,
         "effectiveTo": null,
         "active": true

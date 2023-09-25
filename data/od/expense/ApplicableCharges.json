@@ -45,17 +45,6 @@
             "effectiveTo": null
         },
         {
-            "id": "22",
-            "code": "ECB",
-            "service": "works.purchase",
-            "description": "Empty Cement Bag",
-            "active": true,
-            "calculationType":"lumpsum",
-            "value": null,
-            "effectiveFrom": 1682164954037,
-            "effectiveTo": null
-        },
-        {
             "id": "23",
             "service": "works.purchase",
             "code": "GSTTDS",
