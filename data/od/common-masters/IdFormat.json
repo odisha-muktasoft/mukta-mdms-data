@@ -77,6 +77,10 @@
     {
       "format": "BN-[CITY.CODE]/[SEQ_IFMS_BENEFICIARY_NUMBER]",
       "idname": "ifms.benef.reference.number"
+    },
+    {
+      "format": "TE/[fy:yyyy-yy]/[SEQ_CONT_SUPPLEMENT_NUM]",
+      "idname": "contract.supplement.number"
     }
   ]
 }
