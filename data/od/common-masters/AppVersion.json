@@ -3,7 +3,7 @@
     "moduleName": "common-masters",
     "AppVersion": [
         {
-            "version": "1.1.1",
+            "version": "1.1.2",
             "packageName": "com.works.shg.works_shg_app",
             "iOSId": "1614373650"
         }
