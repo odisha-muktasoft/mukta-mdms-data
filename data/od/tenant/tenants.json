@@ -193,7 +193,7 @@
       },
       "city": {
         "name": "Balangir",
-        "localName": "Balangir",
+        "localName": "",
         "districtCode": "BL",
         "districtName": "Balangir",
         "districtTenantCode": "od.balangir",
@@ -216,6 +216,138 @@
       "contactNumber": "6652232790",
       "pdfHeader": "OD_BALANGIR_PDF_HEADER",
       "pdfContactDetails": "OD_BALANGIR_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.balasore",
+      "name": "Balasore",
+      "description": "Balasore",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://x.com/balasoremunici1?t=VHsPwbQpIPGaVlgglIsaRQ&s=09",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100013066004770",
+      "emailId": "balasoremunicipality@rediffmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Balasore",
+        "localName": "",
+        "districtCode": "BS",
+        "districtName": "Balasore",
+        "districtTenantCode": "od.balasore",
+        "regionName": "",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 86.945157,
+        "latitude": 21.488711,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BA",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Balasore"
+      },
+      "address": "Balasore Municipality,Golapokhari,Balasore",
+      "pincode": [
+        756003
+      ],
+      "contactNumber": "6782251267",
+      "pdfHeader": "OD_BALASORE_PDF_HEADER",
+      "pdfContactDetails": "OD_BALASORE_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.padampur",
+      "name": "Padampur",
+      "description": "Padampur",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/PadampurN",
+      "facebookUrl": "https://www.facebook.com/profile.php?id=100013070353271&mibextid=ZbWKwL",
+      "emailId": "nac.padampur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Padampur",
+        "localName": "",
+        "districtCode": "BR",
+        "districtName": "Bargarh",
+        "districtTenantCode": "od.padampur",
+        "regionName": "",
+        "ulbGrade": "Notified Area Council",
+        "ulbType": "Notified Area Council",
+        "longitude": 83.067524,
+        "latitude": 21.000426,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "PA",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Bargarh"
+      },
+      "address": "Near Kacheri, Ward No-05",
+      "pincode": [
+        768036
+      ],
+      "contactNumber": "8114365265",
+      "pdfHeader": "OD_PADAMPUR_PDF_HEADER",
+      "pdfContactDetails": "OD_PADAMPUR_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.bhadrak",
+      "name": "Bhadrak",
+      "description": "Bhadrak",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/eobdkmunicipal",
+      "facebookUrl": "https://www.facebook.com/EO.bhadrakmunicipality",
+      "emailId": "bhadrakm.hud@nic.in ",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bhadrak",
+        "localName": "",
+        "districtCode": "BH",
+        "districtName": "Bhadrak",
+        "districtTenantCode": "od.bhadrak",
+        "regionName": "",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 86.498469,
+        "latitude": 21.057842,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BK",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Bhadrak"
+      },
+      "address": "Executive Officer, Bhadrak Municipality, At-Kacheri Bazar, Po-Bhadrak,  Dist.-Bhadrak, Pin-756100",
+      "pincode": [
+        756100
+      ],
+      "contactNumber": "6784251221",
+      "pdfHeader": "OD_BHADRAK_PDF_HEADER",
+      "pdfContactDetails": "OD_BHADRAK_CONTACT_DETAILS"
     }
   ]
 }
