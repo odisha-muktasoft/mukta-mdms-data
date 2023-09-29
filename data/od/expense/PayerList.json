@@ -29,6 +29,27 @@
         "code": "od.balangir",
         "type": "ULB",
         "active": true
+      },
+      {
+        "id": "005",
+        "tenantId": "od.balasore",
+        "code": "od.balasore",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "006",
+        "tenantId": "od.padampur",
+        "code": "od.padampur",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "007",
+        "tenantId": "od.bhadrak",
+        "code": "od.bhadrak",
+        "type": "ULB",
+        "active": true
       }
     ]
 }
