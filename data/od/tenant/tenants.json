@@ -172,6 +172,50 @@
       "contactNumber": "9438120410/8984387997",
       "pdfHeader": "OD_TESTING_PDF_HEADER",
       "pdfContactDetails": "OD_TESTING_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.balangir",
+      "name": "Balangir",
+      "description": "Balangir",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/Mun_Balangir",
+      "facebookUrl": "https://www.facebook.com/BalangirM/",
+      "emailId": "bgrmc1972@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Balangir",
+        "localName": "Balangir",
+        "districtCode": "BL",
+        "districtName": "Balangir",
+        "districtTenantCode": "od.balangir",
+        "regionName": "",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 83.48762,
+        "latitude": 20.704515,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BN",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Balangir"
+      },
+      "address": "At-Near Rajendra Park  PO/Dist-Balangir, PIN-767001",
+      "pincode": [
+        767001
+      ],
+      "contactNumber": "6652232790",
+      "pdfHeader": "OD_BALANGIR_PDF_HEADER",
+      "pdfContactDetails": "OD_BALANGIR_CONTACT_DETAILS"
     }
   ]
 }
