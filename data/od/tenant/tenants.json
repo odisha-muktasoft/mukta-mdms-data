@@ -284,7 +284,7 @@
         "localName": "",
         "districtCode": "BR",
         "districtName": "Bargarh",
-        "districtTenantCode": "od.padampur",
+        "districtTenantCode": "od.bargarh",
         "regionName": "",
         "ulbGrade": "Notified Area Council",
         "ulbType": "Notified Area Council",
@@ -319,7 +319,7 @@
       "type": "CITY",
       "twitterUrl": "https://twitter.com/eobdkmunicipal",
       "facebookUrl": "https://www.facebook.com/EO.bhadrakmunicipality",
-      "emailId": "bhadrakm.hud@nic.in ",
+      "emailId": "bhadrakm.hud@nic.in",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -348,6 +348,226 @@
       "contactNumber": "6784251221",
       "pdfHeader": "OD_BHADRAK_PDF_HEADER",
       "pdfContactDetails": "OD_BHADRAK_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.boudhgarh",
+      "name": "Boudhgarh",
+      "description": "Boudhgarh",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/BoudhgarhNac",
+      "facebookUrl": "https://www.facebook.com/BoudhgarhNac",
+      "emailId": "boudhgarhnac@yahoo.co.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Boudhgarh",
+        "localName": "",
+        "districtCode": "BO",
+        "districtName": "Boudh",
+        "districtTenantCode": "od.boudh",
+        "regionName": "",
+        "ulbGrade": "Notified Area Council",
+        "ulbType": "Notified Area Council",
+        "longitude": 84.322734,
+        "latitude": 20.837557,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BG",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Boudh"
+      },
+      "address": "Near NAC Chowk, Baudhgarh, Odisha",
+      "pincode": [
+        762014
+      ],
+      "contactNumber": "6841222024",
+      "pdfHeader": "OD_BOUDHGARH_PDF_HEADER",
+      "pdfContactDetails": "OD_BOUDHGARH_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.cuttack",
+      "name": "Cuttack",
+      "description": "Cuttack",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/CMCCuttack",
+      "facebookUrl": "http://www.facebook.com/CMCCuttack",
+      "emailId": "mccmc@nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Cuttack",
+        "localName": "",
+        "districtCode": "CT",
+        "districtName": "Cuttack",
+        "districtTenantCode": "od.cuttack",
+        "regionName": "",
+        "ulbGrade": "Municipal Corporation",
+        "ulbType": "Municipal Corporation",
+        "longitude": 85.868743,
+        "latitude": 20.463625,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "CC",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Cuttack"
+      },
+      "address": "FV4J+7F2, Jagannath Ln, Badambadi Colony, Cuttack, Odisha 753012",
+      "pincode": [
+        753012
+      ],
+      "contactNumber": "6712310472",
+      "pdfHeader": "OD_CUTTACK_PDF_HEADER",
+      "pdfContactDetails": "OD_CUTTACK_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.athagarh",
+      "name": "Athagarh",
+      "description": "Athagarh",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://x.com/AAthgarh?t=WMwAw594SMC19mRCJzLX_w&s=09",
+      "facebookUrl": "athagarhnac@rediffmail.com",
+      "emailId": "athagarhnac1973@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Athagarh",
+        "localName": "",
+        "districtCode": "CT",
+        "districtName": "Cuttack",
+        "districtTenantCode": "od.cuttack",
+        "regionName": "",
+        "ulbGrade": "Notified Area Council",
+        "ulbType": "Notified Area Council",
+        "longitude": 85.6315,
+        "latitude": 20.516652,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "AT",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Cuttack"
+      },
+      "address": "NOTIFIED AREA COUNCIL, ATHAGARH CUTTACK, ODISHA",
+      "pincode": [
+        754029
+      ],
+      "contactNumber": "6723220369",
+      "pdfHeader": "OD_ATHAGARH_PDF_HEADER",
+      "pdfContactDetails": "OD_ATHAGARH_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.berhampur",
+      "name": "Berhampur",
+      "description": "Berhampur",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/BrahmapurCorp",
+      "facebookUrl": "https://www.facebook.com/BrahmapurCorp",
+      "emailId": "mcbemc08@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Berhampur",
+        "localName": "",
+        "districtCode": "GA",
+        "districtName": "Ganjam",
+        "districtTenantCode": "od.ganjam",
+        "regionName": "",
+        "ulbGrade": "Municipal Corporation",
+        "ulbType": "Municipal Corporation",
+        "longitude": 84.78409,
+        "latitude": 19.314962,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BM",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Ganjam"
+      },
+      "address": "Ramalingam Tank Rd, Gandhi Nagar, Brahmapur, Odisha 760002",
+      "pincode": [
+        760001
+      ],
+      "contactNumber": "7608880480",
+      "pdfHeader": "OD_BERHAMPUR_PDF_HEADER",
+      "pdfContactDetails": "OD_BERHAMPUR_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.hinjilicut",
+      "name": "Hinjilicut",
+      "description": "Hinjilicut",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/MC_Hinjilicut",
+      "facebookUrl": "https://www.facebook.com/hinjilicut.municipality",
+      "emailId": "hinjilicutmunicipality@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Hinjilicut",
+        "localName": "",
+        "districtCode": "GA",
+        "districtName": "Ganjam",
+        "districtTenantCode": "od.ganjam",
+        "regionName": "",
+        "ulbGrade": "Municipality",
+        "ulbType": "Municipality",
+        "longitude": 84.744722,
+        "latitude": 19.482687,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "HI",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Ganjam"
+      },
+      "address": "Main Road, Hinjilicut, Ganjam, Odisha",
+      "pincode": [
+        761102
+      ],
+      "contactNumber": "8480528957",
+      "pdfHeader": "OD_HINJILICUT_PDF_HEADER",
+      "pdfContactDetails": "OD_HINJILICUT_CONTACT_DETAILS"
     }
   ]
 }
