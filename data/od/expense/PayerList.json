@@ -50,6 +50,41 @@
         "code": "od.bhadrak",
         "type": "ULB",
         "active": true
+      },
+      {
+        "id": "008",
+        "tenantId": "od.boudhgarh",
+        "code": "od.boudhgarh",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "009",
+        "tenantId": "od.cuttack",
+        "code": "od.cuttack",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "010",
+        "tenantId": "od.athagarh",
+        "code": "od.athagarh",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "011",
+        "tenantId": "od.berhampur",
+        "code": "od.berhampur",
+        "type": "ULB",
+        "active": true
+      },
+      {
+        "id": "012",
+        "tenantId": "od.hinjilicut",
+        "code": "od.hinjilicut",
+        "type": "ULB",
+        "active": true
       }
     ]
 }
