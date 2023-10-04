@@ -1,0 +1,395 @@
+{
+  "tenantId": "od.jeypore",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": { "code": "ADMIN", "name": "ADMIN" },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "jeypore",
+        "localname": "jeypore",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jeypore",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Locality 1",
+                "localname": "Localoty1",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "L001",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Locality 2",
+                "localname": "Locality2",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "L002",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Locality 3",
+                "localname": "Locality3",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "L003",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Locality 4",
+                "localname": "Locality4",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "L004",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Locality 5",
+                "localname": "Locality5",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "L005",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": []
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": []
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": []
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": []
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": []
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": []
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": []
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward39",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": []
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": []
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W0011",
+            "children": []
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "Ward 12",
+            "localname": "Ward12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W012",
+            "children": []
+          },
+          {
+            "id": 14,
+            "boundaryNum": 1,
+            "name": "Ward 13",
+            "localname": "Ward13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W013",
+            "children": []
+          },
+          {
+            "id": 15,
+            "boundaryNum": 1,
+            "name": "Ward 14",
+            "localname": "Ward14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W014",
+            "children": []
+          },
+          {
+            "id": 16,
+            "boundaryNum": 1,
+            "name": "Ward 15",
+            "localname": "Ward15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W015",
+            "children": []
+          },
+          {
+            "id": 17,
+            "boundaryNum": 1,
+            "name": "Ward 16",
+            "localname": "Ward16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W016",
+            "children": []
+          },
+          {
+            "id": 18,
+            "boundaryNum": 1,
+            "name": "Ward 17",
+            "localname": "Ward17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W017",
+            "children": []
+          },
+          {
+            "id": 19,
+            "boundaryNum": 1,
+            "name": "Ward 18",
+            "localname": "Ward18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W018",
+            "children": []
+          },
+          {
+            "id": 20,
+            "boundaryNum": 1,
+            "name": "Ward 19",
+            "localname": "Ward19",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W019",
+            "children": []
+          },
+          {
+            "id": 21,
+            "boundaryNum": 1,
+            "name": "Ward 20",
+            "localname": "Ward20",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W020",
+            "children": []
+          },
+          {
+            "id": 22,
+            "boundaryNum": 1,
+            "name": "Ward 21",
+            "localname": "Ward21",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W021",
+            "children": []
+          },
+          {
+            "id": 23,
+            "boundaryNum": 1,
+            "name": "Ward 22",
+            "localname": "Ward22",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W022",
+            "children": []
+          },
+          {
+            "id": 24,
+            "boundaryNum": 1,
+            "name": "Ward 23",
+            "localname": "Ward23",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W023",
+            "children": []
+          },
+          {
+            "id": 25,
+            "boundaryNum": 1,
+            "name": "Ward 24",
+            "localname": "Ward24",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W024",
+            "children": []
+          },
+          {
+            "id": 26,
+            "boundaryNum": 1,
+            "name": "Ward 25",
+            "localname": "Ward25",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W025",
+            "children": []
+          },
+          {
+            "id": 27,
+            "boundaryNum": 1,
+            "name": "Ward 26",
+            "localname": "Ward26",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W026",
+            "children": []
+          },
+          {
+            "id": 28,
+            "boundaryNum": 1,
+            "name": "Ward 27",
+            "localname": "Ward27",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W027",
+            "children": []
+          },
+          {
+            "id": 29,
+            "boundaryNum": 1,
+            "name": "Ward 28",
+            "localname": "Ward28",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W028",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
