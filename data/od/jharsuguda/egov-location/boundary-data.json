@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.bhadrak",
+  "tenantId": "od.jharsuguda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -7,12 +7,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "bhadrak",
-        "localname": "bhadrak",
+        "name": "jharsuguda",
+        "localname": "jharsuguda",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.bhadrak",
+        "code": "od.jharsuguda",
         "children": [
           {
             "id": 2,
