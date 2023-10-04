@@ -145,6 +145,11 @@
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Default role for citizen"
+    },
+    {
+      "code": "MUSTER_ROLL_VIEWER",
+      "name": "MUSTER ROLL VIEWER",
+      "description": "Muster Roll Viewer"
     }
   ]
 }
