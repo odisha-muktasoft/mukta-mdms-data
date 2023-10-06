@@ -176,6 +176,13 @@
         "code": "od.rourkela",
         "type": "ULB",
         "active": true
+      },
+      {
+        "id": "025",
+        "tenantId": "od.bhubaneswar",
+        "code": "od.bhubaneswar",
+        "type": "ULB",
+        "active": true
       }
     ]
 }
