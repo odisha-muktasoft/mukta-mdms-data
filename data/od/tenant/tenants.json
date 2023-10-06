@@ -1140,6 +1140,50 @@
       "contactNumber": "18003457468",
       "pdfHeader": "OD_ROURKELA_PDF_HEADER",
       "pdfContactDetails": "OD_ROURKELA_CONTACT_DETAILS"
+    },
+    {
+      "code": "od.bhubaneswar",
+      "name": "Bhubaneswar",
+      "description": "Bhubaneswar",
+      "logoId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "imageId": "https://mukta.odisha.gov.in/mukta-prod-s3/od/logo.jpeg",
+      "cmImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/HCM-Odisha-Shri+Naveen+Patnaik.jpg",
+      "tLogoImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/5T+logo+PNG+(1).png",
+      "schemImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/MUKTA+New+Logo+Final+PNG+(1).png",
+      "sealImageId":"https://mukta.odisha.gov.in/mukta-prod-s3/od/Seal_of_Odisha.png",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "https://twitter.com/bmcbbsr",
+      "facebookUrl": "https://www.facebook.com/bmcbbsr/",
+      "emailId": "info@bmc.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Bhubaneswar",
+        "localName": "",
+        "districtCode": "KH",
+        "districtName": "Khordha",
+        "districtTenantCode": "od.khorda",
+        "regionName": "",
+        "ulbGrade": "Municipal Corporation",
+        "ulbType": "Municipal Corporation",
+        "longitude": 85.84305822,
+        "latitude": 20.28293265,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BH",
+        "regionCode": "",
+        "municipalityName": "",
+        "ddrName": "Khordha"
+      },
+      "address": "Janpath Rd, UNIT- 9, Bhubaneswar, Odisha 751007",
+      "pincode": [
+        751007
+      ],
+      "contactNumber": "6742431253",
+      "pdfHeader": "OD_BHUBANESWAR_PDF_HEADER",
+      "pdfContactDetails": "OD_BHUBANESWAR_CONTACT_DETAILS"
     }
   ]
 }
