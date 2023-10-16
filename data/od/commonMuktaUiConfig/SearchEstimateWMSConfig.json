@@ -179,7 +179,12 @@
               {
                 "label": "ES_COMMON_PROJECT_NAME",
                 "jsonPath": "businessObject.project.name",
-                "additionalCustomization": true
+                "additionalCustomization": true,
+                 "maxLength": 30,
+                "styles": {
+                  "whiteSpace" : "nowrap",
+                  "textOverflow": "ellipsis"
+                }
               },
               {
                 "label": "ES_COMMON_LOCATION",
