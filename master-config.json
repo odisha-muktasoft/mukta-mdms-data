@@ -1,5 +1,5 @@
 {
-    "ACCESSCONTROL-ACTIONS-TEST": {
+	"ACCESSCONTROL-ACTIONS-TEST": {
 		"actions-test": {
 			"masterName": "actions-test",
 			"isStateLevel": true,
@@ -67,7 +67,7 @@
 			"uniqueKeys": []
 		}
 	},
-    "tenant": {
+	"tenant": {
 		"tenants": {
 			"masterName": "tenants",
 			"isStateLevel": true,
@@ -85,49 +85,49 @@
 			]
 		}
 	},"egov-hrms": {
-		"EmployeeStatus": {
-			"masterName": "EmployeeStatus",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"EmployeeType": {
-			"masterName": "EmployeeType",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"Degree": {
-			"masterName": "Degree",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"Specalization": {
-			"masterName": "Specalization",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"DeactivationReason": {
-			"masterName": "DeactivationReason",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"EmploymentTest": {
-			"masterName": "EmploymentTest",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		}
+	"EmployeeStatus": {
+		"masterName": "EmployeeStatus",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
 	},
+	"EmployeeType": {
+		"masterName": "EmployeeType",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
+	},
+	"Degree": {
+		"masterName": "Degree",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
+	},
+	"Specalization": {
+		"masterName": "Specalization",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
+	},
+	"DeactivationReason": {
+		"masterName": "DeactivationReason",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
+	},
+	"EmploymentTest": {
+		"masterName": "EmploymentTest",
+		"isStateLevel": true,
+		"uniqueKeys": [
+			"$.code"
+		]
+	}
+},
 	"ifms": {
 		"HeadOfAccounts": {
 			"masterName": "HeadOfAccounts",
@@ -136,6 +136,48 @@
 		"SchemeDetails": {
 			"masterName": "SchemeDetails",
 			"isStateLevel": true
+		}
+	},
+	"expense": {
+		"HeadCodes": {
+			"masterName": "HeadCodes",
+			"isStateLevel": true,
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"BusinessService": {
+			"masterName": "BusinessService",
+			"isStateLevel": true,
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"ApplicableCharges": {
+			"masterName": "ApplicableCharges",
+			"isStateLevel": true,
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"PayerList": {
+			"masterName": "PayerList",
+			"isStateLevel": true,
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"LabourCharges": {
+			"masterName": "LabourCharges",
+			"isStateLevel": true,
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
 		}
 	}
 }
