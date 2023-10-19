@@ -8,7 +8,7 @@
       "code": "UNSKILLED.MALE_MULIA",
       "gender": "male",
       "active": true,
-      "amount": 352,
+      "amount": 345,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -19,7 +19,7 @@
       "code": "UNSKILLED.FEMALE_MULIA",
       "gender": "female",
       "active": true,
-      "amount": 352,
+      "amount": 345,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -30,7 +30,7 @@
       "code": "UNSKILLED.SURVEY_KHALASI_CHAIN_MAN",
       "gender": "all",
       "active": true,
-      "amount": 352,
+      "amount": 345,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -41,7 +41,7 @@
       "code": "UNSKILLED.SCAVANGER",
       "gender": "all",
       "active": true,
-      "amount": 352,
+      "amount": 345,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -52,7 +52,7 @@
       "code": "SEMI_SKILLED.MULIA_WORKING_IN_WATER_OR_ARDUOUS_NATURE_OF_WORK",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -63,7 +63,7 @@
       "code": "SEMI_SKILLED.NIGHTMULIA_OR_ATTENDANTWOR_IN_FLOODANDOTHER_EMERGENT_WORK",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -74,7 +74,7 @@
       "code": "SEMI_SKILLED.MULIA_FOR_HANDLING_HOT_BINDER_AND_TAR_BOILER_MEN",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -85,7 +85,7 @@
       "code": "SEMI_SKILLED.SANGI_MULIA",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -96,7 +96,7 @@
       "code": "SEMI_SKILLED.PILE_DRIVING_MATE_GUIDE_MAN",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -107,7 +107,7 @@
       "code": "SEMI_SKILLED.MATE",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -118,7 +118,7 @@
       "code": "SEMI_SKILLED.HLPR_CARPNTRBLKSMTHPANTR_BLSTRPLMBRELCTRCN_FITRWLDR",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -129,7 +129,7 @@
       "code": "SEMI_SKILLED.HAMMER_MAN",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -140,7 +140,7 @@
       "code": "SEMI_SKILLED.THATCHER_GHARAMI",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -151,7 +151,7 @@
       "code": "SEMI_SKILLED.TILE_TURNER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -162,7 +162,7 @@
       "code": "SEMI_SKILLED.BOAT_MAN",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -173,7 +173,7 @@
       "code": "SEMI_SKILLED.BHISTI",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -184,7 +184,7 @@
       "code": "SEMI_SKILLED.WELL_SINKER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -195,7 +195,7 @@
       "code": "SEMI_SKILLED.ROD_BINDER_AND_BENDER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -206,7 +206,7 @@
       "code": "SEMI_SKILLED.CLEANER_SWEEPER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -217,7 +217,7 @@
       "code": "SEMI_SKILLED.STONE_PACKER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -228,7 +228,7 @@
       "code": "SEMI_SKILLED.PUMP_HELPER",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -239,7 +239,7 @@
       "code": "SEMI_SKILLED.WATCH_MAN_STORE_GURKHA_SECURITY_GUARD",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -250,7 +250,7 @@
       "code": "SEMI_SKILLED.BELLOW_MAN",
       "gender": "all",
       "active": true,
-      "amount": 392,
+      "amount": 385,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -261,7 +261,7 @@
       "code": "SKILLED.BLASTER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -272,7 +272,7 @@
       "code": "SKILLED.MASON_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -283,7 +283,7 @@
       "code": "SKILLED.CARPENTER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -294,7 +294,7 @@
       "code": "SKILLED.BLACKSMITH_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -305,7 +305,7 @@
       "code": "SKILLED.FITTER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -316,7 +316,7 @@
       "code": "SKILLED.PAINTER_POLISHER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -327,7 +327,7 @@
       "code": "SKILLED.WELDER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -338,7 +338,7 @@
       "code": "SKILLED.PLUMBER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -349,7 +349,7 @@
       "code": "SKILLED.DRILLER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -360,7 +360,7 @@
       "code": "SKILLED.STONE DRESSER_CUTTER_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -371,7 +371,7 @@
       "code": "SKILLED.COBBLER_WITH_TOOLS_SECOND_CLASS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -382,7 +382,7 @@
       "code": "SKILLED.WIREMAN_LIFTOPRTOR_DIESELPUMPDRVR_TLPHONEOPRTR_SECNDCLAS",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -393,7 +393,7 @@
       "code": "SKILLED.BORING_MISTRY_PIPE_DRIVER",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -404,7 +404,7 @@
       "code": "SKILLED.ELECTRICIAN_RIGGER_LINE_MAN_TELEPHONE_ATTENDENT",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -415,7 +415,7 @@
       "code": "SKILLED.GARDENER",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -426,7 +426,7 @@
       "code": "SKILLED.AMIN",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -437,7 +437,7 @@
       "code": "SKILLED.TRACER",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -448,7 +448,7 @@
       "code": "SKILLED.JR_PROGRESS_RECORDER",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -459,7 +459,7 @@
       "code": "SKILLED.STORE_KEEPER_GR_IV_STORE_ASSITANT",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -470,7 +470,7 @@
       "code": "SKILLED.ACCOUNT_CLERK_CLERK_TYPIST",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -481,7 +481,7 @@
       "code": "SKILLED.TOOL_KEEPER_TIME_KEEPER_MUNSI",
       "gender": "all",
       "active": true,
-      "amount": 442,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -492,7 +492,7 @@
       "code": "HIGHLY_SKILLED.BLASTER_LICENSED",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -503,7 +503,7 @@
       "code": "HIGHLY_SKILLED.MASON_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -514,7 +514,7 @@
       "code": "HIGHLY_SKILLED.CARPENTER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -525,7 +525,7 @@
       "code": "HIGHLY_SKILLED.BLACKSMITH_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -536,7 +536,7 @@
       "code": "HIGHLY_SKILLED.FITTER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -547,7 +547,7 @@
       "code": "HIGHLY_SKILLED.PAINTER_POLISHER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -558,7 +558,7 @@
       "code": "HIGHLY_SKILLED.WELDER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -569,7 +569,7 @@
       "code": "HIGHLY_SKILLED.PLUMBER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -580,7 +580,7 @@
       "code": "HIGHLY_SKILLED.DRILLER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -591,7 +591,7 @@
       "code": "HIGHLY_SKILLED.STONE_DRESSER_CUTTER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -602,7 +602,7 @@
       "code": "HIGHLY_SKILLED.DIVERFOR_WELLSINKING_INBRIDGE_PERSHIFT_FOURHOURS",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -613,7 +613,7 @@
       "code": "HIGHLY_SKILLED.ELCTCNAIRCNDTPLNTWIREMANFILL_DSELPMPOPRTR_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -624,7 +624,7 @@
       "code": "HIGHLY_SKILLED.HEAVY_VEHICLE_DRIVER_OPERATOR",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -635,7 +635,7 @@
       "code": "HIGHLY_SKILLED.AUTO_ELECTRICIAN",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -646,7 +646,7 @@
       "code": "HIGHLY_SKILLED.GUINITING_MACHINE_OPERATOR",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -657,7 +657,7 @@
       "code": "HIGHLY_SKILLED.SENIOR_ACCOUNTANT_STENOGRAPHER",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -668,7 +668,7 @@
       "code": "HIGHLY_SKILLED.SUPERVISOR_MANAGER",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -679,7 +679,7 @@
       "code": "HIGHLY_SKILLED.TESTNG_LABORTRYASISTNT_INSTRMNT_TLPHNMECHNIC",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -690,7 +690,7 @@
       "code": "HIGHLY_SKILLED.RIGER_ND_COBLR_WITH_TOOLS_DRVR_HEAVY_VHICL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -701,7 +701,7 @@
       "code": "OTHERS.BORING_MISTRY_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -712,7 +712,7 @@
       "code": "OTHERS.WINCH_OPERATOR",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -723,7 +723,7 @@
       "code": "OTHERS.WELL_SINKER_SPECIAL",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 495,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
@@ -734,7 +734,7 @@
       "code": "OTHERS.HELPER_TO_WELL_SINKER",
       "gender": "all",
       "active": true,
-      "amount": 502,
+      "amount": 435,
       "unit": "day",
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
