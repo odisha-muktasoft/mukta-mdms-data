@@ -1218,6 +1218,54 @@
       "actionid": 66,
       "actioncode": "",
       "tenantId": "od"
-    }    
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 37,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 76,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 104,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 108,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 90,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VIEWER",
+      "actionid": 59,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 126,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 71,
+      "actioncode": "",
+      "tenantId": "od"
+    }
   ]
 }
