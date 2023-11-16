@@ -137,5 +137,11 @@
 			"masterName": "SchemeDetails",
 			"isStateLevel": true
 		}
+	},
+	"expense": {
+		"PayerList": {
+			"masterName": "PayerList",
+			"isStateLevel": true
+		}
 	}
 }
