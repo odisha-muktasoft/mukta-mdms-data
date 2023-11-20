@@ -139,9 +139,45 @@
 		}
 	},
 	"expense": {
+		"HeadCodes": {
+		  "masterName": "HeadCodes",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
+		},
+		"BusinessService": {
+		  "masterName": "BusinessService",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
+		},
+		"ApplicableCharges": {
+		  "masterName": "ApplicableCharges",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
+		},
 		"PayerList": {
-			"masterName": "PayerList",
-			"isStateLevel": true
+		  "masterName": "PayerList",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"LabourCharges": {
+		  "masterName": "LabourCharges",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
 		}
-	}
+	  }
 }
