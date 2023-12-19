@@ -1539,6 +1539,66 @@
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
       "path": "5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
       "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 132,
+      "name": "Create Measurement Service",
+      "url": "/measurement-service/v1/_create",
+      "parentModule": "measurement-book",
+      "displayName": "Create measurement book service",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "measurement-book",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 133,
+      "name": "Update Measurement Service",
+      "url": "/measurement-service/v1/_update",
+      "parentModule": "measurement-book",
+      "displayName": "Update measurement book service",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "measurement-book",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 134,
+      "name": "Search Measurement Service",
+      "url": "/measurement-service/v1/_search",
+      "parentModule": "measurement-book",
+      "displayName": "Search measurement book service",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "measurement-book",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 135,
+      "name": "Search WMS Measurement Service",
+      "url": "/wms/measurement-service/_search",
+      "parentModule": "works-management-service",
+      "displayName": "WMS search measurement book",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "works-management-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 136,
+      "name": "Search Mukta Measurement Service",
+      "url": "/mukta-services/measurement/_search",
+      "parentModule": "mukta-services",
+      "displayName": "Mukta search measurement book",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-services",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
