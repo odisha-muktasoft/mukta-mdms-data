@@ -5,12 +5,12 @@
       {
         "id": "1",
         "ssuCode": "",
-        "ddoCode": "",
-        "granteeAgCode": "",
-        "granteeName": "",
+        "ddoCode": "OLSHUD001",
+        "granteeAgCode": "GOHUDULBNAC0003",
+        "granteeName": "ATHAGARH NOTIFIED AREA COUNCIL",
         "ssuId": "",
         "ssuOffice": "",
-        "effectiveFrom": 1682164954037,
+        "effectiveFrom": 1703529000000,
         "effectiveTo": null,
         "active": false
       }
