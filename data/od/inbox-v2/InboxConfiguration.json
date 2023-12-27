@@ -29,6 +29,11 @@
           "isMandatory": false
         },
         {
+          "name": "revisionNumber",
+          "path": "Data.revisionNumber.keyword",
+          "isMandatory": false
+        },
+        {
           "name": "projectType",
           "path": "Data.project.projectType.keyword",
           "isMandatory": false
@@ -54,6 +59,8 @@
         "defaultOrder": "DESC"
       },
       "sourceFilterPathList": [
+        "Data.businessService",
+        "Data.estimateNumber",
         "Data.currentProcessInstance",
         "Data.auditDetails",
         "Data.additionalDetails",
@@ -206,6 +213,7 @@
       },
       "sourceFilterPathList": [
         "Data.contractNumber",
+        "Data.businessService",
         "Data.additionalDetails.projectName",
         "Data.additionalDetails.projectId",
         "Data.additionalDetails.orgName",
@@ -277,6 +285,73 @@
         "defaultOrder": "DESC"
       },
       "sourceFilterPathList": ["Data.tenantId" ,"Data.id", "Data.billNumber", "Data.totalAmount",  "Data.additionalDetails", "Data.businessService","Data.currentProcessInstance", "Data.auditDetails","Data.referenceId"]
+    },
+    {
+      "module": "measurement-service",
+      "index": "measurement-service-index",
+      "allowedSearchCriteria": [
+        {
+          "name": "tenantId",
+          "path": "Data.tenantId.keyword",
+          "isMandatory": true,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "status",
+          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "measurementNumber",
+          "path": "Data.measurementNumber.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "projectId",
+          "path": "Data.contract.additionalDetails.projectId.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "ward",
+          "path": "Data.contract.additionalDetails.ward.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "assignee",
+          "path": "Data.currentProcessInstance.assignes.uuid.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "projectType",
+          "path": "Data.contract.additionalDetails.projectType.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        }
+
+      ],
+      "sortBy": {
+        "path": "Data.auditDetails.createdTime",
+        "defaultOrder": "DESC"
+      },
+      "sourceFilterPathList": [
+        "Data.referenceId",
+        "Data.id",
+        "Data.measurementNumber",
+        "Data.measures",
+        "Data.auditDetails",
+        "Data.history",
+        "Data.currentProcessInstance",
+        "Data.additionalDetails",
+        "Data.workflow",
+        "Data.wfStatus",
+        "Data.contract.additionalDetails",
+        "Data.contract.id",
+        "Data.contract.contractNumber",
+        "Data.contract.additionalDetails"
+      ]
     }
   ]
 }

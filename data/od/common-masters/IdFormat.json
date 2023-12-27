@@ -81,6 +81,12 @@
     {
       "format": "TE/[fy:yyyy-yy]/[SEQ_CONT_SUPPLEMENT_NUM]",
       "idname": "contract.supplement.number"
-    }
+    },
+    {
+      "format": "RE/[fy:yyyy-yy]/[SEQ_ESTIMATE_REVISION_NUM]",
+      "idname": "estimate.revision.number"
+    }  
+
+
   ]
 }
