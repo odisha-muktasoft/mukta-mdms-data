@@ -95,7 +95,7 @@
                                     "name": "estimateNumber",
                                     "error": "ESTIMATE_PATTERN_ERR_MSG",
                                     "validation": {
-                                        "pattern": "ES\/[0-9]+-[0-9]+\/[0-9]+",
+                                        "pattern": "ES|RE\/[0-9]+-[0-9]+\/[0-9]+",
                                         "minlength": 2
                                     }
                                 }
@@ -162,7 +162,7 @@
                     "uiConfig": {
                         "columns": [
                             {
-                                "label": "ESTIMATE_ESTIMATE_NO",
+                                "label": "ProcessInstance.businessId",
                                 "jsonPath": "estimateNumber",
                                 "additionalCustomization": true
                             },

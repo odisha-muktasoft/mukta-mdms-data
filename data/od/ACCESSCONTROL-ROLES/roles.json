@@ -170,6 +170,16 @@
       "code": "MB_VIEWER",
       "name": "MB_VIEWER",
       "description": "Default role for MB service viewer"
-    }
+    },
+    {
+      "code": "MDMS_STATE_ADMIN",
+      "name": "MDMS STATE ADMIN",
+      "description": "Mdms State Admin"
+    },
+    {
+      "code": "MDMS_CITY_ADMIN",
+      "name": "MDMS CITY ADMIN",
+      "description": "Mdms City Admin"
+    } 
   ]
 }

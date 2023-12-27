@@ -60,6 +60,7 @@
       },
       "sourceFilterPathList": [
         "Data.businessService",
+        "Data.estimateNumber",
         "Data.currentProcessInstance",
         "Data.auditDetails",
         "Data.additionalDetails",
@@ -212,6 +213,7 @@
       },
       "sourceFilterPathList": [
         "Data.contractNumber",
+        "Data.businessService",
         "Data.additionalDetails.projectName",
         "Data.additionalDetails.projectId",
         "Data.additionalDetails.orgName",

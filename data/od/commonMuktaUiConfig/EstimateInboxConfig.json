@@ -11,7 +11,7 @@
                     "requestBody": {
                         "inbox": {
                             "processSearchCriteria": {
-              "businessService": ["ESTIMATE"],
+              "businessService": ["ESTIMATE","REVISION-ESTIMATE"],
               "moduleName": "estimate-service"
             },
             "moduleSearchCriteria": {}
@@ -190,6 +190,7 @@
             "secondaryLabel": "",
             "minReqFields": 0,
             "defaultValues": {
+              "status": "",
               "state": "",
               "ward": [],
               "locality": [],
