@@ -1903,6 +1903,29 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 160,
+      "name": "schema Create",
+      "url": "/mdms-v2/schema/v1/_create",
+      "parentModule": "",
+      "displayName": "Schema Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+     "id": 161,
+     "name": "Search  PQM Application",
+     "url": "/mdms-v2/schema/v1/_search",
+     "displayName": "Search PQM Applications",
+     "orderNumber": 0,
+     "enabled": false,
+     "serviceCode": "PQM",
+     "code": "null",
+     "path": ""
+   }
   ]  
 }

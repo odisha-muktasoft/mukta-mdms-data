@@ -180,6 +180,11 @@
       "code": "MDMS_CITY_ADMIN",
       "name": "MDMS CITY ADMIN",
       "description": "Mdms City Admin"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS Admin",
+      "description": "Default role for workbench user"
     } 
   ]
 }
