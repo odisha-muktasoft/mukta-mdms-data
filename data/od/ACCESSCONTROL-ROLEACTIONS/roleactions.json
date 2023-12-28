@@ -1524,6 +1524,18 @@
       "actionid": 142,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 160,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 161,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
