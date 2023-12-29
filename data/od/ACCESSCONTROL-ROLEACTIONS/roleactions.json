@@ -1529,31 +1529,31 @@
       "rolecode": "MDMS_ADMIN",
       "actionid": 160,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "od"
     },
     {
       "rolecode": "MDMS_ADMIN",
       "actionid": 161,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "od"
     },
     {
       "rolecode": "MDMS_STATE_ADMIN",
       "actionid": 162,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "od"
     },
     {
       "rolecode": "MDMS_STATE_ADMIN",
       "actionid": 163,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "od"
     },
     {
       "rolecode": "MDMS_STATE_ADMIN",
       "actionid": 164,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "od"
     }
   ]
 }
