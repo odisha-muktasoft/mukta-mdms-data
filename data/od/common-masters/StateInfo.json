@@ -67,6 +67,10 @@
           "value": "rainmaker-ward-locality"
         },
         {
+          "label": "rainmaker-measurement",
+          "value": "rainmaker-measurement"
+        },
+        {
           "label": "rainmaker-workbench",
           "value": "rainmaker-workbench"
         },
