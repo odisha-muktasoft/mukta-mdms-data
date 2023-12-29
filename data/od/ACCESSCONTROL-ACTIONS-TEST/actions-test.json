@@ -1926,6 +1926,44 @@
      "serviceCode": "PQM",
      "code": "null",
      "path": ""
-   }
+   },
+   {
+    "id": 162,
+    "name": "MDMS",
+    "url": "url",
+    "displayName": "Manage UOM Master",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "MDMS",
+    "code": "null",
+    "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM",
+    "path": "9MDMS.commonmasterUOM",
+    "leftIcon": "dynamic:ContractIcon"
+  },
+  {
+    "id": 163,
+    "name": "MDMS",
+    "url": "/mdms-v2/v2/_create/common-masters.UOM",
+    "displayName": "Create UOM Master",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "MDMS",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 164,
+    "name": "MDMS",
+    "url": "/mdms-v2/v2/_update/common-masters.UOM",
+    "displayName": "Update UOM Master",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "MDMS",
+    "code": "null",
+    "path": ""
+  }
   ]  
 }
