@@ -81,6 +81,10 @@
         {
           "label": "rainmaker-mdms",
           "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-workflow",
+          "value": "rainmaker-workflow"
         }
       ]
     }
