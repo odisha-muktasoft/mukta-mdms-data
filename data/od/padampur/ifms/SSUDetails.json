@@ -7,12 +7,12 @@
         "ssuCode": "",
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBNAC0050",
-        "granteeName": "PADAMPUR NOTIFIED AREA COUNCIL",
-        "ssuId": "",
-        "ssuOffice": "",
+        "granteeName": "NOTIFIED AREA COUNCIL PADAMPUR",
+        "ssuId": "5068",
+        "ssuOffice": "Notified Area Council, Padampur",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

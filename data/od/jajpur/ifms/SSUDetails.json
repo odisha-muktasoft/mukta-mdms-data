@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0015",
         "granteeName": "JAJPUR MUNICIPALITY",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5047",
+        "ssuOffice": "Jajpur Municipality",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

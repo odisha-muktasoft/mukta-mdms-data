@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0017",
         "granteeName": "JEYPORE MUNICIPALITY",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5048",
+        "ssuOffice": "Jeypore Municipality",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0003",
         "granteeName": "BALASORE MUNICIPALITY",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5008",
+        "ssuOffice": "Balasore Municipality",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

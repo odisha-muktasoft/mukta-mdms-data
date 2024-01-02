@@ -7,12 +7,12 @@
         "ssuCode": "",
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBNAC0019",
-        "granteeName": "CHHATRAPUR NOTIFIED AREA COUNCIL",
-        "ssuId": "",
-        "ssuOffice": "",
+        "granteeName": "NOTIFIED AREA COUNCIL CHHATRAPUR",
+        "ssuId": "5065",
+        "ssuOffice": "Notified Area Council, Chatrapur",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

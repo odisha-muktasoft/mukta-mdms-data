@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0026",
         "granteeName": "PURI MUNICIPALITY",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5071",
+        "ssuOffice": "Puri Municipality",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

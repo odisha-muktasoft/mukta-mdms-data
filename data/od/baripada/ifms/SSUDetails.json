@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMPL0006",
         "granteeName": "BARIPADA MUNICIPALITY",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5009",
+        "ssuOffice": "Baripada Municipality",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

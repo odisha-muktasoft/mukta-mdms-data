@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMCR0005",
         "granteeName": "ROURKELA MUNICIPAL CORPORATION",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5072",
+        "ssuOffice": "Rourkela Municipal Corporation",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }
