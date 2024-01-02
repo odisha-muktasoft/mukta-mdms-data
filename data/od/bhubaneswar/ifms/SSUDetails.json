@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMCR0002",
         "granteeName": "BHUBANESWAR MUNICIPAL CORPORATION",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5073",
+        "ssuOffice": "Bhubaneswar Municipal Corporation",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

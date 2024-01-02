@@ -7,12 +7,12 @@
         "ssuCode": "",
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBNAC0036",
-        "granteeName": "KESINGA NOTIFIED AREA COUNCIL",
-        "ssuId": "",
-        "ssuOffice": "",
+        "granteeName": "NOTIFIED AREA COUNCIL KESINGA",
+        "ssuId": "5208",
+        "ssuOffice": "Kesinga NAC",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

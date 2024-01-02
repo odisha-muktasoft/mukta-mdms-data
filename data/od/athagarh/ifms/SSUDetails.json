@@ -7,12 +7,12 @@
         "ssuCode": "",
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBNAC0003",
-        "granteeName": "ATHAGARH NOTIFIED AREA COUNCIL",
-        "ssuId": "",
-        "ssuOffice": "",
+        "granteeName": "NOTIFIED AREA COUNCIL ATHAGARH",
+        "ssuId": "5025",
+        "ssuOffice": "NAC Athgarh",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }

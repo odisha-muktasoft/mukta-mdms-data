@@ -8,11 +8,11 @@
         "ddoCode": "OLSHUD001",
         "granteeAgCode": "GOHUDULBMCR0003",
         "granteeName": "CUTTACK MUNICIPAL CORPORATION",
-        "ssuId": "",
-        "ssuOffice": "",
+        "ssuId": "5185",
+        "ssuOffice": "Cuttack Municipal Corporation",
         "effectiveFrom": 1703529000000,
         "effectiveTo": null,
-        "active": false
+        "active": true
       }
     ]
   }
