@@ -1554,6 +1554,24 @@
       "actionid": 164,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 165,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 166,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 167,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
