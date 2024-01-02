@@ -1964,6 +1964,39 @@
     "serviceCode": "MDMS",
     "code": "null",
     "path": ""
-  }
+  },
+  {
+      "id": 165,
+      "name": "Detailed Estimate Pdf",
+      "url": "/egov-pdf/download/detailedEstimate/detailed-estimate",
+      "displayName": "estimates search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 166,
+      "name": "Deviation Pdf",
+      "url": "/egov-pdf/download/deviationStatement/deviation-statement",
+      "displayName": "estimates search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 167,
+      "name": "Measurement Book Pdf",
+      "url": "/egov-pdf/download/measurementBook/measurement-book",
+      "displayName": "estimates search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
+    }
   ]  
 }
