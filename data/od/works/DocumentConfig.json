@@ -233,7 +233,7 @@
           "active": true,
           "isMandatory": false,
           "showTextInput" : false,
-          "allowedFileTypes": [],
+          "allowedFileTypes": ["jpeg","jpg","png"],
           "maxSizeInMB": null,
           "maxFilesAllowed": 5
         }
