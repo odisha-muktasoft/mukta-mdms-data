@@ -25,6 +25,10 @@
         {
             "path": "allMeasurements",
             "jsonPath": "$.allMeasurements"
-        }
+        },
+        {
+            "path": "musterRollObject",
+            "jsonPath": "$.*"
+        },
     ]
 }
