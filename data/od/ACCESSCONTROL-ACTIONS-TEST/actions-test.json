@@ -2009,7 +2009,7 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "2ESTIMATE.SearchEstimate",
+      "path": "2ESTIMATE.CreateRevisedEstimate",
       "leftIcon": "dynamic:EstimateIcon"
     }
   ]  
