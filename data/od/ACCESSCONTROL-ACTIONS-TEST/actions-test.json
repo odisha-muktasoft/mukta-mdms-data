@@ -1645,8 +1645,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "MeasurementMuktaIcon.Create",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "path": "3MEASUREMENT.Create",
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 140,
@@ -1659,8 +1659,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/inbox",
-      "path": "MeasurementMuktaIcon.Inbox",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "path": "3MEASUREMENT.Inbox",
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 141,
@@ -1673,8 +1673,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/search",
-      "path": "MeasurementMuktaIcon.Search",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "path": "3MEASUREMENT.Search",
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 142,
