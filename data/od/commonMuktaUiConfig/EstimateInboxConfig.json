@@ -175,7 +175,7 @@
               {
                 "text": "WORKS_CREATE_REVISED_ESTIMATE",
                 "url": "/employee/estimate/search-estimate?status=APPROVED",
-                "roles": ["ESTIMATE_CREATOR"],
+                "roles": ["ESTIMATE_CREATOR"]
               }
             ],
             "label": "MUKTA",
