@@ -1997,6 +1997,20 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 168,
+      "name": "Revise Estimate",
+      "url": "url",
+      "displayName": "Create Revise Estimate",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ESTIMATE",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
+      "path": "2ESTIMATE.SearchEstimate",
+      "leftIcon": "dynamic:EstimateIcon"
     }
   ]  
 }
