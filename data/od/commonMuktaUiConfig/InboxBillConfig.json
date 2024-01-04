@@ -110,7 +110,7 @@
                   "roles": []
                 }
               ],
-              "label": "MUKTA",
+              "label": "ACTION_TEST_BILL_HEADER",
               "logoIcon": {
                 "component": "ExpenditureIcon",
                 "customClass": "inbox-links-icon"
