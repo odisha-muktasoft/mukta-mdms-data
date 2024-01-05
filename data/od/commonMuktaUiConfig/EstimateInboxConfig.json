@@ -178,7 +178,7 @@
                 "roles": ["ESTIMATE_CREATOR"]
               }
             ],
-            "label": "MUKTA",
+            "label": "ACTION_TEST_ESTIMATE_HEADER",
             "logoIcon": {
               "component": "EstimateIcon",
               "customClass": "inbox-links-icon"

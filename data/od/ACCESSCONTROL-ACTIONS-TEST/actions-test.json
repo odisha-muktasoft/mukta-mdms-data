@@ -1646,7 +1646,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
       "path": "3MEASUREMENT.Create",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 140,
@@ -1660,7 +1660,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/inbox",
       "path": "3MEASUREMENT.Inbox",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 141,
@@ -1674,7 +1674,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/search",
       "path": "3MEASUREMENT.Search",
-      "leftIcon": "dynamic:MeasurementIcon"
+      "leftIcon": "dynamic:MeasurementMuktaIcon"
     },
     {
       "id": 142,
@@ -1997,6 +1997,20 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 168,
+      "name": "Revise Estimate",
+      "url": "url",
+      "displayName": "Create Revise Estimate",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ESTIMATE",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
+      "path": "2ESTIMATE.CreateRevisedEstimate",
+      "leftIcon": "dynamic:EstimateIcon"
     }
   ]  
 }
