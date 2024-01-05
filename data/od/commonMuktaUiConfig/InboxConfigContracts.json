@@ -168,7 +168,7 @@
                 ]
               }
             ],
-            "label": "MUKTA",
+            "label": "ACTION_TEST_CONTRACT_HEADER",
             "logoIcon": {
               "component": "ContractIcon",
               "customClass": "inbox-links-icon"

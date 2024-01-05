@@ -95,7 +95,7 @@
                 "roles": ["MUSTER_ROLL_VERIFIER", "MUSTER_ROLL_APPROVER"]
               }
             ],
-            "label": "ES_COMMON_ATTENDENCEMGMT",
+            "label": "ACTION_TEST_MUSTER_HEADER",
             "logoIcon": {
               "component": "AttendanceIcon",
               "customClass": "inbox-links-icon"
