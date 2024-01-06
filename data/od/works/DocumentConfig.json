@@ -226,6 +226,7 @@
       "module": "Measurement",
       "allowedFileTypes": ["jpeg","jpg","png"],
       "maxSizeInMB": 2,
+      "bannerLabel": "MEASUREMENT_UPLOAD_BANNER_LABEL",
       "documents": [
         {
           "code": "MB_MEASUREMENT_BOOK",
