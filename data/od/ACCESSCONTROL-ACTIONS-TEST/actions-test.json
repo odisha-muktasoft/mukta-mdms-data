@@ -2011,6 +2011,18 @@
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
       "path": "2ESTIMATE.CreateRevisedEstimate",
       "leftIcon": "dynamic:EstimateIcon"
+    },
+    {
+      "id": 169,
+      "name": "Validate Muster With Measurement Book",
+      "url": "/mukta-services/musterRollValidations/_validate",
+     "parentModule": "mukta-services",
+      "displayName": "Validate Muster Roll With Measurement Book",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-services",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
