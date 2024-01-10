@@ -92,7 +92,7 @@
                       }
                   },
                   {
-                      "label": "WORKS_ORDER_ID",
+                      "label": "WORKS_SEARCH_ORDER_ID",
                       "type": "text",
                       "isMandatory": false,
                       "disable": false,
@@ -161,7 +161,7 @@
               "uiConfig": {
                 "columns": [
                   {
-                    "label": "WORKS_ORDER_ID",
+                    "label": "WORKS_SEARCH_ORDER_ID",
                     "jsonPath": "ProcessInstance.businessId",
                     "additionalCustomization": true
                   },
