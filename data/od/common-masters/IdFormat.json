@@ -95,7 +95,7 @@
       "idname": "works.sor.number"
     },
     {
-      "format": "RW/[fy:yyyy-yy]/[SEQ_CONT_SUPPLEMENT_NUM]",
+      "format": "RW/[fy:yyyy-yy]/[SEQ_CONT_REVISION_NUM]",
       "idname": "contract.revision.number"
     }
   ]
