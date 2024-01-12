@@ -280,6 +280,12 @@
           "isMandatory": false
         },
         {
+          "name": "businessService",
+          "path": "Data.currentProcessInstance.businessService",
+          "operator": "EQUAL",
+          "isMandatory": false
+        },
+        {
           "name": "startDate",
           "path": "Data.auditDetails.createdTime",
           "isMandatory": false,
