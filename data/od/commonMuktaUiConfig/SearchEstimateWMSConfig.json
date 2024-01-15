@@ -26,6 +26,7 @@
             "headerStyle": null,
             "formClassName": "custom-both-clear-search",
             "primaryLabel": "ES_COMMON_SEARCH",
+            "searchWrapperStyles" : { "gridColumnEnd" : "-1"},
             "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
             "minReqFields": 1,
             "showFormInstruction": "ESTIMATE_SEARCH_HINT",
