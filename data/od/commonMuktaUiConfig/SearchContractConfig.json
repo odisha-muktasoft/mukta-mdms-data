@@ -10,7 +10,9 @@
             "requestParam": {},
             "requestBody": {
               "inbox": {
-                 "moduleSearchCriteria": {}
+                 "moduleSearchCriteria": {
+                   "businessService" : ["CONTRACT","CONTRACT-REVISION"]
+                 }
               }
             },
             "minParametersForSearchForm": 1,
