@@ -3,7 +3,7 @@
     "moduleName": "commonUiConfig",
     "CBOMyWorks": [
         {
-            "searchCriteria" : ["ACCEPTED", "PENDING_FOR_ACCEPTANCE","APPROVED"],
+            "searchCriteria" : ["ACCEPTED"],
             "acceptCode": "PENDING_FOR_ACCEPTANCE"
         }
     ]
