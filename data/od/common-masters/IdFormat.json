@@ -81,6 +81,10 @@
     {
       "format": "TE/[fy:yyyy-yy]/[SEQ_CONT_SUPPLEMENT_NUM]",
       "idname": "contract.supplement.number"
+    },
+    {
+      "format": "COR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_IFMS_PAYMENT_INSTRUCTION_NUMBER]",
+      "idname": "ifms.repi.reference.number"
     }
   ]
 }
