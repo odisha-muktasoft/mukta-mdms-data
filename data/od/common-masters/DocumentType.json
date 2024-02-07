@@ -1,0 +1,27 @@
+
+{
+    "tenantId": "od",
+    "moduleName": "common-masters",
+    "DocumentType": [
+        {
+            "name": "Aadhaar",
+            "code": "AADHAAR",
+            "active": true
+        },
+        {
+            "name": "ElectionPhoto Identity Card(EPIC)",
+            "code": "ELECTION_PHOTO",
+            "active": true
+        },
+        {
+            "name": "Driving License",
+            "code": "DRIVING_LICENSE",
+            "active": true
+        },
+        {
+            "name": "Ration Card under TPDS",
+            "code": "RATION_CARD",
+            "active": true
+        }
+    ]
+}

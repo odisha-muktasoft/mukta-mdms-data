@@ -1,0 +1,26 @@
+{
+    "tenantId": "od",
+    "moduleName": "commonUiConfig",
+    "AadhaarVerifyServiceConfig": [
+        {
+            "url" : "http://164.100.141.79/authekycv4/api/authenticate",
+            "payload" : {
+                "uid": "",
+                "uidType": "A",
+                "consent": "Y",
+                "subAuaCode": "0002590000",
+                "txn": "",
+                "isPI": "y",
+                "isBio": "n",
+                "isOTP": "n",
+                "bioType": "n",
+                "name": "",
+                "dob": "",
+                "gender": "",
+                "rdInfo": "",
+                "rdData": "",
+                "otpValue": ""
+            } 
+        }
+    ]
+}
