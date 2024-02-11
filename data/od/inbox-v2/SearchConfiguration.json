@@ -77,6 +77,12 @@
           "path": "Data.auditDetails.createdBy.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
+        },
+        {
+          "name": "businessService",
+          "path": "Data.businessService.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
         }
       ],
       "sortBy": {
