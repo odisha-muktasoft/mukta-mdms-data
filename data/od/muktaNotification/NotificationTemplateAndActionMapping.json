@@ -11,7 +11,7 @@
     {
       "templateCode": "MP_APPROVE",
       "templateId": "1007767289773508589",
-      "action": "singleSMS",
+      "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     },
     {
@@ -23,7 +23,7 @@
     {
       "templateCode": "MB_REJECT",
       "templateId": "1007376387404733517",
-      "action": "singleSMS",
+      "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
     },
     {
