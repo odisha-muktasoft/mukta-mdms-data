@@ -1602,6 +1602,12 @@
       "actionid": 169,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 157,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
