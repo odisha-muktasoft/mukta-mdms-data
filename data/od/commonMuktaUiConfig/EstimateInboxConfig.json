@@ -174,7 +174,7 @@
               },
               {
                 "text": "WORKS_CREATE_REVISED_ESTIMATE",
-                "url": "/employee/estimate/search-estimate?status=APPROVED",
+                "url": "/employee/estimate/search-estimate?status=APPROVED&businessService=ESTIMATE",
                 "roles": ["ESTIMATE_CREATOR"]
               }
             ],
