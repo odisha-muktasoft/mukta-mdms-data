@@ -155,7 +155,7 @@
             "links": [
               {
                 "text": "ACTION_TEST_CREATE_WO",
-                "url": "/employee/estimate/search-estimate?status=APPROVED",
+                "url": "/employee/estimate/search-estimate?status=APPROVED&businessService=ESTIMATE",
                 "roles": ["WORK_ORDER_CREATOR"]
               },
               {
