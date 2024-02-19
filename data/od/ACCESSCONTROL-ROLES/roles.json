@@ -189,12 +189,12 @@
     {
       "code": "MDMS_STATE_VIEW_ADMIN",
       "name": "MDMS STATE VIEW ADMIN",
-      "description": "Mdms State Admin"
+      "description": "Mdms State View Admin"
     },
     {
       "code": "MDMS_CITY_VIEW_ADMIN",
       "name": "MDMS CITY VIEW ADMIN",
-      "description": "Mdms City Admin"
+      "description": "Mdms City View Admin"
     } 
   ]
 }
