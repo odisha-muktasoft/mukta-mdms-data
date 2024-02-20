@@ -9,7 +9,7 @@
       "locale": "en_IN"
     },
     {
-      "templateCode": "MP_APPROVE",
+      "templateCode": "MB_APPROVE",
       "templateId": "1007767289773508589",
       "action": "singlewithbulkunicodeSMS",
       "locale": "or_IN"
