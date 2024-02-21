@@ -8,7 +8,8 @@
         "contractStatus":"ACTIVE",
         "measurementWorkflowStatus": "APPROVED",
         "enableMeasurementAfterContractEndDate":false,
-        "active": true
+        "active": true,
+        "measurementBookStartDate":1708367400000
       }
     ]
 }
