@@ -1539,6 +1539,54 @@
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
       "path": "5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
       "leftIcon": "dynamic:ExpenditureIcon"
+    },
+    {
+      "id": 132,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/WORKS-SOR.SOR",
+      "displayName": "create WORKS-SOR.SOR",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 133,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/WORKS-SOR.SOR",
+      "displayName": "Update WORKS-SOR.SOR",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 134,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/WORKS-SOR.Rates",
+      "displayName": "create WORKS-SOR.Rates",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 135,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/WORKS-SOR.Rates",
+      "displayName": "Update WORKS-SOR.Rates",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
