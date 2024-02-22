@@ -150,6 +150,16 @@
       "code": "MUSTER_ROLL_VIEWER",
       "name": "MUSTER ROLL VIEWER",
       "description": "Muster Roll Viewer"
+    },
+    {
+      "code": "MDMS_STATE_ADMIN",
+      "name": "MDMS STATE ADMIN",
+      "description": "Mdms State Admin"
+    },
+    {
+      "code": "MDMS_CITY_ADMIN",
+      "name": "MDMS CITY ADMIN",
+      "description": "Mdms City Admin"
     }
   ]
 }
