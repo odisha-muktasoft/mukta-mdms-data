@@ -1418,6 +1418,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_ADMIN",
+      "actionid": 163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MDMS_STATE_VIEW_ADMIN",
       "actionid": 162,
       "actioncode": "",
