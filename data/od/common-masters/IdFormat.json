@@ -91,7 +91,7 @@
       "idname": "mb.reference.number"
     },
     {
-      "format": "SOR_[SEQ_SOR_REF_NUMBER]",
+      "format": "SOR_[SEQ_SOR_REF_NUMBERS]",
       "idname": "works.sor.number"
     },
     {
