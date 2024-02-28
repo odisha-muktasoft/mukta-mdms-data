@@ -1406,6 +1406,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 164,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MDMS_STATE_VIEW_ADMIN",
       "actionid": 163,
       "actioncode": "",
