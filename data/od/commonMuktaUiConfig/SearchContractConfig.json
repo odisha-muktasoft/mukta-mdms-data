@@ -10,7 +10,9 @@
             "requestParam": {},
             "requestBody": {
               "inbox": {
-                 "moduleSearchCriteria": {}
+                 "moduleSearchCriteria": {
+                   "businessService" : ["CONTRACT","CONTRACT-REVISION"]
+                 }
               }
             },
             "minParametersForSearchForm": 1,
@@ -27,6 +29,7 @@
                 "formClassName": "custom-both-clear-search",
                 "primaryLabel": "ES_COMMON_SEARCH",
                 "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
+                "searchWrapperStyles" : { "gridColumnEnd" : "-1"},
                 "minReqFields": 1,
                 "showFormInstruction": "CONTRACT_SEARCH_HINT",
                 "defaultValues": {
@@ -92,7 +95,7 @@
                       }
                   },
                   {
-                      "label": "WORKS_ORDER_ID",
+                      "label": "WORKS_SEARCH_ORDER_ID",
                       "type": "text",
                       "isMandatory": false,
                       "disable": false,
@@ -161,7 +164,7 @@
               "uiConfig": {
                 "columns": [
                   {
-                    "label": "WORKS_ORDER_ID",
+                    "label": "WORKS_SEARCH_ORDER_ID",
                     "jsonPath": "ProcessInstance.businessId",
                     "additionalCustomization": true
                   },

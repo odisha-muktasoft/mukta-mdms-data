@@ -1,5 +1,5 @@
 {
-	"ACCESSCONTROL-ACTIONS-TEST": {
+    "ACCESSCONTROL-ACTIONS-TEST": {
 		"actions-test": {
 			"masterName": "actions-test",
 			"isStateLevel": true,
@@ -58,7 +58,79 @@
 			"uniqueKeys": [
 				"$.code"
 			]
-		}
+		},
+		"MusterRoll": {
+			"masterName": "MusterRoll",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "WageSeekerSkills": {
+			"masterName": "WageSeekerSkills",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "OrgType": {
+			"masterName": "OrgType",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "OrgFunctionCategory": {
+			"masterName": "OrgFunctionCategory",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "OrgFunctionClass": {
+			"masterName": "OrgFunctionClass",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "OrgTaxIdentifier": {
+			"masterName": "OrgTaxIdentifier",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "OrgTransferCode": {
+			"masterName": "OrgTransferCode",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "ProjectType": {
+			"masterName": "ProjectType",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  },
+		  "NatureOfWork": {
+			"masterName": "NatureOfWork",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+			  "$.code"
+			]
+		  }
 	},
 	"DIGIT-UI": {
 		"ApiCachingSettings": {
@@ -67,7 +139,7 @@
 			"uniqueKeys": []
 		}
 	},
-	"tenant": {
+    "tenant": {
 		"tenants": {
 			"masterName": "tenants",
 			"isStateLevel": true,
@@ -85,99 +157,211 @@
 			]
 		}
 	},"egov-hrms": {
-	"EmployeeStatus": {
-		"masterName": "EmployeeStatus",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
+		"EmployeeStatus": {
+			"masterName": "EmployeeStatus",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"EmployeeType": {
+			"masterName": "EmployeeType",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"Degree": {
+			"masterName": "Degree",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"Specalization": {
+			"masterName": "Specalization",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"DeactivationReason": {
+			"masterName": "DeactivationReason",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"EmploymentTest": {
+			"masterName": "EmploymentTest",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
 	},
-	"EmployeeType": {
-		"masterName": "EmployeeType",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
-	},
-	"Degree": {
-		"masterName": "Degree",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
-	},
-	"Specalization": {
-		"masterName": "Specalization",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
-	},
-	"DeactivationReason": {
-		"masterName": "DeactivationReason",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
-	},
-	"EmploymentTest": {
-		"masterName": "EmploymentTest",
-		"isStateLevel": true,
-		"uniqueKeys": [
-			"$.code"
-		]
-	}
-},
 	"ifms": {
 		"HeadOfAccounts": {
-			"masterName": "HeadOfAccounts",
-			"isStateLevel": true
+		  "masterName": "HeadOfAccounts",
+		  "moduleDefinition": null,
+		  "isStateLevel": true,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
 		},
 		"SchemeDetails": {
-			"masterName": "SchemeDetails",
-			"isStateLevel": true
+		  "masterName": "SchemeDetails",
+		  "moduleDefinition": null,
+		  "isStateLevel": true,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
 		}
-	},
+	  },
 	"expense": {
 		"HeadCodes": {
-			"masterName": "HeadCodes",
-			"isStateLevel": true,
-			"moduleDefinition": null,
-			"uniqueKeys": [
-				"$.code"
-			]
+		  "masterName": "HeadCodes",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
 		},
 		"BusinessService": {
-			"masterName": "BusinessService",
-			"isStateLevel": true,
-			"moduleDefinition": null,
-			"uniqueKeys": [
-				"$.code"
-			]
+		  "masterName": "BusinessService",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
 		},
 		"ApplicableCharges": {
-			"masterName": "ApplicableCharges",
-			"isStateLevel": true,
-			"moduleDefinition": null,
-			"uniqueKeys": [
-				"$.code"
-			]
+		  "masterName": "ApplicableCharges",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+					"$.code"
+		  ]
 		},
 		"PayerList": {
-			"masterName": "PayerList",
-			"isStateLevel": true,
-			"moduleDefinition": null,
-			"uniqueKeys": [
-				"$.code"
-			]
+		  "masterName": "PayerList",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
 		},
 		"LabourCharges": {
-			"masterName": "LabourCharges",
-			"isStateLevel": true,
-			"moduleDefinition": null,
-			"uniqueKeys": [
-				"$.code"
-			]
+		  "masterName": "LabourCharges",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
 		}
-	}
+	  },
+	  "works": {
+		"ScheduleCategory": {
+		  "masterName": "ScheduleCategory",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code",
+			"$.tenantId"
+		  ]
+		},
+		"TypeOfWork": {
+		  "masterName": "TypeOfWork",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code",
+			"$.tenantId"
+		  ]
+		},
+		"Overhead": {
+		  "masterName": "Overhead",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code",
+			"$.tenantId"
+		  ]
+		},
+		"ContractorClass": {
+		  "masterName": "ContractorClass",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.class",
+			"$.tenantId"
+		  ]
+		},
+		"BudgetGroup": {
+		  "masterName": "BudgetGroup",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.name",
+			"$.tenantId"
+		  ]
+		},
+		"WorksStatus": {
+		  "masterName": "WorksStatus",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code",
+			"$.tenantId"
+		  ]
+		},
+		"CBORoles": {
+		  "masterName": "CBORoles",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"Overheads": {
+		  "masterName": "Overheads",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"OICRoles": {
+		  "masterName": "OICRoles",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"ContractType": {
+		  "masterName": "ContractType",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"SorId": {
+		  "masterName": "SorId",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		},
+		"Category": {
+		  "masterName": "Category",
+		  "isStateLevel": true,
+		  "moduleDefinition": null,
+		  "uniqueKeys": [
+			"$.code"
+		  ]
+		}
+	  }
 }

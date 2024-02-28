@@ -26,6 +26,7 @@
             "headerStyle": null,
             "formClassName": "custom-both-clear-search",
             "primaryLabel": "ES_COMMON_SEARCH",
+            "searchWrapperStyles" : { "gridColumnEnd" : "-1"},
             "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
             "minReqFields": 1,
             "showFormInstruction": "ESTIMATE_SEARCH_HINT",
@@ -89,7 +90,7 @@
                 }
               },
               {
-                "label": "ESTIMATE_ESTIMATE_NO",
+                "label": "ESTIMATE_SEARCH_ESTIMATE_NO",
                 "type": "text",
                 "isMandatory": false,
                 "disable": false,
@@ -172,7 +173,7 @@
           "uiConfig": {
             "columns": [
               {
-                "label": "ESTIMATE_ESTIMATE_NO",
+                "label": "ESTIMATE_SEARCH_ESTIMATE_NO",
                 "jsonPath": "businessObject.estimateNumber",
                 "additionalCustomization": true
               },

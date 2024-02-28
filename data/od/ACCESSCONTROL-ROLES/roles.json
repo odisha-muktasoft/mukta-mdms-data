@@ -152,6 +152,26 @@
       "description": "Muster Roll Viewer"
     },
     {
+      "code": "MB_CREATOR",
+      "name": "MB_CREATOR",
+      "description": "Default role for MB service creator"
+    },
+    {
+      "code": "MB_VERIFIER",
+      "name": "MB_VERIFIER",
+      "description": "Default role for MB service verifier"
+    },
+    {
+      "code": "MB_APPROVER",
+      "name": "MB_APPROVER",
+      "description": "Default role for MB service approver"
+    },
+    {
+      "code": "MB_VIEWER",
+      "name": "MB_VIEWER",
+      "description": "Default role for MB service viewer"
+    },
+    {
       "code": "MDMS_STATE_ADMIN",
       "name": "MDMS STATE ADMIN",
       "description": "Mdms State Admin"
@@ -165,6 +185,16 @@
       "code": "MDMS_ADMIN",
       "name": "MDMS Admin",
       "description": "Default role for workbench user"
-    }
+    },
+    {
+      "code": "MDMS_STATE_VIEW_ADMIN",
+      "name": "MDMS STATE VIEW ADMIN",
+      "description": "Mdms State View Admin"
+    },
+    {
+      "code": "MDMS_CITY_VIEW_ADMIN",
+      "name": "MDMS CITY VIEW ADMIN",
+      "description": "Mdms City View Admin"
+    } 
   ]
 }

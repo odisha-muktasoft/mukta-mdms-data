@@ -1362,6 +1362,271 @@
       "actionid": 147,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 167,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_VERIFIER",
+      "actionid": 167,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MUSTER_ROLL_APPROVER",
+      "actionid": 167,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 166,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 166,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 165,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 164,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 162,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 162,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 158,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 158,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 157,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+     {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 157,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 157,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 156,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+     {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 156,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+      {
+      "rolecode": "MB_APPROVER",
+      "actionid": 156,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 155,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_VIEWER",
+      "actionid": 155,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 154,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 153,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 151,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 151,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 151,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 151,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 150,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 150,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 150,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 150,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 149,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 149,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 149,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 148,
+      "actioncode": "",
+      "tenantId": "od"
     }
+    
   ]
 }

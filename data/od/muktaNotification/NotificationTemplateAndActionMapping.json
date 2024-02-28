@@ -3,6 +3,30 @@
   "moduleName": "muktaNotification",
   "NotificationTemplateAndActionMapping": [
     {
+      "templateCode": "MB_APPROVE",
+      "templateId": "1007665544200114485",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "MB_APPROVE",
+      "templateId": "1007767289773508589",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
+      "templateCode": "MB_REJECT",
+      "templateId": "1007052070890901544",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "MB_REJECT",
+      "templateId": "1007376387404733517",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
       "templateCode": "CONTRACTS_NOTIFICATION_WORKFLOW_REJECT_ACTION",
       "templateId": "1007949146289052224",
       "action": "singleSMS",

@@ -57,16 +57,6 @@
       "bannerLabel": "ESTIMATE_UPLOAD_BANNER_TEXT",
       "documents": [
         {
-          "code": "DETAILED_ESTIMATE",
-          "name" : "ESTIMATE_DOC_DETAILED_ESTIMATE",
-          "active": true,
-          "isMandatory": true,
-          "showTextInput" : false,
-          "allowedFileTypes": ["pdf","docx","xlsx","xls","jpeg","jpg","doc"],
-          "maxSizeInMB": null,
-          "maxFilesAllowed": 1
-        },
-        {
           "code": "LABOUR_ANALYSIS",
           "name" : "ESTIMATE_DOC_LABOUR_ANALYSIS",
           "active": true,
@@ -229,6 +219,24 @@
           "allowedFileTypes": [],
           "maxSizeInMB": null,
           "maxFilesAllowed": 0
+        }
+      ]
+    },
+    {
+      "module": "Measurement",
+      "allowedFileTypes": ["jpeg","jpg","png"],
+      "maxSizeInMB": 2,
+      "bannerLabel": "MEASUREMENT_UPLOAD_BANNER_LABEL",
+      "documents": [
+        {
+          "code": "MB_MEASUREMENT_BOOK",
+          "name" : "img_measurement_book",
+          "active": true,
+          "isMandatory": false,
+          "showTextInput" : false,
+          "allowedFileTypes": ["jpeg","jpg","png"],
+          "maxSizeInMB": null,
+          "maxFilesAllowed": 5
         }
       ]
     }

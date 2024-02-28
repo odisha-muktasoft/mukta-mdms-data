@@ -37,6 +37,12 @@
           "operator": "EQUAL"
         },
         {
+          "name": "revisionNumber",
+          "path": "Data.revisionNumber.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
           "name": "department",
           "path": "Data.executingDepartment.keyword",
           "isMandatory": false,
@@ -71,6 +77,12 @@
           "path": "Data.auditDetails.createdBy.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
+        },
+        {
+          "name": "businessService",
+          "path": "Data.businessService.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
         }
       ],
       "sortBy": {
@@ -80,6 +92,9 @@
       "sourceFilterPathList": [
         "Data.tenantId",
         "Data.estimateNumber",
+        "Data.revisionNumber",
+        "Data.versionNumber",
+        "Data.businessService",
         "Data.executingDepartment",
         "Data.proposalDate",
         "Data.project",
@@ -255,6 +270,12 @@
         {
           "name": "workOrderNumber",
           "path": "Data.contractNumber.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "businessService",
+          "path": "Data.currentProcessInstance.businessService.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
@@ -650,6 +671,87 @@
         "Data.beneficiaryDetails",
         "Data.auditDetails",
         "Data.additionalDetails"
+      ]
+    },
+    {
+      "module": "measurement-service",
+      "index": "measurement-service-index",
+      "allowedSearchCriteria": [
+        {
+          "name": "tenantId",
+          "path": "Data.tenantId.keyword",
+          "isMandatory": true,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "measurementNumber",
+          "path": "Data.measurementNumber.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "referenceId",
+          "path": "Data.referenceId.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "status",
+          "path": "Data.currentProcessInstance.state.state.keyword",
+          "operator": "IN",
+          "isMandatory": false
+        },
+        {
+          "name": "ward",
+          "path": "Data.contract.additionalDetails.ward.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "projectId",
+          "path": "Data.contract.additionalDetails.projectId.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "projectName",
+          "path": "Data.contract.additionalDetails.projectName.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "createdFrom",
+          "path": "Data.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "GTE"
+        },
+        {
+          "name": "createdTo",
+          "path": "Data.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "LTE"
+        }
+      ],
+      "sortBy": {
+        "path": "Data.auditDetails.createdTime",
+        "defaultOrder": "DESC"
+      },
+      "sourceFilterPathList": [
+        "Data.id",
+        "Data.referenceId",
+        "Data.measurementNumber",
+        "Data.measures",
+        "Data.history",
+        "Data.currentProcessInstance",
+        "Data.additionalDetails",
+        "Data.workflow",
+        "Data.wfStatus",
+        "Data.contract.additionalDetails",
+        "Data.contract.id",
+        "Data.contract.status",
+        "Data.contract.contractNumber",
+        "Data.contract.additionalDetails"
+        
       ]
     }
   ]
