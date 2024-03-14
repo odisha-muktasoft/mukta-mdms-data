@@ -1650,6 +1650,18 @@
       "actionid": 162,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 101,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 72,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
