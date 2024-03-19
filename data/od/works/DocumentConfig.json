@@ -153,16 +153,6 @@
           "maxFilesAllowed": 1
         },
         {
-          "code": "MEASUREMENT_BOOK",
-          "name" : "doc_measurement_book",
-          "active": true,
-          "isMandatory": true,
-          "showTextInput" : false,
-          "allowedFileTypes": ["pdf"],
-          "maxSizeInMB": null,
-          "maxFilesAllowed": 1
-        },
-        {
           "code": "MATERIAL_UTILIZATION_LOG",
           "name" : "doc_material_utilization_log",
           "active": true,
