@@ -1436,7 +1436,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
       "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 123,
@@ -1450,7 +1450,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
       "path": "5BILLS.BillSearch",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 124,
@@ -1464,7 +1464,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
       "path": "5BILLS.BillView",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 125,
