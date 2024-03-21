@@ -112,7 +112,7 @@
               ],
               "label": "ACTION_TEST_BILL_HEADER",
               "logoIcon": {
-                "component": "ExpenditureIcon",
+                "component": "BillsNewIcon",
                 "customClass": "inbox-links-icon"
               }
             },
