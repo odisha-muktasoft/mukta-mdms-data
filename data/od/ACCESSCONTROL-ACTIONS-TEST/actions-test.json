@@ -608,7 +608,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
       "path": "5BILLS.CreratePurchaseBill",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 56,
