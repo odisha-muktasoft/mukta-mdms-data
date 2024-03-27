@@ -2029,7 +2029,7 @@
       "name": "CONTRACTS",
       "url": "url",
       "displayName": "Create TimeExtension",
-      "orderNumber": 1,
+      "orderNumber": 4,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "CONTRACTS",
