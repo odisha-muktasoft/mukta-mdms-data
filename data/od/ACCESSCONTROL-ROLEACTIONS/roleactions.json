@@ -1668,6 +1668,12 @@
       "actionid": 93,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 60,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
