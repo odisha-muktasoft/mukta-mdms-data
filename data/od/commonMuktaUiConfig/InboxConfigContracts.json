@@ -159,6 +159,11 @@
                 "roles": ["WORK_ORDER_CREATOR"]
               },
               {
+                "text": "ACTION_TEST_CREATE_TE",
+                "url": "/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
+                "roles": ["WORK_ORDER_CREATOR"]
+              },
+              {
                 "text": "ACTION_TEST_SEARCH_WO",
                 "url": "/employee/contracts/search-contract",
                 "roles": [
