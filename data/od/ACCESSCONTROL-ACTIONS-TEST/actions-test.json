@@ -2023,6 +2023,20 @@
       "serviceCode": "mukta-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 170,
+      "name": "CONTRACTS",
+      "url": "url",
+      "displayName": "Create TimeExtension",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "CONTRACTS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
+      "path": "3CONTRACTS.CREATETE",
+      "leftIcon": "dynamic:ContractIcon"
     }
   ]  
 }
