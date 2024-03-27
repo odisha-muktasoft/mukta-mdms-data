@@ -160,7 +160,7 @@
               },
               {
                 "text": "ACTION_TEST_CREATE_TE",
-                "url": "/employee/contracts/search-contract?status=APPROVED&businessService=CONTRACT",
+                "url": "/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
                 "roles": ["WORK_ORDER_CREATOR"]
               },
               {
