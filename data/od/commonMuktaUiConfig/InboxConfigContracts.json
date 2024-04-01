@@ -164,7 +164,8 @@
                 "roles": [
                   "WORK_ORDER_CREATOR",
                   "WORK_ORDER_VERIFIER",
-                  "WORK_ORDER_APPROVER"
+                  "WORK_ORDER_APPROVER",
+                  "WORK_ORDER_VIEWER"
                 ]
               },
               {

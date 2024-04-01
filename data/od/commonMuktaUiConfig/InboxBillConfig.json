@@ -102,7 +102,7 @@
                 {
                   "text": "EXP_CREATE_BILL",
                   "url": "/employee/contracts/search-contract?status=ACCEPTED",
-                  "roles": []
+                  "roles": ["BILL_CREATOR"]
                 },
                 {
                   "text": "EXP_SEARCH_BILL",
