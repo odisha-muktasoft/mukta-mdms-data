@@ -77,7 +77,7 @@
                   }
                 },
                 {
-                  "label": "WORKS_CONTRACT_ID",
+                  "label": "WORKS_CONTRACT_INBOX_ID",
                   "type": "text",
                   "isMandatory": false,
                   "disable": false,
