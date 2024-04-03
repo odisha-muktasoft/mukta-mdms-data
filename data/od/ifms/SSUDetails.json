@@ -1,0 +1,19 @@
+{
+  "tenantId": "od",
+  "moduleName": "ifms",
+  "SSUDetails": [
+    {
+      "id": "1",
+      "ssuCode": "OLSHUD001",
+      "ddoCode": "OLSHUD001",
+      "granteeAgCode": "GOHUDULBMPL0036",
+      "granteeName": "ANGUL MUNICIPALITY",
+      "programCode": "PORG/2023-24/OD/00001",
+      "ssuId": "1621",
+      "ssuOffice": "angul_op",
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null,
+      "active": true
+    }
+  ]
+}
