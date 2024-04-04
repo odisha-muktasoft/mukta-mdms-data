@@ -222,7 +222,7 @@
           "code": "MB_MEASUREMENT_BOOK",
           "name" : "img_measurement_book",
           "active": true,
-          "isMandatory": false,
+          "isMandatory": true,
           "showTextInput" : false,
           "allowedFileTypes": ["jpeg","jpg","png"],
           "maxSizeInMB": null,
