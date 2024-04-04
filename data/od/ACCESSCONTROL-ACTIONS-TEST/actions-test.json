@@ -594,7 +594,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
       "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 55,
@@ -608,7 +608,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
       "path": "5BILLS.CreratePurchaseBill",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 56,
@@ -622,7 +622,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
       "path": "BILLS.BillSearch",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "dynamic:BillsNewIcon"
     },
     {
       "id": 57,
@@ -2001,6 +2001,20 @@
       "serviceCode": "mukta-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 168,
+      "name": "CONTRACTS",
+      "url": "url",
+      "displayName": "Create TimeExtension",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "CONTRACTS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
+      "path": "3CONTRACTS.CREATETE",
+      "leftIcon": "dynamic:ContractIcon"
     }
   ]  
 }
