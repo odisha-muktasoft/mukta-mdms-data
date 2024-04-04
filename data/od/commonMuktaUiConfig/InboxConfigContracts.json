@@ -164,8 +164,14 @@
                 "roles": [
                   "WORK_ORDER_CREATOR",
                   "WORK_ORDER_VERIFIER",
-                  "WORK_ORDER_APPROVER"
+                  "WORK_ORDER_APPROVER",
+                  "WORK_ORDER_VIEWER"
                 ]
+              },
+              {
+                "text": "ACTION_TEST_CREATE_TE",
+                "url": "/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
+                "roles": ["WORK_ORDER_CREATOR"]
               }
             ],
             "label": "ACTION_TEST_CONTRACT_HEADER",

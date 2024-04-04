@@ -77,7 +77,7 @@
                 }
               },
               {
-                "label": "WORKS_CONTRACT_ID",
+                "label": "WORKS_CONTRACT_INBOX_ID",
                 "type": "text",
                 "isMandatory": false,
                 "disable": false,
@@ -102,7 +102,7 @@
               {
                 "text": "EXP_CREATE_BILL",
                 "url": "/employee/contracts/search-contract?status=ACCEPTED",
-                "roles": []
+                "roles": ["BILL_CREATOR"]
               },
               {
                 "text": "EXP_SEARCH_BILL",
@@ -112,7 +112,7 @@
             ],
             "label": "ACTION_TEST_BILL_HEADER",
             "logoIcon": {
-              "component": "ExpenditureIcon",
+              "component": "BillsNewIcon",
               "customClass": "inbox-links-icon"
             }
           },
