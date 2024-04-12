@@ -31,6 +31,16 @@
       "active": true,
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
+    },
+    {
+      "id": "4",
+      "code": "132217058003586410459082112",
+      "name": "Other HOA for testing",
+      "sequence": 4,
+      "schemeCode": 13145,
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
     }
   ]
 }
