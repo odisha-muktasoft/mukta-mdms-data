@@ -11,6 +11,7 @@
           {
             "head": "",
             "subHead": "",
+            "navLink":"PB_Details",
             "body": [
               {
                 "label": "WORKS_BILL_NUMBER",
@@ -77,6 +78,7 @@
           },
           {
               "head": "EXP_MB_DETAILES",
+              "navLink":"PB_Details",
               "subHead": "",
               "body": [
                   {
@@ -88,9 +90,31 @@
               ]
           },
           {
-            "head": "EXP_INVOICE_DETAILS",
+            "head": "EXP_ORGANIZATION_DETAILS",
+            "navLink":"PB_Details",
             "subHead": "",
             "body": [
+             {
+                "key": "invoiceDetails_organisationType",
+                "label": "EXP_ORGANISATION_TYPE",
+                "isMandatory": true,
+                "type": "dropdown",
+                "disable": false,
+                "preProcess": {
+                  "updateDependent": [
+                    "populators.options"
+                  ]
+                },
+                "populators": {
+                    "name": "invoiceDetails_organisationType",
+                    "optionsKey": "name",
+                    "error": "WORKS_REQUIRED_ERR",
+                    "optionsCustomStyle": {
+                        "top": "2.3rem"
+                    },
+                    "options": []
+                }
+              },
               {
                 "key": "invoiceDetails_vendor",
                 "label": "EXP_VENDOR",
@@ -122,7 +146,14 @@
                   "name": "invoiceDetails_vendorId",
                   "customClass": "disabled-text-field"
                 }
-              },
+               }
+              ]
+            },
+            {
+              "head": "EXP_INVOICE_DETAILS",
+              "navLink":"PB_Details",
+              "subHead": "",
+              "body": [
               { 
                 "key": "invoiceDetails_invoiceNumber",
                 "label": "EXP_INVOICE_NUMBER",
@@ -163,30 +194,6 @@
               },
               {
                 "inline": true,
-                "label": "EXP_MATERIALCOST_RS",
-                "isMandatory": true,
-                "key": "invoiceDetails_materialCost",
-                "type": "amount",
-                "disable": false,
-                "preProcess": {
-                  "convertStringToRegEx": [
-                    "populators.validation.pattern"
-                  ]
-              },
-                "populators": {
-                  "name": "invoiceDetails_materialCost",
-                  "error": "ERR_INVALID_MAT_COST",
-                    "validation": {
-                      "pattern": "^[1-9]\\d*(\\.\\d+)?$",
-                      "maxlength" : 16,
-                      "step" : "0.01",
-                      "min" : 0,
-                      "max" : 5000000
-                    }
-                }
-              },
-              {
-                "inline": true,
                 "label": "EXP_GST_RS",
                 "isMandatory": false,
                 "key": "invoiceDetails_gst",
@@ -215,6 +222,30 @@
             "navLink":"PB_Details",
             "head": "EXP_BILL_DETAILS",
             "body": [
+              {
+                "inline": true,
+                "label": "EXP_MATERIALCOST_RS",
+                "isMandatory": true,
+                "key": "invoiceDetails_materialCost",
+                "type": "amount",
+                "disable": false,
+                "preProcess": {
+                  "convertStringToRegEx": [
+                    "populators.validation.pattern"
+                  ]
+              },
+                "populators": {
+                  "name": "invoiceDetails_materialCost",
+                  "error": "ERR_INVALID_MAT_COST",
+                    "validation": {
+                      "pattern": "^[1-9]\\d*(\\.\\d+)?$",
+                      "maxlength" : 16,
+                      "step" : "0.01",
+                      "min" : 0,
+                      "max" : 5000000
+                    }
+                }
+              },
               {
                 "label": "WORKS_BILL_DATE",
                 "isMandatory": true,
@@ -245,38 +276,24 @@
                   "customClass": "fc-header-texts",
                   "error": "EXP_BILL_AMOUNT_ERR"
                 }
+              },
+              {
+                  "type": "component",
+                  "component": "DeductionsTable",
+                  "withoutLabel": true,
+                  "key": "deductionsDetails"
+              },
+              {
+                  "type": "component",
+                  "component": "TotalBillAmount",
+                  "withoutLabel": true,
+                  "key": "totalBillAmount"
               }
             ]
           },
           {
-            "head": "WORKS_DEDUCTIONS",
-            "subHead": "",
-            "navLink": "PB_Details",
-            "body": [
-                {
-                    "type": "component",
-                    "component": "DeductionsTable",
-                    "withoutLabel": true,
-                    "key": "deductionsDetails"
-                }
-            ]
-          },
-          {
             "head": "",
-            "subHead": "",
-            "navLink": "PB_Details",
-            "body": [
-                {
-                    "type": "component",
-                    "component": "TotalBillAmount",
-                    "withoutLabel": true,
-                    "key": "totalBillAmount"
-                }
-            ]
-          },
-          {
-            "navLink": "PB_Details",
-            "head": "",
+            "navLink" : "PB_Details",
             "body": [
                 {
                     "type": "documentUpload",
