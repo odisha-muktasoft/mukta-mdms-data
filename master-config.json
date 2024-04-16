@@ -260,7 +260,7 @@
 		  ]
 		}
 	  },
-	  "works": {
+	"works": {
 		"ScheduleCategory": {
 		  "masterName": "ScheduleCategory",
 		  "isStateLevel": true,
@@ -363,5 +363,15 @@
 			"$.code"
 		  ]
 		}
-	  }
+	  },
+	"Exchange": {
+		"ExchangeServers": {
+			"masterName": "ExchangeServers",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
+	}
 }
