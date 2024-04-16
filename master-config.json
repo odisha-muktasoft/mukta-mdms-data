@@ -364,7 +364,7 @@
 		  ]
 		}
 	  },
-	"Exchange": {
+	"exchange": {
 		"ExchangeServers": {
 			"masterName": "ExchangeServers",
 			"moduleDefinition": null,
