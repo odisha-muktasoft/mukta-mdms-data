@@ -1,0 +1,10 @@
+{
+    "tenantId": "od",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "20",
+        "code": "OD-PAD",
+        "name": "Padampur"
+    }]
+}
