@@ -1,5 +1,5 @@
 {
-    "tenantId": "od",
+    "tenantId": "od.testing",
     "moduleName": "segment-codes",
     "GeographicSegmentCodes": [
     {
