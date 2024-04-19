@@ -2040,7 +2040,7 @@
     },
     {
       "id": 171,
-      "name": "Mukta iFix search",
+      "name": "Mukta iFix PI search",
       "url": "/mukta-ifix-adapter/v1/pi/_search",
       "parentModule": "mukta-ifix-adapter",
       "displayName": "MUKTA-IFIX-PI Search",
@@ -2052,7 +2052,7 @@
     },
     {
       "id": 172,
-      "name": "IFMS PI create",
+      "name": "Mukta iFix PI create",
       "url": "/mukta-ifix-adapter/v1/pi/_create",
       "parentModule": "mukta-ifix-adapter",
       "displayName": "MUKTA-IFIX-PI Create",
