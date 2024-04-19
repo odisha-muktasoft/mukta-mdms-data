@@ -1692,6 +1692,18 @@
       "actionid": 170,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 171,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 171,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
