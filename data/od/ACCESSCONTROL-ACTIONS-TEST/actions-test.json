@@ -2037,6 +2037,30 @@
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
       "path": "3CONTRACTS.CREATETE",
       "leftIcon": "dynamic:ContractIcon"
+    },
+    {
+      "id": 171,
+      "name": "Mukta iFix search",
+      "url": "/mukta-ifix-adapter/v1/pi/_search",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 172,
+      "name": "IFMS PI create",
+      "url": "/mukta-ifix-adapter/v1/pi/_create",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
