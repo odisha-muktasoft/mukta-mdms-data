@@ -2073,6 +2073,18 @@
       "serviceCode": "mukta-ifix-adapter",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 174,
+      "name": "WMS search MUKTA-PI",
+      "url": "/wms/mukta-pi/_search",
+      "parentModule": "works-management-service",
+      "displayName": "WMS search MUKTA-PI",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "works-management-service",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
