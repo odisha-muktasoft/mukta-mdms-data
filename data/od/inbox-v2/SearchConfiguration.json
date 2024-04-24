@@ -703,9 +703,9 @@
         },
         {
           "name": "billNumber",
-          "path": "Data.additionalDetails.billNumber.keyword",
+          "path": "Data.additionalDetails.billNumbers.keyword",
           "isMandatory": false,
-          "operator": "EQUAL"
+          "operator": "IN"
         },
         {
           "name": "referenceId",
