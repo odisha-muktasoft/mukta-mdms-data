@@ -514,12 +514,6 @@
             "defaultVisibility": "PLAIN"
           },
           {
-            "name": "individualGender",
-            "jsonPath": "children/*/individual/gender",
-            "patternId": "002",
-            "defaultVisibility": "PLAIN"
-          },
-          {
             "name": "individualPin",
             "jsonPath": "children/*/individual/pin",
             "patternId": "002",
