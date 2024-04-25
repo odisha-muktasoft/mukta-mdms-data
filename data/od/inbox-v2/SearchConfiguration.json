@@ -703,7 +703,7 @@
         },
         {
           "name": "billNumber",
-          "path": "Data.additionalDetails.billNumbers.keyword",
+          "path": "Data.additionalDetails.billNumber.keyword",
           "isMandatory": false,
           "operator": "IN"
         },
