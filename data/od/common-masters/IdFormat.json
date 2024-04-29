@@ -101,10 +101,6 @@
     {
       "format": "COR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_IFMS_PAYMENT_INSTRUCTION_NUMBER]",
       "idname": "ifms.repi.reference.number"
-    },
-    {
-      "idname": "ifix.program.number",
-      "format": "PG/[fy:yyyy-yy]/[SEQ_PROG_NUM]"
     }
   ]
 }
