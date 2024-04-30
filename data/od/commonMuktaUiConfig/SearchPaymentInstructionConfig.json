@@ -9,7 +9,7 @@
       "actionRole": "",
       "actionLink": "expenditure/create-pa?status=APPROVED",
       "apiDetails": {
-        "serviceName": "/wms/ifms-pi/_search",
+        "serviceName": "/wms/mukta-pi/_search",
         "requestParam": {},
         "requestBody": {
           "inbox": {
