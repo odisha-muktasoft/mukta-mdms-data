@@ -1670,6 +1670,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "EMP_ORG_ADMIN",
+      "actionid": 50,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMP_ORG_ADMIN",
+      "actionid": 40,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "BILL_CREATOR",
       "actionid": 169,
       "actioncode": "",
