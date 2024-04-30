@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.bhubaneswar",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "7",
+        "code": "OD-BHU",
+        "name": "Bhubaneshwar"
+    }]
+}

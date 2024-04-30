@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.keonjhargarh",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "17",
+        "code": "OD-KEO",
+        "name": "KeonJhargarh"
+    }]
+}

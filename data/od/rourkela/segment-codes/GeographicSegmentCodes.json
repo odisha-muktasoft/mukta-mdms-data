@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.rourkela",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "24",
+        "code": "OD-RLK",
+        "name": "Rourkela"
+    }]
+}

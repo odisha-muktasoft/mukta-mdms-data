@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.testing",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "26",
+        "code": "OD-TEST",
+        "name": "Testing"
+    }]
+}

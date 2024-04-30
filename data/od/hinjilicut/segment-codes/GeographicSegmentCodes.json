@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.hinjilicut",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "12",
+        "code": "OD-HIN",
+        "name": "Hinjilicut"
+    }]
+}

@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.kotpad",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "19",
+        "code": "OD-KOTPAD",
+        "name": "Kotpad"
+    }]
+}

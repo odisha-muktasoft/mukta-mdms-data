@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.chatrapur",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "9",
+        "code": "OD-CHA",
+        "name": "Chatrapur"
+    }]
+}

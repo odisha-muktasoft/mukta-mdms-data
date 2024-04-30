@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.baripada",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "4",
+        "code": "OD-BAR",
+        "name": "Baripada"
+    }]
+}

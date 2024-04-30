@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.balangir",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "2",
+        "code": "OD-BN",
+        "name": "Balangir"
+    }]
+}
