@@ -1,0 +1,20 @@
+{
+  "tenantId": "od",
+  "moduleName": "exchange",
+  "ExchangeServers": [
+    {
+      "id": "1",
+      "code": "IFMS",
+      "hostUrl": "https://mukta.odisha.gov.in/ifms/digit-exchange",
+      "contextPath": "/ifms/digit-exchange",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "MUKTA",
+      "hostUrl": "https://mukta.odisha.gov.in/mukta/digit-exchange",
+      "contextPath": "/mukta/digit-exchange",
+      "active": true
+    }
+  ]
+}

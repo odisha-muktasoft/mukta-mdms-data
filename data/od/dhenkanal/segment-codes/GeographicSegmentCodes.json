@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.dhenkanal",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "11",
+        "code": "OD-DHEN",
+        "name": "Dhenkanal"
+    }]
+}

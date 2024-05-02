@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.kesinga",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "18",
+        "code": "OD-KSG",
+        "name": "Kesinga"
+    }]
+}

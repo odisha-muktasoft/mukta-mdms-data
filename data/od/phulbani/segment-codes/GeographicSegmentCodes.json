@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.phulbani",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "22",
+        "code": "OD-PHUL",
+        "name": "Phulbani"
+    }]
+}

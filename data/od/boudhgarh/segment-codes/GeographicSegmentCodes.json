@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.boudhgarh",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "8",
+        "code": "OD-BDG",
+        "name": "Boudhgarh"
+    }]
+}

@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.puri",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "23",
+        "code": "OD-PURI",
+        "name": "Puri"
+    }]
+}

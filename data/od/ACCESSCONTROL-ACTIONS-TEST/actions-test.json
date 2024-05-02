@@ -1493,7 +1493,7 @@
     {
       "id": 127,
       "name": "IFMS PI search",
-      "url": "/ifms/pi/v1/_search",
+      "url": "/ifms-adapter/pi/v1/_search",
       "parentModule": "ifms-adapter",
       "displayName": "IFMS-PI Search",
       "orderNumber": 0,
@@ -1505,7 +1505,7 @@
     {
       "id": 128,
       "name": "IFMS PI create",
-      "url": "/ifms/pi/v1/_create",
+      "url": "/ifms-adapter/pi/v1/_create",
       "parentModule": "ifms-adapter",
       "displayName": "IFMS-PI Create",
       "orderNumber": 0,
@@ -1529,7 +1529,7 @@
     {
       "id": 130,
       "name": "IFMS funds search",
-      "url": "/ifms/funds/v1/_search",
+      "url": "/ifms-adapter/funds/v1/_search",
       "parentModule": "ifms-adapter",
       "displayName": "IFMS-Funds search",
       "orderNumber": 0,
@@ -2015,6 +2015,54 @@
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
       "path": "3CONTRACTS.CREATETE",
       "leftIcon": "dynamic:ContractIcon"
+    },
+    {
+      "id": 169,
+      "name": "Mukta iFix search",
+      "url": "/mukta-ifix-adapter/v1/pi/_search",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 170,
+      "name": "Mukta iFix PI create",
+      "url": "/mukta-ifix-adapter/v1/pi/_create",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 171,
+      "name": "Mukta iFix disburse create",
+      "url": "/mukta-ifix-adapter/v1/disburse/_create",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-DISBURSE Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 172,
+      "name": "WMS search MUKTA-PI",
+      "url": "/wms/mukta-pi/_search",
+      "parentModule": "works-management-service",
+      "displayName": "WMS search MUKTA-PI",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "works-management-service",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
