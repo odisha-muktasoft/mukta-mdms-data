@@ -5,14 +5,14 @@
     {
       "id": "1",
       "code": "IFMS",
-      "hostUrl": "https://mukta.odisha.gov.in/ifms/digit-exchange",
+      "hostUrl": "https://mukta.odisha.digit.org/ifms/digit-exchange",
       "contextPath": "/ifms/digit-exchange",
       "active": true
     },
     {
       "id": "2",
       "code": "MUKTA",
-      "hostUrl": "https://mukta.odisha.gov.in/mukta/digit-exchange",
+      "hostUrl": "https://mukta.odisha.digit.org/mukta/digit-exchange",
       "contextPath": "/mukta/digit-exchange",
       "active": true
     }
