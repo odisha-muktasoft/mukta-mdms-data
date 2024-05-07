@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.remuna",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "1",
+        "code": "OD-REM",
+        "name": "Remuna"
+    }]
+}
