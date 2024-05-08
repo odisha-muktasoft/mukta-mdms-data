@@ -120,6 +120,26 @@
       "active": true,
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
+    },
+    {
+      "id": "13",
+      "code": "EMF  ",
+      "category": "deduction",
+      "service": "works.wages",
+      "description": "Environament Management Fund",
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
+    },
+    {
+      "id": "14",
+      "code": "DMF  ",
+      "category": "deduction",
+      "service": "works.wages",
+      "description": "District Mineral Fund ",
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
     }
   ]
 }
