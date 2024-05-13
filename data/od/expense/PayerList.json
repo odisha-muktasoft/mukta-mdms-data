@@ -283,9 +283,135 @@
       "active": true
     },
     {
-      "id": "039",
+      "id": "040",
       "tenantId": "od.jagatsinghpur",
       "code": "od.jagatsinghpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "041",
+      "tenantId": "od.vyasanagar",
+      "code": "od.vyasanagar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "042",
+      "tenantId": "od.bhawanipatna",
+      "code": "od.bhawanipatna",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "043",
+      "tenantId": "od.dharamgarh",
+      "code": "od.dharamgarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "044",
+      "tenantId": "od.junagarh",
+      "code": "od.junagarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "045",
+      "tenantId": "od.kendrapara",
+      "code": "od.kendrapara",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "046",
+      "tenantId": "od.pattamundai",
+      "code": "od.pattamundai",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "047",
+      "tenantId": "od.koraput",
+      "code": "od.koraput",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "048",
+      "tenantId": "od.sundabeda",
+      "code": "od.sundabeda",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "049",
+      "tenantId": "od.balimela",
+      "code": "od.balimela",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "050",
+      "tenantId": "od.nowrangpur",
+      "code": "od.nowrangpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "051",
+      "tenantId": "od.malkangiri",
+      "code": "od.malkangiri",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "052",
+      "tenantId": "od.umarkote",
+      "code": "od.umarkote",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "053",
+      "tenantId": "od.khariar",
+      "code": "od.khariar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "054",
+      "tenantId": "od.khariarroad",
+      "code": "od.khariarroad",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "055",
+      "tenantId": "od.nuapada",
+      "code": "od.nuapada",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "056",
+      "tenantId": "od.gudari",
+      "code": "od.gudari",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "057",
+      "tenantId": "od.gunupur",
+      "code": "od.gunupur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "058",
+      "tenantId": "od.rayagada",
+      "code": "od.rayagada",
       "type": "ULB",
       "active": true
     }
