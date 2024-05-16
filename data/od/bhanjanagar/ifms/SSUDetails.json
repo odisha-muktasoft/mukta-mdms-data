@@ -1,0 +1,19 @@
+{
+  "tenantId": "od.bhanjanagar",
+  "moduleName": "ifms",
+  "SSUDetails": [
+    {
+      "id": "1",
+      "ssuCode": "",
+      "ddoCode": "",
+      "granteeAgCode": "",
+      "granteeName": "",
+      "programCode": "",
+      "ssuId": "",
+      "ssuOffice": "",
+      "effectiveFrom": null,
+      "effectiveTo": null,
+      "active": false
+    }
+  ]
+}

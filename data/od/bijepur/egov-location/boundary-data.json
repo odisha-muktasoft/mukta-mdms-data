@@ -1,0 +1,598 @@
+{
+  "tenantId": "od.bijepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bijepur",
+        "localname": "bijepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bijepur",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 13,
+                "boundaryNum": 1,
+                "name": "BAUNSPOLA",
+                "localname": "Baunspola",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP01",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 14,
+                "boundaryNum": 1,
+                "name": "HARIJANPADA",
+                "localname": "Harijanpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP02",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 15,
+                "boundaryNum": 1,
+                "name": "BARGEPADA",
+                "localname": "Bargepada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP03",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 16,
+                "boundaryNum": 1,
+                "name": "BHOIPADA",
+                "localname": "Bhoipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP04",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "MEHERPADA",
+                "localname": "Meherpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP05",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "MAJHIPALI",
+                "localname": "Majhipali",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP06",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "ANANDNAGAR",
+                "localname": "Anandnagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP07",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "RAMJIPADA",
+                "localname": "Ramjipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP08",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": [
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "KEUTIPALI",
+                "localname": "Keutipali",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP09",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "LUHURAPADA",
+                "localname": "Luhurapada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP10",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "PADHANPADA",
+                "localname": "Padhanpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP11",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "GAURPADA",
+                "localname": "Gaurpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP12",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "HARIJANPADA",
+                "localname": "Harijanpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP13",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "KUMBHARPADA",
+                "localname": "Kumbharpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP14",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "UPARPADA",
+                "localname": "Uparpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP15",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "HARIJANPADA",
+                "localname": "Harijanpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP16",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "MALPADA",
+                "localname": "Malpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP17",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "GHUNGHUTIPADA",
+                "localname": "Ghunghutipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP18",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "GANDHIPADA",
+                "localname": "Gandhipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP19",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "GHASIAPADA",
+                "localname": "Ghasiapada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP20",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "BINJHALPADA",
+                "localname": "Binjhalpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP21",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "KULIPADA",
+                "localname": "Kulipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP22",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "CHHIPIPADA",
+                "localname": "Chhipipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP23",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "HATUAPADA",
+                "localname": "Hatuapada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP24",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "MAJHPADA",
+                "localname": "Majhpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP25",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "JAMIDARPADA",
+                "localname": "Jamidarpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP26",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "BARIKPADA",
+                "localname": "Barikpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP27",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 40,
+                "boundaryNum": 1,
+                "name": "NUAPADA",
+                "localname": "Nuapada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP28",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 41,
+                "boundaryNum": 1,
+                "name": "M.GANDPALI",
+                "localname": "M.Gandpali",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP29",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 42,
+                "boundaryNum": 1,
+                "name": "TIKIRA",
+                "localname": "Tikira",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP30",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 43,
+                "boundaryNum": 1,
+                "name": "KANDHARA",
+                "localname": "Kandhara",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP31",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 44,
+                "boundaryNum": 1,
+                "name": "TALIPADA",
+                "localname": "Talipada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP32",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 45,
+                "boundaryNum": 1,
+                "name": "UPARPADA",
+                "localname": "Uparpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP33",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 46,
+                "boundaryNum": 1,
+                "name": "HARIJANPADA",
+                "localname": "Harijanpada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BJP34",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
