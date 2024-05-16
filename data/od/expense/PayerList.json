@@ -414,6 +414,202 @@
       "code": "od.rayagada",
       "type": "ULB",
       "active": true
+    },
+    {
+      "id": "059",
+      "tenantId": "od.attabira",
+      "code": "od.attabira",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "060",
+      "tenantId": "od.bargarh",
+      "code": "od.bargarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "061",
+      "tenantId": "od.barpali",
+      "code": "od.barpali",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "062",
+      "tenantId": "od.bijepur",
+      "code": "od.bijepur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "063",
+      "tenantId": "od.kantabanji",
+      "code": "od.kantabanji",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "064",
+      "tenantId": "od.patnagarh",
+      "code": "od.patnagarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "065",
+      "tenantId": "od.titlagarh",
+      "code": "od.titlagarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "066",
+      "tenantId": "od.tusura",
+      "code": "od.tusura",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "067",
+      "tenantId": "od.aska",
+      "code": "od.aska",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "068",
+      "tenantId": "od.bellaguntha",
+      "code": "od.bellaguntha",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "069",
+      "tenantId": "od.bhanjanagar",
+      "code": "od.bhanjanagar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "070",
+      "tenantId": "od.buguda",
+      "code": "od.buguda",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "071",
+      "tenantId": "od.kabisuryanagar",
+      "code": "od.kabisuryanagar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "072",
+      "tenantId": "od.khalikote",
+      "code": "od.khalikote",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "073",
+      "tenantId": "od.kodala",
+      "code": "od.kodala",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "074",
+      "tenantId": "od.polosara",
+      "code": "od.polosara",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "075",
+      "tenantId": "od.purusottampur",
+      "code": "od.purusottampur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "076",
+      "tenantId": "od.surada",
+      "code": "od.surada",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "077",
+      "tenantId": "od.belpahar",
+      "code": "od.belpahar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "078",
+      "tenantId": "od.brajarajnagar",
+      "code": "od.brajarajnagar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "079",
+      "tenantId": "od.baliguda",
+      "code": "od.baliguda",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "080",
+      "tenantId": "od.gudaygiri",
+      "code": "od.gudaygiri",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "081",
+      "tenantId": "od.rairangpur",
+      "code": "od.rairangpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "082",
+      "tenantId": "od.udala",
+      "code": "od.udala",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "083",
+      "tenantId": "od.dasapalla",
+      "code": "od.dasapalla",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "084",
+      "tenantId": "od.biramitrapur",
+      "code": "od.biramitrapur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "085",
+      "tenantId": "od.rajgangpur",
+      "code": "od.rajgangpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "086",
+      "tenantId": "od.sundargarh",
+      "code": "od.sundargarh",
+      "type": "ULB",
+      "active": true
     }
   ]
 }
