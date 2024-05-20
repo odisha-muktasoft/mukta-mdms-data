@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.hindol",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-HND",
+            "name": "Hindol"
+        }
+    ]
+}

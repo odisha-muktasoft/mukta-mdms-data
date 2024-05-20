@@ -610,6 +610,209 @@
       "code": "od.sundargarh",
       "type": "ULB",
       "active": true
+    },
+    {
+      "id": "087",
+      "tenantId": "od.angul",
+      "code": "od.angul",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "088",
+      "tenantId": "od.athmallik",
+      "code": "od.athmallik",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "089",
+      "tenantId": "od.talcher",
+      "code": "od.talcher",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "090",
+      "tenantId": "od.banki",
+      "code": "od.banki",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "091",
+      "tenantId": "od.choudwar",
+      "code": "od.choudwar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "092",
+      "tenantId": "od.deogarh",
+      "code": "od.deogarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "093",
+      "tenantId": "od.bhuban",
+      "code": "od.bhuban",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "094",
+      "tenantId": "od.hindol",
+      "code": "od.hindol",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "095",
+      "tenantId": "od.kamakhyanagar",
+      "code": "od.kamakhyanagar",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "096",
+      "tenantId": "od.anandapur",
+      "code": "od.anandapur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "097",
+      "tenantId": "od.barbil",
+      "code": "od.barbil",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "098",
+      "tenantId": "od.champua",
+      "code": "od.champua",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "099",
+      "tenantId": "od.joda",
+      "code": "od.joda",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "100",
+      "tenantId": "od.balugaon",
+      "code": "od.balugaon",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "101",
+      "tenantId": "od.banpur",
+      "code": "od.banpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "102",
+      "tenantId": "od.khordha",
+      "code": "od.khordha",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "103",
+      "tenantId": "od.karanjia",
+      "code": "od.karanjia",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "104",
+      "tenantId": "od.khandapara",
+      "code": "od.khandapara",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "105",
+      "tenantId": "od.nayagarh",
+      "code": "od.nayagarh",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "106",
+      "tenantId": "od.odagaon",
+      "code": "od.odagaon",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "107",
+      "tenantId": "od.ranpur",
+      "code": "od.ranpur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "108",
+      "tenantId": "od.konark",
+      "code": "od.konark",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "109",
+      "tenantId": "od.nimapara",
+      "code": "od.nimapara",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "110",
+      "tenantId": "od.pipili",
+      "code": "od.pipili",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "111",
+      "tenantId": "od.kuchinda",
+      "code": "od.kuchinda",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "112",
+      "tenantId": "od.redhakhol",
+      "code": "od.redhakhol",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "113",
+      "tenantId": "od.binka",
+      "code": "od.binka",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "114",
+      "tenantId": "od.sonepur",
+      "code": "od.sonepur",
+      "type": "ULB",
+      "active": true
+    },
+    {
+      "id": "115",
+      "tenantId": "od.tarbha",
+      "code": "od.tarbha",
+      "type": "ULB",
+      "active": true
     }
   ]
 }
