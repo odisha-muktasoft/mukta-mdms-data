@@ -268,6 +268,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -537,6 +624,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -806,6 +980,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -1075,6 +1336,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -1344,6 +1692,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -1613,6 +2048,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -1882,6 +2404,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -2151,6 +2760,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -2420,6 +3116,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -2689,6 +3472,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -2958,6 +3828,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -3227,6 +4184,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -3496,6 +4540,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         },
@@ -3765,6 +4896,93 @@
                 },
                 {
                     "code": "od.sundargarh"
+                },
+                {
+                    "code": "od.angul"
+                },
+                {
+                    "code": "od.athmallik"
+                },
+                {
+                    "code": "od.talcher"
+                },
+                {
+                    "code": "od.banki"
+                },
+                {
+                    "code": "od.choudwar"
+                },
+                {
+                    "code": "od.deogarh"
+                },
+                {
+                    "code": "od.bhuban"
+                },
+                {
+                    "code": "od.hindol"
+                },
+                {
+                    "code": "od.kamakhyanagar"
+                },
+                {
+                    "code": "od.anandapur"
+                },
+                {
+                    "code": "od.barbil"
+                },
+                {
+                    "code": "od.champua"
+                },
+                {
+                    "code": "od.joda"
+                },
+                {
+                    "code": "od.balugaon"
+                },
+                {
+                    "code": "od.banpur"
+                },
+                {
+                    "code": "od.khordha"
+                },
+                {
+                    "code": "od.karanjia"
+                },
+                {
+                    "code": "od.khandapara"
+                },
+                {
+                    "code": "od.nayagarh"
+                },
+                {
+                    "code": "od.odagaon"
+                },
+                {
+                    "code": "od.ranpur"
+                },
+                {
+                    "code": "od.konark"
+                },
+                {
+                    "code": "od.nimapara"
+                },
+                {
+                    "code": "od.pipili"
+                },
+                {
+                    "code": "od.kuchinda"
+                },
+                {
+                    "code": "od.redhakhol"
+                },
+                {
+                    "code": "od.binka"
+                },
+                {
+                    "code": "od.sonepur"
+                },
+                {
+                    "code": "od.tarbha"
                 }
             ]
         }
