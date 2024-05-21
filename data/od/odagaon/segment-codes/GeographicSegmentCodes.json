@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.odagaon",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-ODG",
+            "name": "Odagaon"
+        }
+    ]
+}
