@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.sonepur",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-SNP",
+            "name": "Sonepur"
+        }
+    ]
+}
