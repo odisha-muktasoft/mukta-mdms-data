@@ -2085,6 +2085,31 @@
       "serviceCode": "works-management-service",
       "code": "null",
       "path": ""
-    }
+    },
+
+    {
+      "id": 175,
+      "name": "Measurement Books",
+      "url": "",
+      "displayName": "Measurement Books",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+      },
+      {
+      "id": 176,
+      "name": "Work Orders",
+      "url": "",
+      "displayName": "Work Orders",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+      }
   ]  
 }

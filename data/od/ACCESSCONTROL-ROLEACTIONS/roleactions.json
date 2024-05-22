@@ -1770,6 +1770,31 @@
       "actionid": 174,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 175,
+      "actioncode": "",
+      "tenantId": "od"
+      },
+      {
+      "rolecode": "MB_APPROVER",
+      "actionid": 176,
+      "actioncode": "",
+      "tenantId": "od"
+      },
+      {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 176,
+      "actioncode": "",
+      "tenantId": "od"
+      },
+      {
+      "rolecode": "MB_VIEWER",
+      "actionid": 176,
+      "actioncode": "",
+      "tenantId": "od"
+      }
   ]
 }
