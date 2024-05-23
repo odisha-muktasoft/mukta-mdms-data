@@ -2319,9 +2319,10 @@
 
     {
       "id": 193,
-      "name": "Measurement Books",
+     
+      "name": "ACTION_TEST_5MEASUREMENT",
       "url": "",
-      "displayName": "Measurement Books",
+      "displayName": "ACTION_TEST_5MEASUREMENT",
       "orderNumber": 1,
       "parentModule": "cards",
       "enabled": true,
@@ -2332,8 +2333,9 @@
       {
       "id": 194,
       "name": "Work Orders",
+     
       "url": "",
-      "displayName": "Work Orders",
+      "displayName": "MB_WORK_ORDERS",
       "orderNumber": 1,
       "parentModule": "cards",
       "enabled": true,
