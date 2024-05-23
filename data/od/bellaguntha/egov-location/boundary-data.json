@@ -1,0 +1,791 @@
+{
+  "tenantId": "od.bellaguntha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bellaguntha",
+        "localname": "bellaguntha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bellaguntha",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 15,
+                "boundaryNum": 1,
+                "name": "Gola Street",
+                "localname": "Gola Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT01",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 16,
+                "boundaryNum": 1,
+                "name": "Redika Street",
+                "localname": "Redika Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT02",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "Balidi Street",
+                "localname": "Balidi Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT03",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "Keuto Street",
+                "localname": "Keuto Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT04",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "Alekha Nagar",
+                "localname": "Alekha Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT05",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "Gopinath Street",
+                "localname": "Gopinath Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT06",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "Chadheiya Palli Road",
+                "localname": "Chadheiya Palli Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT07",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "Biswanath Nagar",
+                "localname": "Biswanath Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT08",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "Alia Sahi",
+                "localname": "Alia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT09",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "Ranganipatna",
+                "localname": "Ranganipatna",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT10",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "Ragunath Nagar",
+                "localname": "Ragunath Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT11",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "Jagannath Nagar",
+                "localname": "Jagannath Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT12",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "Dhanwantari Road",
+                "localname": "Dhanwantari Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT13",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": [
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "Mederi Sahi",
+                "localname": "Mederi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT14",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "Hatapada Market",
+                "localname": "Hatapada Market",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT15",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Jagannath Prasad Road",
+                "localname": "Jagannath Prasad Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT16",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Nigamananda Nagar",
+                "localname": "Nigamananda Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT17",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Bajarangi Nagar",
+                "localname": "Bajarangi Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT18",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Harijan Sahi",
+                "localname": "Harijan Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT19",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Kalyan Mandap Area",
+                "localname": "Kalyan Mandap Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT20",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "Sutamsara Road",
+                "localname": "Sutamsara Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT21",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "Koli Sahi Part 1",
+                "localname": "Koli Sahi Part 1",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT22",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "Tulasi Nagar",
+                "localname": "Tulasi Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT23",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "Bhanjanagar Road",
+                "localname": "Bhanjanagar Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT24",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "Laxminursigha Nagar",
+                "localname": "Laxminursigha Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT25",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 40,
+                "boundaryNum": 1,
+                "name": "Master Colony",
+                "localname": "Master Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT26",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 41,
+                "boundaryNum": 1,
+                "name": "Patra Colony",
+                "localname": "Patra Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT27",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 42,
+                "boundaryNum": 1,
+                "name": "Radha Krushna Nagar",
+                "localname": "Radha Krushna Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT28",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 43,
+                "boundaryNum": 1,
+                "name": "Block Office Area",
+                "localname": "Block Office Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT29",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 44,
+                "boundaryNum": 1,
+                "name": "Block Road",
+                "localname": "Block Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT30",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 45,
+                "boundaryNum": 1,
+                "name": "Pandav Nagar",
+                "localname": "Pandav Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT31",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 46,
+                "boundaryNum": 1,
+                "name": "Koli Sahi Part 2",
+                "localname": "Koli Sahi Part 2",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT32",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 47,
+                "boundaryNum": 1,
+                "name": "Khadala Street",
+                "localname": "Khadala Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT33",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 48,
+                "boundaryNum": 1,
+                "name": "Kansari Street",
+                "localname": "Kansari Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT34",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 49,
+                "boundaryNum": 1,
+                "name": "Sasana Street",
+                "localname": "Sasana Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT35",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 50,
+                "boundaryNum": 1,
+                "name": "Panda Street",
+                "localname": "Panda Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT36",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 51,
+                "boundaryNum": 1,
+                "name": "Mala Street",
+                "localname": "Mala Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT37",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 52,
+                "boundaryNum": 1,
+                "name": "Dhoba Street",
+                "localname": "Dhoba Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT38",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 53,
+                "boundaryNum": 1,
+                "name": "Jaganatha Patna",
+                "localname": "Jaganatha Patna",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT39",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 54,
+                "boundaryNum": 1,
+                "name": "Girls High School Area",
+                "localname": "Girls High School Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT40",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 55,
+                "boundaryNum": 1,
+                "name": "Banka Bazar",
+                "localname": "Banka Bazar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT41",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 56,
+                "boundaryNum": 1,
+                "name": "Pentho Street",
+                "localname": "Pentho Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT42",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "Ward 12",
+            "localname": "Ward12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W012",
+            "children": [
+              {
+                "id": 57,
+                "boundaryNum": 1,
+                "name": "Bhagabatapatna Side1",
+                "localname": "Bhagabatapatna Side1",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT43",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 58,
+                "boundaryNum": 1,
+                "name": "Chasa Street",
+                "localname": "Chasa Street",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT44",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "boundaryNum": 1,
+            "name": "Ward 13",
+            "localname": "Ward13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W013",
+            "children": [
+              {
+                "id": 59,
+                "boundaryNum": 1,
+                "name": "Dhanijapalli",
+                "localname": "Dhanijapalli",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT45",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 60,
+                "boundaryNum": 1,
+                "name": "Braharmhani Devi Temple",
+                "localname": "Braharmhani Devi Temple",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT46",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 61,
+                "boundaryNum": 1,
+                "name": "Bhagabata Patna Side 2",
+                "localname": "Bhagabata Patna Side 2",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BGT47",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

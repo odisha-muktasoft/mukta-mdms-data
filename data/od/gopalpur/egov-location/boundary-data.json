@@ -1,0 +1,598 @@
+{
+    "tenantId": "od.gopalpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "gopalpur",
+                "localname": "gopalpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "od.gopalpur",
+                "children": [
+                    {
+                        "id": 2,
+                        "boundaryNum": 1,
+                        "name": "Ward 1",
+                        "localname": "Ward1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W001",
+                        "children": [
+                            {
+                                "id": 13,
+                                "boundaryNum": 1,
+                                "name": "Mayfair Road",
+                                "localname": "Mayfair Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP01",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 14,
+                                "boundaryNum": 1,
+                                "name": "Ring Road",
+                                "localname": "Ring Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP02",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 15,
+                                "boundaryNum": 1,
+                                "name": "Beach Road",
+                                "localname": "Beach Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP03",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 16,
+                                "boundaryNum": 1,
+                                "name": "Masjid Road",
+                                "localname": "Masjid Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP04",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 17,
+                                "boundaryNum": 1,
+                                "name": "Sagara Colony",
+                                "localname": "Sagara Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP05",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 1,
+                        "name": "Ward 2",
+                        "localname": "Ward2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W002",
+                        "children": [
+                            {
+                                "id": 18,
+                                "boundaryNum": 1,
+                                "name": "Vip Road (part- 1)",
+                                "localname": "Vip Road (part- 1)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP06",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 19,
+                                "boundaryNum": 1,
+                                "name": "Out Road",
+                                "localname": "Out Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP07",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 20,
+                                "boundaryNum": 1,
+                                "name": "Oss Park Back Side",
+                                "localname": "Oss Park Back Side",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP08",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 21,
+                                "boundaryNum": 1,
+                                "name": "Saibaba Sahi",
+                                "localname": "Saibaba Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP09",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 1,
+                        "name": "Ward 3",
+                        "localname": "Ward3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W003",
+                        "children": [
+                            {
+                                "id": 22,
+                                "boundaryNum": 1,
+                                "name": "Bullok Street",
+                                "localname": "Bullok Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP10",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 23,
+                                "boundaryNum": 1,
+                                "name": "Thomson Sahi",
+                                "localname": "Thomson Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP11",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 24,
+                                "boundaryNum": 1,
+                                "name": "Nodal UP School Road",
+                                "localname": "Nodal UP School Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP12",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 1,
+                        "name": "Ward 4",
+                        "localname": "Ward4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W004",
+                        "children": [
+                            {
+                                "id": 25,
+                                "boundaryNum": 1,
+                                "name": "Thakurani Sahi",
+                                "localname": "Thakurani Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP13",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 26,
+                                "boundaryNum": 1,
+                                "name": "Adarsha Colony",
+                                "localname": "Adarsha Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP14",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 27,
+                                "boundaryNum": 1,
+                                "name": "Mahavir Colony",
+                                "localname": "Mahavir Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP15",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "boundaryNum": 1,
+                        "name": "Ward 5",
+                        "localname": "Ward5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W005",
+                        "children": [
+                            {
+                                "id": 28,
+                                "boundaryNum": 1,
+                                "name": "Guna Sahi (part-1)",
+                                "localname": "Guna Sahi (part-1)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP16",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 29,
+                                "boundaryNum": 1,
+                                "name": "Park Street",
+                                "localname": "Park Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP17",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 30,
+                                "boundaryNum": 1,
+                                "name": "Electrical Office Gali Sahi",
+                                "localname": "Electrical Office Gali Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP18",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 31,
+                                "boundaryNum": 1,
+                                "name": "Andharabankback Side Gali",
+                                "localname": "Andharabankback Side Gali",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP19",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 32,
+                                "boundaryNum": 1,
+                                "name": "Kukudakhandi Sahi",
+                                "localname": "Kukudakhandi Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP20",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 33,
+                                "boundaryNum": 1,
+                                "name": "Jaranivas Gali",
+                                "localname": "Jaranivas Gali",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP21",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 34,
+                                "boundaryNum": 1,
+                                "name": "NAC Colony",
+                                "localname": "NAC Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP22",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 35,
+                                "boundaryNum": 1,
+                                "name": "PM High School Road",
+                                "localname": "PM High School Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP23",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 36,
+                                "boundaryNum": 1,
+                                "name": "Gandhi Nagar Gali",
+                                "localname": "Gandhi Nagar Gali",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP24",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "boundaryNum": 1,
+                        "name": "Ward 6",
+                        "localname": "Ward6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W006",
+                        "children": [
+                            {
+                                "id": 37,
+                                "boundaryNum": 1,
+                                "name": "Hollyangel School Road",
+                                "localname": "Hollyangel School Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP25",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 38,
+                                "boundaryNum": 1,
+                                "name": "Gopalpur College Road",
+                                "localname": "Gopalpur College Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP26",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "boundaryNum": 1,
+                        "name": "Ward 7",
+                        "localname": "Ward7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W007",
+                        "children": [
+                            {
+                                "id": 39,
+                                "boundaryNum": 1,
+                                "name": "Sana Harijana Sahi",
+                                "localname": "Sana Harijana Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP27",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 40,
+                                "boundaryNum": 1,
+                                "name": "Bada Harijana Sahi",
+                                "localname": "Bada Harijana Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP28",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "boundaryNum": 1,
+                        "name": "Ward 8",
+                        "localname": "Ward8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W008",
+                        "children": [
+                            {
+                                "id": 41,
+                                "boundaryNum": 1,
+                                "name": "Vip Road (part - 2)",
+                                "localname": "Vip Road (part - 2)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP29",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 42,
+                                "boundaryNum": 1,
+                                "name": "Aska Sahi",
+                                "localname": "Aska Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP30",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "boundaryNum": 1,
+                        "name": "Ward 9",
+                        "localname": "Ward9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W009",
+                        "children": [
+                            {
+                                "id": 43,
+                                "boundaryNum": 1,
+                                "name": "Nua Street (part - 2)",
+                                "localname": "Nua Street (part - 2)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP31",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 44,
+                                "boundaryNum": 1,
+                                "name": "Bada Sahi (part - 1)",
+                                "localname": "Bada Sahi (part - 1)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP32",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "boundaryNum": 1,
+                        "name": "Ward 10",
+                        "localname": "Ward10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W010",
+                        "children": [
+                            {
+                                "id": 45,
+                                "boundaryNum": 1,
+                                "name": "Bada Street (part - 2)",
+                                "localname": "Bada Street (part - 2)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP33",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "boundaryNum": 1,
+                        "name": "Ward 11",
+                        "localname": "Ward11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W011",
+                        "children": [
+                            {
+                                "id": 46,
+                                "boundaryNum": 1,
+                                "name": "Guna Sahi (part-2)",
+                                "localname": "Guna Sahi (part-2)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GOP34",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

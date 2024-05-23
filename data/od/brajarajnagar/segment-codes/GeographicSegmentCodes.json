@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.brajarajnagar",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-BRN",
+            "name": "Brajarajnagar"
+        }
+    ]
+}
