@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.nimapara",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-NMP",
+            "name": "Nimapara"
+        }
+    ]
+}

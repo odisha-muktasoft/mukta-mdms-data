@@ -1,0 +1,751 @@
+{
+    "tenantId": "od.nuapada",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "nuapada",
+                "localname": "nuapada",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "od.nuapada",
+                "children": [
+                    {
+                        "id": 2,
+                        "boundaryNum": 1,
+                        "name": "Ward 1",
+                        "localname": "Ward1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W001",
+                        "children": [
+                            {
+                                "id": 16,
+                                "boundaryNum": 1,
+                                "name": "Sakhatora",
+                                "localname": "Sakhatora",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD01",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 17,
+                                "boundaryNum": 1,
+                                "name": "Nuadihi",
+                                "localname": "Nuadihi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD02",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 1,
+                        "name": "Ward 2",
+                        "localname": "Ward2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W002",
+                        "children": [
+                            {
+                                "id": 18,
+                                "boundaryNum": 1,
+                                "name": "Gadtor",
+                                "localname": "Gadtor",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD03",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 1,
+                        "name": "Ward 3",
+                        "localname": "Ward3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W003",
+                        "children": [
+                            {
+                                "id": 19,
+                                "boundaryNum": 1,
+                                "name": "Niladri Vihar",
+                                "localname": "Niladri Vihar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD04",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 20,
+                                "boundaryNum": 1,
+                                "name": "Shanti Nagar",
+                                "localname": "Shanti Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD05",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 21,
+                                "boundaryNum": 1,
+                                "name": "Mandir Pada Part",
+                                "localname": "Mandir Pada Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD06",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 22,
+                                "boundaryNum": 1,
+                                "name": "Sahis Pada",
+                                "localname": "Sahis Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD07",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 1,
+                        "name": "Ward 4",
+                        "localname": "Ward4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W004",
+                        "children": [
+                            {
+                                "id": 23,
+                                "boundaryNum": 1,
+                                "name": "Mandir Pada Part",
+                                "localname": "Mandir Pada Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD08",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 24,
+                                "boundaryNum": 1,
+                                "name": "Bhati Bandh Pada",
+                                "localname": "Bhati Bandh Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD09",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 25,
+                                "boundaryNum": 1,
+                                "name": "Babu Pada",
+                                "localname": "Babu Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD10",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 26,
+                                "boundaryNum": 1,
+                                "name": "Telipada Part",
+                                "localname": "Telipada Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD11",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "boundaryNum": 1,
+                        "name": "Ward 5",
+                        "localname": "Ward5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W005",
+                        "children": [
+                            {
+                                "id": 27,
+                                "boundaryNum": 1,
+                                "name": "Mandirpada Part",
+                                "localname": "Mandirpada Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD12",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 28,
+                                "boundaryNum": 1,
+                                "name": "Fishery Pada",
+                                "localname": "Fishery Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD13",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 29,
+                                "boundaryNum": 1,
+                                "name": "Telipada Part",
+                                "localname": "Telipada Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD14",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "boundaryNum": 1,
+                        "name": "Ward 6",
+                        "localname": "Ward6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W006",
+                        "children": [
+                            {
+                                "id": 30,
+                                "boundaryNum": 1,
+                                "name": "Daily Market Pada",
+                                "localname": "Daily Market Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD15",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 31,
+                                "boundaryNum": 1,
+                                "name": "Pattnaik Pada",
+                                "localname": "Pattnaik Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD16",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 32,
+                                "boundaryNum": 1,
+                                "name": "Radha Krushna Pada",
+                                "localname": "Radha Krushna Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD17",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 33,
+                                "boundaryNum": 1,
+                                "name": "Narottam Nagar",
+                                "localname": "Narottam Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD18",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 34,
+                                "boundaryNum": 1,
+                                "name": "Ram Nagar",
+                                "localname": "Ram Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD19",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 35,
+                                "boundaryNum": 1,
+                                "name": "Bhera Chowk",
+                                "localname": "Bhera Chowk",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD20",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 36,
+                                "boundaryNum": 1,
+                                "name": "Suryanagar",
+                                "localname": "Suryanagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD21",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "boundaryNum": 1,
+                        "name": "Ward 7",
+                        "localname": "Ward7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W007",
+                        "children": [
+                            {
+                                "id": 37,
+                                "boundaryNum": 1,
+                                "name": "Parasaguda",
+                                "localname": "Parasaguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD22",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 38,
+                                "boundaryNum": 1,
+                                "name": "Station Pada",
+                                "localname": "Station Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD23",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "boundaryNum": 1,
+                        "name": "Ward 8",
+                        "localname": "Ward8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W008",
+                        "children": [
+                            {
+                                "id": 39,
+                                "boundaryNum": 1,
+                                "name": "Salebhata",
+                                "localname": "Salebhata",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD24",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "boundaryNum": 1,
+                        "name": "Ward 9",
+                        "localname": "Ward9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W009",
+                        "children": [
+                            {
+                                "id": 40,
+                                "boundaryNum": 1,
+                                "name": "Revenue Colony",
+                                "localname": "Revenue Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD25",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 41,
+                                "boundaryNum": 1,
+                                "name": "Medical Colony",
+                                "localname": "Medical Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD26",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 42,
+                                "boundaryNum": 1,
+                                "name": "Gouda Pada",
+                                "localname": "Gouda Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD27",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 43,
+                                "boundaryNum": 1,
+                                "name": "Rajbeda Pada",
+                                "localname": "Rajbeda Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD28",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "boundaryNum": 1,
+                        "name": "Ward 10",
+                        "localname": "Ward10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W010",
+                        "children": [
+                            {
+                                "id": 44,
+                                "boundaryNum": 1,
+                                "name": "Indira Colony",
+                                "localname": "Indira Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD29",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 45,
+                                "boundaryNum": 1,
+                                "name": "Nilasailyanagar Part",
+                                "localname": "Nilasailyanagar Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD30",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 46,
+                                "boundaryNum": 1,
+                                "name": "Citi School Pada",
+                                "localname": "Citi School Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD31",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 47,
+                                "boundaryNum": 1,
+                                "name": "LIC Colony",
+                                "localname": "LIC Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD32",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 48,
+                                "boundaryNum": 1,
+                                "name": "Block Colony",
+                                "localname": "Block Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD33",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 49,
+                                "boundaryNum": 1,
+                                "name": "Irrigation Colony Part",
+                                "localname": "Irrigation Colony Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD34",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "boundaryNum": 1,
+                        "name": "Ward 11",
+                        "localname": "Ward11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W011",
+                        "children": [
+                            {
+                                "id": 50,
+                                "boundaryNum": 1,
+                                "name": "Lift Irrigation Colony",
+                                "localname": "Lift Irrigation Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD35",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 51,
+                                "boundaryNum": 1,
+                                "name": "Laxmi Nagar",
+                                "localname": "Laxmi Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD36",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 52,
+                                "boundaryNum": 1,
+                                "name": "Suryanagar",
+                                "localname": "Suryanagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD37",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 53,
+                                "boundaryNum": 1,
+                                "name": "Satya Nagar",
+                                "localname": "Satya Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD38",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 54,
+                                "boundaryNum": 1,
+                                "name": "Nilasailaya Nagar Part",
+                                "localname": "Nilasailaya Nagar Part",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD39",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "boundaryNum": 1,
+                        "name": "Ward 12",
+                        "localname": "Ward12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W012",
+                        "children": [
+                            {
+                                "id": 55,
+                                "boundaryNum": 1,
+                                "name": "Sirtol",
+                                "localname": "Sirtol",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD40",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "boundaryNum": 1,
+                        "name": "Ward 13",
+                        "localname": "Ward13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W013",
+                        "children": [
+                            {
+                                "id": 56,
+                                "boundaryNum": 1,
+                                "name": "Mahulbhata Uppar pada",
+                                "localname": "Mahulbhata Uppar pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD41",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 57,
+                                "boundaryNum": 1,
+                                "name": "Forest Colony",
+                                "localname": "Forest Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD42",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "boundaryNum": 1,
+                        "name": "Ward 14",
+                        "localname": "Ward14",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W014",
+                        "children": [
+                            {
+                                "id": 58,
+                                "boundaryNum": 1,
+                                "name": "Mahulbhata Talpada",
+                                "localname": "Mahulbhata Talpada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "NPD43",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
