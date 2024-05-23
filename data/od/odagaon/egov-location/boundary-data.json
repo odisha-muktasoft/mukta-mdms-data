@@ -1,0 +1,711 @@
+{
+  "tenantId": "od.odagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "odagaon",
+        "localname": "odagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.odagaon",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "Bilamanapur",
+                "localname": "Bilamanapur",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG01",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "Chammu Sahi",
+                "localname": "Chammu Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG02",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "Paika Sahi",
+                "localname": "Paika Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG03",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "Khaditeli Sahi",
+                "localname": "Khaditeli Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG04",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "Adhikari Sahi",
+                "localname": "Adhikari Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG05",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": [
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "Patna Sahi",
+                "localname": "Patna Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG06",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "Harijan Sahi",
+                "localname": "Harijan Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG07",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "Odia Sahi",
+                "localname": "Odia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG08",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "Bazar Sahi",
+                "localname": "Bazar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG09",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "Dhoba Sahi",
+                "localname": "Dhoba Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG10",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "Raghunath Nagar",
+                "localname": "Raghunath Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG11",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "Sriram Nagar",
+                "localname": "Sriram Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG12",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "Harijan Sahi",
+                "localname": "Harijan Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG13",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Cinemahall Chaka",
+                "localname": "Cinemahall Chaka",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG14",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Tota Sahi",
+                "localname": "Tota Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG15",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Bijayamandap Sahi",
+                "localname": "Bijayamandap Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG16",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Harijan Sahi",
+                "localname": "Harijan Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG17",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Mathakhajuria Upar Sahi",
+                "localname": "Mathakhajuria Upar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG18",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "Mathakhajuria Tala Sahi",
+                "localname": "Mathakhajuria Tala Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG19",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "Kumbhiapalli",
+                "localname": "Kumbhiapalli",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG20",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "Silpinagar Sahi",
+                "localname": "Silpinagar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG21",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "Khelapadia Tala Sahi",
+                "localname": "Khelapadia Tala Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG22",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "Khelapadia Upar Sahi",
+                "localname": "Khelapadia Upar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG23",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 40,
+                "boundaryNum": 1,
+                "name": "Gandhinagar Sahi",
+                "localname": "Gandhinagar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG24",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 41,
+                "boundaryNum": 1,
+                "name": "Hemamali Sahi",
+                "localname": "Hemamali Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG25",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "Ward 12",
+            "localname": "Ward12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W012",
+            "children": [
+              {
+                "id": 42,
+                "boundaryNum": 1,
+                "name": "Nityananda Sahi",
+                "localname": "Nityananda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG26",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 43,
+                "boundaryNum": 1,
+                "name": "Puspabhandar Sahi",
+                "localname": "Puspabhandar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG27",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "boundaryNum": 1,
+            "name": "Ward 13",
+            "localname": "Ward13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W013",
+            "children": [
+              {
+                "id": 44,
+                "boundaryNum": 1,
+                "name": "Dalak Kalyani Sahi",
+                "localname": "Dalak Kalyani Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG28",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 45,
+                "boundaryNum": 1,
+                "name": "Teachers Colony",
+                "localname": "Teachers Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG29",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 46,
+                "boundaryNum": 1,
+                "name": "Dalak Braman Sahi",
+                "localname": "Dalak Braman Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG30",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 47,
+                "boundaryNum": 1,
+                "name": "Dalak Gudia Sahi",
+                "localname": "Dalak Gudia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG31",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 48,
+                "boundaryNum": 1,
+                "name": "Dalak Gauda Sahi",
+                "localname": "Dalak Gauda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG32",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "boundaryNum": 1,
+            "name": "Ward 14",
+            "localname": "Ward14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W014",
+            "children": [
+              {
+                "id": 49,
+                "boundaryNum": 1,
+                "name": "Ragadi Sahi",
+                "localname": "Ragadi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG33",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 50,
+                "boundaryNum": 1,
+                "name": "Tangia Sahi",
+                "localname": "Tangia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG34",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 51,
+                "boundaryNum": 1,
+                "name": "Akahupadar",
+                "localname": "Akahupadar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG35",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 52,
+                "boundaryNum": 1,
+                "name": "Kadalibandha",
+                "localname": "Kadalibandha",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG36",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "boundaryNum": 1,
+            "name": "Ward 15",
+            "localname": "Ward15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W015",
+            "children": [
+              {
+                "id": 53,
+                "boundaryNum": 1,
+                "name": "Jaringi Kalyani Sahi",
+                "localname": "Jaringi Kalyani Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG37",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 54,
+                "boundaryNum": 1,
+                "name": "Jaringi Nua Sahi",
+                "localname": "Jaringi Nua Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG38",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 55,
+                "boundaryNum": 1,
+                "name": "Jaringi Puruna Sahi",
+                "localname": "Jaringi Puruna Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "ODG39",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

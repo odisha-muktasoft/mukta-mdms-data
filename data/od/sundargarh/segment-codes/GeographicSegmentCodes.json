@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.sundargarh",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-SDG",
+            "name": "Sundargarh"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.belpahar",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-BPH",
+            "name": "Belpahar"
+        }
+    ]
+}

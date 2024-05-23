@@ -1,0 +1,689 @@
+{
+    "tenantId": "od.gudari",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "gudari",
+                "localname": "gudari",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "od.gudari",
+                "children": [
+                    {
+                        "id": 2,
+                        "boundaryNum": 1,
+                        "name": "Ward 1",
+                        "localname": "Ward1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W001",
+                        "children": [
+                            {
+                                "id": 13,
+                                "boundaryNum": 1,
+                                "name": "PHULOBAGICHA SAHI",
+                                "localname": "Phulobagicha Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR01",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 14,
+                                "boundaryNum": 1,
+                                "name": "BRAHMIN STREET",
+                                "localname": "Brahmin Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR02",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 15,
+                                "boundaryNum": 1,
+                                "name": "LADI SAHI",
+                                "localname": "Ladi Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR03",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 1,
+                        "name": "Ward 2",
+                        "localname": "Ward2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W002",
+                        "children": [
+                            {
+                                "id": 16,
+                                "boundaryNum": 1,
+                                "name": "MAIN ROAD",
+                                "localname": "Main Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR04",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 17,
+                                "boundaryNum": 1,
+                                "name": "BARATAM SAHI",
+                                "localname": "Baratam Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR05",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 18,
+                                "boundaryNum": 1,
+                                "name": "BASUKUMBHAR SAHI",
+                                "localname": "Basukumbhar Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR06",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 19,
+                                "boundaryNum": 1,
+                                "name": "NEW COLONY",
+                                "localname": "New Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR07",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 1,
+                        "name": "Ward 3",
+                        "localname": "Ward3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W003",
+                        "children": [
+                            {
+                                "id": 20,
+                                "boundaryNum": 1,
+                                "name": "BADA SAHI",
+                                "localname": "Bada Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR08",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 21,
+                                "boundaryNum": 1,
+                                "name": "OLD BANK STREET",
+                                "localname": "Old Bank Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR09",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 1,
+                        "name": "Ward 4",
+                        "localname": "Ward4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W004",
+                        "children": [
+                            {
+                                "id": 22,
+                                "boundaryNum": 1,
+                                "name": "GOUDA SAHI",
+                                "localname": "Gouda Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR10",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 23,
+                                "boundaryNum": 1,
+                                "name": "PARICHA SAHI",
+                                "localname": "Paricha Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR11",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "boundaryNum": 1,
+                        "name": "Ward 5",
+                        "localname": "Ward5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W005",
+                        "children": [
+                            {
+                                "id": 24,
+                                "boundaryNum": 1,
+                                "name": "NIGHAMANA SAHI",
+                                "localname": "Nighamana Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR12",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 25,
+                                "boundaryNum": 1,
+                                "name": "DERA SAHI",
+                                "localname": "Dera Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR13",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "boundaryNum": 1,
+                        "name": "Ward 6",
+                        "localname": "Ward6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W006",
+                        "children": [
+                            {
+                                "id": 26,
+                                "boundaryNum": 1,
+                                "name": "PAIKO SAHI",
+                                "localname": "Paiko Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR14",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 27,
+                                "boundaryNum": 1,
+                                "name": "KARAN SAHI",
+                                "localname": "Karan Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR15",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 28,
+                                "boundaryNum": 1,
+                                "name": "SUDHA SAHI",
+                                "localname": "Sudha Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR16",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 29,
+                                "boundaryNum": 1,
+                                "name": "MOHANTY SAHI",
+                                "localname": "Mohanty Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR17",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "boundaryNum": 1,
+                        "name": "Ward 7",
+                        "localname": "Ward7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W007",
+                        "children": [
+                            {
+                                "id": 30,
+                                "boundaryNum": 1,
+                                "name": "HARIJAN SAHI 1st LINE",
+                                "localname": "Harijan Sahi 1st Line",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR18",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 31,
+                                "boundaryNum": 1,
+                                "name": "HARIJAN SAHI 2nd LINE",
+                                "localname": "Harijan Sahi 2nd Line",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR19",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 32,
+                                "boundaryNum": 1,
+                                "name": "HARIJAN SAHI 3rd LINE",
+                                "localname": "Harijan Sahi 3rd Line",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR20",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 33,
+                                "boundaryNum": 1,
+                                "name": "RELI SAHI",
+                                "localname": "Reli Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR21",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 34,
+                                "boundaryNum": 1,
+                                "name": "DHOBA SAHI",
+                                "localname": "Dhoba Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR22",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "boundaryNum": 1,
+                        "name": "Ward 8",
+                        "localname": "Ward8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W008",
+                        "children": [
+                            {
+                                "id": 35,
+                                "boundaryNum": 1,
+                                "name": "DANDASI SAHI",
+                                "localname": "Dandasi Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR23",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 36,
+                                "boundaryNum": 1,
+                                "name": "DHEPO BAKITI",
+                                "localname": "Dhepo Bakiti",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR24",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 37,
+                                "boundaryNum": 1,
+                                "name": "DHEPO ODIA SAHI",
+                                "localname": "Dhepo Odia Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR25",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 38,
+                                "boundaryNum": 1,
+                                "name": "CHANDAN SAHI",
+                                "localname": "Chandan Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR26",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "boundaryNum": 1,
+                        "name": "Ward 9",
+                        "localname": "Ward9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W009",
+                        "children": [
+                            {
+                                "id": 39,
+                                "boundaryNum": 1,
+                                "name": "KAMNAGUDA",
+                                "localname": "Kamnaguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR27",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 40,
+                                "boundaryNum": 1,
+                                "name": "MILL DHEPO SAHI",
+                                "localname": "Mill Dhepo Sahi",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR28",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 41,
+                                "boundaryNum": 1,
+                                "name": "PHC COLONY",
+                                "localname": "PHC Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR29",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 42,
+                                "boundaryNum": 1,
+                                "name": "RABINDRA NAGAR",
+                                "localname": "Rabindra Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR30",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "boundaryNum": 1,
+                        "name": "Ward 10",
+                        "localname": "Ward10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W010",
+                        "children": [
+                            {
+                                "id": 43,
+                                "boundaryNum": 1,
+                                "name": "BANSADHARA COLONY",
+                                "localname": "Bansadhara Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR31",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 44,
+                                "boundaryNum": 1,
+                                "name": "HARIJAN COLONY",
+                                "localname": "Harijan Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR32",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 45,
+                                "boundaryNum": 1,
+                                "name": "GANDHI NAGAR",
+                                "localname": "Gandhi Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR33",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 46,
+                                "boundaryNum": 1,
+                                "name": "SHANTI NAGAR",
+                                "localname": "Shanti Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR34",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 47,
+                                "boundaryNum": 1,
+                                "name": "REHABILITATION COLONY",
+                                "localname": "Rehabilitation Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR35",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 48,
+                                "boundaryNum": 1,
+                                "name": "HANUMAN NAGAR",
+                                "localname": "Hanuman Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR36",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "boundaryNum": 1,
+                        "name": "Ward 11",
+                        "localname": "Ward11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W011",
+                        "children": [
+                            {
+                                "id": 49,
+                                "boundaryNum": 1,
+                                "name": "SABAR SAHI 1st LINE",
+                                "localname": "Sabar Sahi 1st Line",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR37",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 50,
+                                "boundaryNum": 1,
+                                "name": "SABAR SAHI 2nd LINE",
+                                "localname": "Sabar Sahi 2nd Line",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR38",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 51,
+                                "boundaryNum": 1,
+                                "name": "BATIABILO",
+                                "localname": "Batiabilo",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR39",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 52,
+                                "boundaryNum": 1,
+                                "name": "SRI RAM NAGAR",
+                                "localname": "Sri Ram Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR40",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 53,
+                                "boundaryNum": 1,
+                                "name": "SRI HARI NAGAR",
+                                "localname": "Sri Hari Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "GDR41",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1377 @@
+{
+    "tenantId": "od.sunabeda",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "sunabeda",
+                "localname": "sunabeda",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "od.sunabeda",
+                "children": [
+                    {
+                        "id": 2,
+                        "boundaryNum": 1,
+                        "name": "Ward 1",
+                        "localname": "Ward1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W001",
+                        "children": [
+                            {
+                                "id": 27,
+                                "boundaryNum": 1,
+                                "name": "Police Camp",
+                                "localname": "Police Camp",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND01",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 28,
+                                "boundaryNum": 1,
+                                "name": "Bapuji Colony",
+                                "localname": "Bapuji Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND02",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 29,
+                                "boundaryNum": 1,
+                                "name": "Tala Street",
+                                "localname": "Tala Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND03",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 1,
+                        "name": "Ward 2",
+                        "localname": "Ward2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W002",
+                        "children": [
+                            {
+                                "id": 30,
+                                "boundaryNum": 1,
+                                "name": "Paraja Street",
+                                "localname": "Paraja Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND04",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 31,
+                                "boundaryNum": 1,
+                                "name": "Dam Street",
+                                "localname": "Dam Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND05",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 1,
+                        "name": "Ward 3",
+                        "localname": "Ward3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W003",
+                        "children": [
+                            {
+                                "id": 32,
+                                "boundaryNum": 1,
+                                "name": "Jadaguda",
+                                "localname": "Jadaguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND06",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 33,
+                                "boundaryNum": 1,
+                                "name": "Gadaba Street",
+                                "localname": "Gadaba Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND07",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 34,
+                                "boundaryNum": 1,
+                                "name": "Tota Street",
+                                "localname": "Tota Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND08",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 35,
+                                "boundaryNum": 1,
+                                "name": "Church Colony-1",
+                                "localname": "Church Colony-1",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND09",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 36,
+                                "boundaryNum": 1,
+                                "name": "Church Colony-2",
+                                "localname": "Church Colony-2",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND10",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 37,
+                                "boundaryNum": 1,
+                                "name": "Kalahandi Colony-1",
+                                "localname": "Kalahandi Colony-1",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND11",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 38,
+                                "boundaryNum": 1,
+                                "name": "Kalahandi Colony-2",
+                                "localname": "Kalahandi Colony-2",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND12",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 39,
+                                "boundaryNum": 1,
+                                "name": "T.D.C.C (O/L) Colony",
+                                "localname": "T.D.C.C (O/L) Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND13",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 40,
+                                "boundaryNum": 1,
+                                "name": "D.P Camp",
+                                "localname": "D.P Camp",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND14",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 1,
+                        "name": "Ward 4",
+                        "localname": "Ward4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W004",
+                        "children": [
+                            {
+                                "id": 41,
+                                "boundaryNum": 1,
+                                "name": "D.P Camp",
+                                "localname": "D.P Camp",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND15",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "boundaryNum": 1,
+                        "name": "Ward 5",
+                        "localname": "Ward5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W005",
+                        "children": [
+                            {
+                                "id": 43,
+                                "boundaryNum": 1,
+                                "name": "Hanuman Market",
+                                "localname": "Hanuman Market",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND17",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 44,
+                                "boundaryNum": 1,
+                                "name": "Barma Camp",
+                                "localname": "Barma Camp",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND18",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 45,
+                                "boundaryNum": 1,
+                                "name": "Sweeper Colony",
+                                "localname": "Sweeper Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND19",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "boundaryNum": 1,
+                        "name": "Ward 6",
+                        "localname": "Ward6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W006",
+                        "children": [
+                            {
+                                "id": 46,
+                                "boundaryNum": 1,
+                                "name": "AEF Market",
+                                "localname": "AEF Market",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND20",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 47,
+                                "boundaryNum": 1,
+                                "name": "Brundabati Street",
+                                "localname": "Brundabati Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND21",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "boundaryNum": 1,
+                        "name": "Ward 7",
+                        "localname": "Ward7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W007",
+                        "children": [
+                            {
+                                "id": 48,
+                                "boundaryNum": 1,
+                                "name": "Rajiv Colony",
+                                "localname": "Rajiv Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND22",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 49,
+                                "boundaryNum": 1,
+                                "name": "Housing Board Colony",
+                                "localname": "Housing Board Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND23",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 50,
+                                "boundaryNum": 1,
+                                "name": "Dasa Colony",
+                                "localname": "Dasa Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND24",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 51,
+                                "boundaryNum": 1,
+                                "name": "Bidyut Board Colony",
+                                "localname": "Bidyut Board Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND25",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 52,
+                                "boundaryNum": 1,
+                                "name": "Sahu Colony",
+                                "localname": "Sahu Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND26",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 53,
+                                "boundaryNum": 1,
+                                "name": "Teacher Colony",
+                                "localname": "Teacher Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND27",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "boundaryNum": 1,
+                        "name": "Ward 8",
+                        "localname": "Ward8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W008",
+                        "children": [
+                            {
+                                "id": 54,
+                                "boundaryNum": 1,
+                                "name": "Driver Colony",
+                                "localname": "Driver Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND28",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 55,
+                                "boundaryNum": 1,
+                                "name": "Shanti Nagar",
+                                "localname": "Shanti Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND29",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 56,
+                                "boundaryNum": 1,
+                                "name": "Timber Colony",
+                                "localname": "Timber Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND30",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 57,
+                                "boundaryNum": 1,
+                                "name": "AEF Colony",
+                                "localname": "AEF Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND31",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 58,
+                                "boundaryNum": 1,
+                                "name": "Trinath Temple Street",
+                                "localname": "Trinath Temple Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND32",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "boundaryNum": 1,
+                        "name": "Ward 9",
+                        "localname": "Ward9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W009",
+                        "children": [
+                            {
+                                "id": 59,
+                                "boundaryNum": 1,
+                                "name": "Chikapar -1",
+                                "localname": "Chikapar -1",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND33",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 60,
+                                "boundaryNum": 1,
+                                "name": "Chikapar -2",
+                                "localname": "Chikapar -2",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND34",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 61,
+                                "boundaryNum": 1,
+                                "name": "Timber Colony (Part)",
+                                "localname": "Timber Colony (Part)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND35",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "boundaryNum": 1,
+                        "name": "Ward 10",
+                        "localname": "Ward10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W010",
+                        "children": [
+                            {
+                                "id": 62,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND36",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "boundaryNum": 1,
+                        "name": "Ward 11",
+                        "localname": "Ward11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W011",
+                        "children": [
+                            {
+                                "id": 63,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND37",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "boundaryNum": 1,
+                        "name": "Ward 12",
+                        "localname": "Ward12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W012",
+                        "children": [
+                            {
+                                "id": 64,
+                                "boundaryNum": 1,
+                                "name": "Indira Colony",
+                                "localname": "Indira Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND38",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 65,
+                                "boundaryNum": 1,
+                                "name": "Biju Colony",
+                                "localname": "Biju Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND39",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 66,
+                                "boundaryNum": 1,
+                                "name": "R Zone, C.C.B.F Farm",
+                                "localname": "R Zone, C.C.B.F Farm",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND40",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "boundaryNum": 1,
+                        "name": "Ward 13",
+                        "localname": "Ward13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W013",
+                        "children": [
+                            {
+                                "id": 67,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND41",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "boundaryNum": 1,
+                        "name": "Ward 14",
+                        "localname": "Ward14",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W014",
+                        "children": [
+                            {
+                                "id": 68,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND42",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "boundaryNum": 1,
+                        "name": "Ward 15",
+                        "localname": "Ward15",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W015",
+                        "children": [
+                            {
+                                "id": 69,
+                                "boundaryNum": 1,
+                                "name": "Bhalu Pahada",
+                                "localname": "Bhalu Pahada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND43",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "boundaryNum": 1,
+                        "name": "Ward 16",
+                        "localname": "Ward16",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W016",
+                        "children": [
+                            {
+                                "id": 70,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND44",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "boundaryNum": 1,
+                        "name": "Ward 17",
+                        "localname": "Ward17",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W017",
+                        "children": [
+                            {
+                                "id": 71,
+                                "boundaryNum": 1,
+                                "name": "HAL Area",
+                                "localname": "HAL Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND45",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "boundaryNum": 1,
+                        "name": "Ward 18",
+                        "localname": "Ward18",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W018",
+                        "children": [
+                            {
+                                "id": 72,
+                                "boundaryNum": 1,
+                                "name": "Gopabandhu Nagar",
+                                "localname": "Gopabandhu Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND46",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 73,
+                                "boundaryNum": 1,
+                                "name": "Shastri Nagar",
+                                "localname": "Shastri Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND47",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 74,
+                                "boundaryNum": 1,
+                                "name": "Satya Nagar (Part)",
+                                "localname": "Satya Nagar (Part)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND48",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "boundaryNum": 1,
+                        "name": "Ward 19",
+                        "localname": "Ward19",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W019",
+                        "children": [
+                            {
+                                "id": 75,
+                                "boundaryNum": 1,
+                                "name": "Kodinga",
+                                "localname": "Kodinga",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND49",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 76,
+                                "boundaryNum": 1,
+                                "name": "Bileiguda",
+                                "localname": "Bileiguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND50",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 77,
+                                "boundaryNum": 1,
+                                "name": "Mina Rao Camp -1",
+                                "localname": "Mina Rao Camp -1",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND51",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 78,
+                                "boundaryNum": 1,
+                                "name": "Mina Rao Camp -2",
+                                "localname": "Mina Rao Camp -2",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND52",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 79,
+                                "boundaryNum": 1,
+                                "name": "Taz Bar Street",
+                                "localname": "Taz Bar Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND53",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 80,
+                                "boundaryNum": 1,
+                                "name": "Satya Nagar (Part)",
+                                "localname": "Satya Nagar (Part)",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND54",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "boundaryNum": 1,
+                        "name": "Ward 20",
+                        "localname": "Ward20",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W020",
+                        "children": [
+                            {
+                                "id": 81,
+                                "boundaryNum": 1,
+                                "name": "Janiguda",
+                                "localname": "Janiguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND55",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 82,
+                                "boundaryNum": 1,
+                                "name": "Kailash Nagar",
+                                "localname": "Kailash Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND56",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 83,
+                                "boundaryNum": 1,
+                                "name": "Saraswati Nagar",
+                                "localname": "Saraswati Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND57",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 84,
+                                "boundaryNum": 1,
+                                "name": "Tala Indira Nagar",
+                                "localname": "Tala Indira Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND58",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 85,
+                                "boundaryNum": 1,
+                                "name": "Upper Indira Nagar",
+                                "localname": "Upper Indira Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND59",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 86,
+                                "boundaryNum": 1,
+                                "name": "Ganesh Nagar",
+                                "localname": "Ganesh Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND60",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 87,
+                                "boundaryNum": 1,
+                                "name": "Shanti Nagar",
+                                "localname": "Shanti Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND61",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 22,
+                        "boundaryNum": 1,
+                        "name": "Ward 21",
+                        "localname": "Ward21",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W021",
+                        "children": [
+                            {
+                                "id": 88,
+                                "boundaryNum": 1,
+                                "name": "Petkona",
+                                "localname": "Petkona",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND62",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 89,
+                                "boundaryNum": 1,
+                                "name": "Tala Street",
+                                "localname": "Tala Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND63",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 23,
+                        "boundaryNum": 1,
+                        "name": "Ward 22",
+                        "localname": "Ward22",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W022",
+                        "children": [
+                            {
+                                "id": 90,
+                                "boundaryNum": 1,
+                                "name": "Gayatri Colony",
+                                "localname": "Gayatri Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND64",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 91,
+                                "boundaryNum": 1,
+                                "name": "Dora Street",
+                                "localname": "Dora Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND65",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 92,
+                                "boundaryNum": 1,
+                                "name": "Pujari Street",
+                                "localname": "Pujari Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND66",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 93,
+                                "boundaryNum": 1,
+                                "name": "Relli Street",
+                                "localname": "Relli Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND67",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 94,
+                                "boundaryNum": 1,
+                                "name": "Gadaba Street",
+                                "localname": "Gadaba Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND68",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "boundaryNum": 1,
+                        "name": "Ward 23",
+                        "localname": "Ward23",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W023",
+                        "children": [
+                            {
+                                "id": 95,
+                                "boundaryNum": 1,
+                                "name": "Upper Street",
+                                "localname": "Upper Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND69",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 96,
+                                "boundaryNum": 1,
+                                "name": "Gadaba Street",
+                                "localname": "Gadaba Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND70",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 97,
+                                "boundaryNum": 1,
+                                "name": "Medri Street",
+                                "localname": "Medri Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND71",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 98,
+                                "boundaryNum": 1,
+                                "name": "Telugu Street",
+                                "localname": "Telugu Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND72",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 99,
+                                "boundaryNum": 1,
+                                "name": "Khadra Street",
+                                "localname": "Khadra Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND73",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 100,
+                                "boundaryNum": 1,
+                                "name": "Ambedkar Street",
+                                "localname": "Ambedkar Street",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND74",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 25,
+                        "boundaryNum": 1,
+                        "name": "Ward 24",
+                        "localname": "Ward24",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W024",
+                        "children": [
+                            {
+                                "id": 101,
+                                "boundaryNum": 1,
+                                "name": "Alamguda",
+                                "localname": "Alamguda",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND75",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 102,
+                                "boundaryNum": 1,
+                                "name": "Gandhi Nagar",
+                                "localname": "Gandhi Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND76",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 26,
+                        "boundaryNum": 1,
+                        "name": "Ward 25",
+                        "localname": "Ward25",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W025",
+                        "children": [
+                            {
+                                "id": 103,
+                                "boundaryNum": 1,
+                                "name": "Kakigan",
+                                "localname": "Kakigan",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND77",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 104,
+                                "boundaryNum": 1,
+                                "name": "Netaji Nagar",
+                                "localname": "Netaji Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND78",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 105,
+                                "boundaryNum": 1,
+                                "name": "Narayan Colony",
+                                "localname": "Narayan Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND79",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 106,
+                                "boundaryNum": 1,
+                                "name": "Mahabir Nagar",
+                                "localname": "Mahabir Nagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND80",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 107,
+                                "boundaryNum": 1,
+                                "name": "Old Raut Colony",
+                                "localname": "Old Raut Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND81",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 108,
+                                "boundaryNum": 1,
+                                "name": "Gurudwar Colony",
+                                "localname": "Gurudwar Colony",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "SND82",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

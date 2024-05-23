@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.koraput",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-KPT",
+            "name": "Koraput"
+        }
+    ]
+}

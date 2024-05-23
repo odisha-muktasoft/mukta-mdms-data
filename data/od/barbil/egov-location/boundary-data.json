@@ -1,0 +1,814 @@
+{
+  "tenantId": "od.barbil",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "barbil",
+        "localname": "barbil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barbil",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "Hesaburu Odia Basti, Munda Sahi",
+                "localname": "Hesaburu Odia Basti, Munda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL01",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "Hirakud Colony",
+                "localname": "Hirakud Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL02",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "Nepali Hutting & Gate Area",
+                "localname": "Nepali Hutting & Gate Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL03",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "Dhipa Hutting & Jahira Hutting",
+                "localname": "Dhipa Hutting & Jahira Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL04",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "Belkundi Gopal Sahi & Munda Sahi",
+                "localname": "Belkundi Gopal Sahi & Munda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL05",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "Dalki Basti",
+                "localname": "Dalki Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL06",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "Kara Munda Sahi & Kara Basti",
+                "localname": "Kara Munda Sahi & Kara Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL07",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "Khapara Hutting",
+                "localname": "Khapara Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL08",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "Sedding Basti",
+                "localname": "Sedding Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL09",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "Buru Hutting",
+                "localname": "Buru Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL10",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "Nepali Hutting & Majhi Hutting",
+                "localname": "Nepali Hutting & Majhi Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL11",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "Upper Basti & Sweeper Colony",
+                "localname": "Upper Basti & Sweeper Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL12",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "S. Lal Hutting & Sriram Nagar",
+                "localname": "S. Lal Hutting & Sriram Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL13",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Sedding Hutting",
+                "localname": "Sedding Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL14",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": []
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Tata Hutting & Patra Sahi",
+                "localname": "Tata Hutting & Patra Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL15",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Paul Hutting",
+                "localname": "Paul Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL16",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Lebe Hutting",
+                "localname": "Lebe Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL17",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Santabahal Basti",
+                "localname": "Santabahal Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL18",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "Megazine Hutting",
+                "localname": "Megazine Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL19",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "Bakal Hutting",
+                "localname": "Bakal Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL20",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "Maharana Sahi",
+                "localname": "Maharana Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL21",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "Bhanja Colony & Kalandi Sahi",
+                "localname": "Bhanja Colony & Kalandi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL22",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "Bagiaburu Hutting & NAC Hutting",
+                "localname": "Bagiaburu Hutting & NAC Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL23",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 40,
+                "boundaryNum": 1,
+                "name": "Barkat Nagar",
+                "localname": "Barkat Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL24",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 41,
+                "boundaryNum": 1,
+                "name": "Dressing Hutting & Tiria Hutting",
+                "localname": "Dressing Hutting & Tiria Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL25",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 42,
+                "boundaryNum": 1,
+                "name": "Pakka Hutting",
+                "localname": "Pakka Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL26",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 43,
+                "boundaryNum": 1,
+                "name": "S. Lal Hutting",
+                "localname": "S. Lal Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL27",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 44,
+                "boundaryNum": 1,
+                "name": "Azad Basti",
+                "localname": "Azad Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL28",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 45,
+                "boundaryNum": 1,
+                "name": "Dhobi Hutting",
+                "localname": "Dhobi Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL29",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 46,
+                "boundaryNum": 1,
+                "name": "Gada Hutting",
+                "localname": "Gada Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL30",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 47,
+                "boundaryNum": 1,
+                "name": "Sundara Basti",
+                "localname": "Sundara Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL31",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "Ward 12",
+            "localname": "Ward12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W012",
+            "children": [
+              {
+                "id": 48,
+                "boundaryNum": 1,
+                "name": "Chatei Hutting",
+                "localname": "Chatei Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL32",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 49,
+                "boundaryNum": 1,
+                "name": "Laxmi Nagar",
+                "localname": "Laxmi Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL33",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 50,
+                "boundaryNum": 1,
+                "name": "Indira Colony",
+                "localname": "Indira Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL34",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 51,
+                "boundaryNum": 1,
+                "name": "Industrial Area",
+                "localname": "Industrial Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL35",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 52,
+                "boundaryNum": 1,
+                "name": "Jhupudi Hutting",
+                "localname": "Jhupudi Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL36",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 53,
+                "boundaryNum": 1,
+                "name": "Railway Siding Area",
+                "localname": "Railway Siding Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL37",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "boundaryNum": 1,
+            "name": "Ward 13",
+            "localname": "Ward13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W013",
+            "children": [
+              {
+                "id": 54,
+                "boundaryNum": 1,
+                "name": "Durby Chhak",
+                "localname": "Durby Chhak",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL38",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 55,
+                "boundaryNum": 1,
+                "name": "Champua Basti",
+                "localname": "Champua Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL39",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 56,
+                "boundaryNum": 1,
+                "name": "Uttamsingh Hutting",
+                "localname": "Uttamsingh Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL40",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "boundaryNum": 1,
+            "name": "Ward 14",
+            "localname": "Ward14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W014",
+            "children": [
+              {
+                "id": 57,
+                "boundaryNum": 1,
+                "name": "Weighbridge Hutting",
+                "localname": "Weighbridge Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL41",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 58,
+                "boundaryNum": 1,
+                "name": "Mandir Hutting",
+                "localname": "Mandir Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL42",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 59,
+                "boundaryNum": 1,
+                "name": "Tapan Hutting",
+                "localname": "Tapan Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL43",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "boundaryNum": 1,
+            "name": "Ward 15",
+            "localname": "Ward15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W015",
+            "children": [
+              {
+                "id": 60,
+                "boundaryNum": 1,
+                "name": "Damu Hutting",
+                "localname": "Damu Hutting",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL44",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 61,
+                "boundaryNum": 1,
+                "name": "Sundara Basti",
+                "localname": "Sundara Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL45",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 62,
+                "boundaryNum": 1,
+                "name": "Sadhusingh Hutting (Part-1)",
+                "localname": "Sadhusingh Hutting (Part-1)",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL46",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 63,
+                "boundaryNum": 1,
+                "name": "Sadhusingh Hutting (Part-2)",
+                "localname": "Sadhusingh Hutting (Part-2)",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "BBL47",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

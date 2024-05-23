@@ -1,0 +1,585 @@
+{
+    "tenantId": "od.khariar",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "khariar",
+                "localname": "khariar",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "od.khariar",
+                "children": [
+                    {
+                        "id": 2,
+                        "boundaryNum": 1,
+                        "name": "Ward 1",
+                        "localname": "Ward1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W001",
+                        "children": [
+                            {
+                                "id": 15,
+                                "boundaryNum": 1,
+                                "name": "Muktapur",
+                                "localname": "Muktapur",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR01",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 16,
+                                "boundaryNum": 1,
+                                "name": "Mission",
+                                "localname": "Mission",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR02",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "boundaryNum": 1,
+                        "name": "Ward 2",
+                        "localname": "Ward2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W002",
+                        "children": [
+                            {
+                                "id": 17,
+                                "boundaryNum": 1,
+                                "name": "Police Pada",
+                                "localname": "Police Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR03",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 18,
+                                "boundaryNum": 1,
+                                "name": "Satnami Pada",
+                                "localname": "Satnami Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR04",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 19,
+                                "boundaryNum": 1,
+                                "name": "Tahsil Office Area RHS",
+                                "localname": "Tahsil Office Area RHS",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR05",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "boundaryNum": 1,
+                        "name": "Ward 3",
+                        "localname": "Ward3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W003",
+                        "children": [
+                            {
+                                "id": 20,
+                                "boundaryNum": 1,
+                                "name": "Bangti Pada",
+                                "localname": "Bangti Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR06",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 21,
+                                "boundaryNum": 1,
+                                "name": "Dalpada",
+                                "localname": "Dalpada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR07",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 22,
+                                "boundaryNum": 1,
+                                "name": "Kanji House Pada",
+                                "localname": "Kanji House Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR08",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "boundaryNum": 1,
+                        "name": "Ward 4",
+                        "localname": "Ward4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W004",
+                        "children": [
+                            [
+                                {
+                                    "id": 23,
+                                    "boundaryNum": 1,
+                                    "name": "Cheliapada",
+                                    "localname": "Cheliapada",
+                                    "longitude": 0,
+                                    "latitude": 0,
+                                    "label": "Locality",
+                                    "code": "KHR09",
+                                    "pincode": [],
+                                    "area": "",
+                                    "children": []
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "boundaryNum": 1,
+                        "name": "Ward 5",
+                        "localname": "Ward5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W005",
+                        "children": [
+                            {
+                                "id": 24,
+                                "boundaryNum": 1,
+                                "name": "Sahu Pada",
+                                "localname": "Sahu Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR10",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 25,
+                                "boundaryNum": 1,
+                                "name": "Pathan Pada",
+                                "localname": "Pathan Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR11",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "boundaryNum": 1,
+                        "name": "Ward 6",
+                        "localname": "Ward6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W006",
+                        "children": [
+                            {
+                                "id": 26,
+                                "boundaryNum": 1,
+                                "name": "Annapurna Dhaba Pada",
+                                "localname": "Annapurna Dhaba Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR12",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 27,
+                                "boundaryNum": 1,
+                                "name": "Daily Market",
+                                "localname": "Daily Market",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR13",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 28,
+                                "boundaryNum": 1,
+                                "name": "Hanuman Mandir Pada",
+                                "localname": "Hanuman Mandir Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR14",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "boundaryNum": 1,
+                        "name": "Ward 7",
+                        "localname": "Ward7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W007",
+                        "children": [
+                            {
+                                "id": 29,
+                                "boundaryNum": 1,
+                                "name": "Lalsaheb Pada",
+                                "localname": "Lalsaheb Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR15",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 30,
+                                "boundaryNum": 1,
+                                "name": "Hiranagar",
+                                "localname": "Hiranagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR16",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "boundaryNum": 1,
+                        "name": "Ward 8",
+                        "localname": "Ward8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W008",
+                        "children": [
+                            {
+                                "id": 31,
+                                "boundaryNum": 1,
+                                "name": "Raja Pada",
+                                "localname": "Raja Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR17",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 32,
+                                "boundaryNum": 1,
+                                "name": "Nina Pada",
+                                "localname": "Nina Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR18",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 33,
+                                "boundaryNum": 1,
+                                "name": "Niljibandh Pada",
+                                "localname": "Niljibandh Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR19",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 34,
+                                "boundaryNum": 1,
+                                "name": "Sinapali Road",
+                                "localname": "Sinapali Road",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR20",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "boundaryNum": 1,
+                        "name": "Ward 9",
+                        "localname": "Ward9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W009",
+                        "children": [
+                            {
+                                "id": 35,
+                                "boundaryNum": 1,
+                                "name": "Dhobapada",
+                                "localname": "Dhobapada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR21",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "boundaryNum": 1,
+                        "name": "Ward 10",
+                        "localname": "Ward10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W010",
+                        "children": [
+                            {
+                                "id": 36,
+                                "boundaryNum": 1,
+                                "name": "Laxmi Chowk Pada",
+                                "localname": "Laxmi Chowk Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR22",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 37,
+                                "boundaryNum": 1,
+                                "name": "Kansaripada",
+                                "localname": "Kansaripada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR23",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 38,
+                                "boundaryNum": 1,
+                                "name": "Sabar Pada",
+                                "localname": "Sabar Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR24",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "boundaryNum": 1,
+                        "name": "Ward 11",
+                        "localname": "Ward11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W011",
+                        "children": [
+                            {
+                                "id": 39,
+                                "boundaryNum": 1,
+                                "name": "Putupada",
+                                "localname": "Putupada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR25",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 40,
+                                "boundaryNum": 1,
+                                "name": "Hatpadapada",
+                                "localname": "Hatpadapada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR26",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 41,
+                                "boundaryNum": 1,
+                                "name": "Outpost Area",
+                                "localname": "Outpost Area",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR27",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "boundaryNum": 1,
+                        "name": "Ward 12",
+                        "localname": "Ward12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W012",
+                        "children": [
+                            {
+                                "id": 42,
+                                "boundaryNum": 1,
+                                "name": "Bamhan Pada",
+                                "localname": "Bamhan Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR28",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 43,
+                                "boundaryNum": 1,
+                                "name": "Kuanr pada",
+                                "localname": "Kuanr pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR29",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "boundaryNum": 1,
+                        "name": "Ward 13",
+                        "localname": "Ward13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Ward",
+                        "code": "W013",
+                        "children": [
+                            {
+                                "id": 44,
+                                "boundaryNum": 1,
+                                "name": "Gandhinagar",
+                                "localname": "Gandhinagar",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR30",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            },
+                            {
+                                "id": 45,
+                                "boundaryNum": 1,
+                                "name": "Duria Pada",
+                                "localname": "Duria Pada",
+                                "longitude": 0,
+                                "latitude": 0,
+                                "label": "Locality",
+                                "code": "KHR31",
+                                "pincode": [],
+                                "area": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

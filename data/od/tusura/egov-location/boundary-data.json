@@ -1,0 +1,507 @@
+{
+  "tenantId": "od.tusura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "tusura",
+        "localname": "tusura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.tusura",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 13,
+                "boundaryNum": 1,
+                "name": "Nagaon Basti",
+                "localname": "Nagaon Basti",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR001",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 14,
+                "boundaryNum": 1,
+                "name": "Nagaon Colony",
+                "localname": "Nagaon Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR002",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 15,
+                "boundaryNum": 1,
+                "name": "Kharda",
+                "localname": "Kharda",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR003",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 16,
+                "boundaryNum": 1,
+                "name": "Kharda Muda",
+                "localname": "Kharda Muda",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR004",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "Radharani Pada",
+                "localname": "Radharani Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR005",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "Bihari Pada",
+                "localname": "Bihari Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR006",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "Dharua Pada",
+                "localname": "Dharua Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR007",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "Tikiri Pada",
+                "localname": "Tikiri Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR008",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": [
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "Patitapaban Pada",
+                "localname": "Patitapaban Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR009",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "Jagannath Pada",
+                "localname": "Jagannath Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR010",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "Marwadi Pada",
+                "localname": "Marwadi Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR011",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "Samalei Mandir Road",
+                "localname": "Samalei Mandir Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR012",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "Godam Pada",
+                "localname": "Godam Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR013",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "Katkia Pada",
+                "localname": "Katkia Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR014",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "Gantia Pada",
+                "localname": "Gantia Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR015",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "Maruti Nagar",
+                "localname": "Maruti Nagar",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR016",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "High School Pada",
+                "localname": "High School Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR017",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Mahipur",
+                "localname": "Mahipur",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR018",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Buromal",
+                "localname": "Buromal",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR019",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Mahipur Harijan Pada",
+                "localname": "Mahipur Harijan Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR020",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Kapsila Shiv Mandir Pada",
+                "localname": "Kapsila Shiv Mandir Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR021",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Kapsila Bandh Pada",
+                "localname": "Kapsila Bandh Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR022",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "Kapsila Rugudi Pada",
+                "localname": "Kapsila Rugudi Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR023",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "Kapsila Samalei Mandir Pada",
+                "localname": "Kapsila Samalei Mandir Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR024",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "Kapsila School Pada",
+                "localname": "Kapsila School Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR025",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "Dhanaghara",
+                "localname": "Dhanaghara",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR026",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "Dhanaghara Harijan Pada",
+                "localname": "Dhanaghara Harijan Pada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "TSR027",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

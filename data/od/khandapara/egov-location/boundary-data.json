@@ -1,0 +1,726 @@
+{
+  "tenantId": "od.khandapara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "khandapara",
+        "localname": "khandapara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khandapara",
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "Ward 1",
+            "localname": "Ward1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W001",
+            "children": [
+              {
+                "id": 15,
+                "boundaryNum": 1,
+                "name": "Tinkachua",
+                "localname": "Tinkachua",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR01",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 16,
+                "boundaryNum": 1,
+                "name": "Kalasapali",
+                "localname": "Kalasapali",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR02",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 17,
+                "boundaryNum": 1,
+                "name": "Karadabani",
+                "localname": "Karadabani",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR03",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 18,
+                "boundaryNum": 1,
+                "name": "Amlapada",
+                "localname": "Amlapada",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR04",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 19,
+                "boundaryNum": 1,
+                "name": "Tulasi Badi",
+                "localname": "Tulasi Badi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR05",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "boundaryNum": 1,
+            "name": "Ward 2",
+            "localname": "Ward2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W002",
+            "children": [
+              {
+                "id": 20,
+                "boundaryNum": 1,
+                "name": "Talasahi",
+                "localname": "Talasahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR06",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 21,
+                "boundaryNum": 1,
+                "name": "Medical Road",
+                "localname": "Medical Road",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR07",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 22,
+                "boundaryNum": 1,
+                "name": "Bebarta Sahi",
+                "localname": "Bebarta Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR08",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "boundaryNum": 1,
+            "name": "Ward 3",
+            "localname": "Ward3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W003",
+            "children": [
+              {
+                "id": 23,
+                "boundaryNum": 1,
+                "name": "Kadua Sahi",
+                "localname": "Kadua Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR09",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "boundaryNum": 1,
+            "name": "Ward 4",
+            "localname": "Ward4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W004",
+            "children": [
+              {
+                "id": 24,
+                "boundaryNum": 1,
+                "name": "Ekachaklia Sahi",
+                "localname": "Ekachaklia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR10",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 25,
+                "boundaryNum": 1,
+                "name": "Mali Sahi",
+                "localname": "Mali Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR11",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 26,
+                "boundaryNum": 1,
+                "name": "Mangala Sahi",
+                "localname": "Mangala Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR12",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "boundaryNum": 1,
+            "name": "Ward 5",
+            "localname": "Ward5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W005",
+            "children": [
+              {
+                "id": 27,
+                "boundaryNum": 1,
+                "name": "Nilanchala Sahi",
+                "localname": "Nilanchala Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR13",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 28,
+                "boundaryNum": 1,
+                "name": "Gudia Sahi",
+                "localname": "Gudia Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR14",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 29,
+                "boundaryNum": 1,
+                "name": "Kara Sahi",
+                "localname": "Kara Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR15",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 30,
+                "boundaryNum": 1,
+                "name": "Rathagada Sahi",
+                "localname": "Rathagada Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR16",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "boundaryNum": 1,
+            "name": "Ward 6",
+            "localname": "Ward6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W006",
+            "children": [
+              {
+                "id": 31,
+                "boundaryNum": 1,
+                "name": "Danda Sahi",
+                "localname": "Danda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR17",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W007",
+            "children": [
+              {
+                "id": 32,
+                "boundaryNum": 1,
+                "name": "Kundura Sahi",
+                "localname": "Kundura Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR18",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 33,
+                "boundaryNum": 1,
+                "name": "Harijana Sahi",
+                "localname": "Harijana Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR19",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 34,
+                "boundaryNum": 1,
+                "name": "Girl's High School Area",
+                "localname": "Girl's High School Area",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR20",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 35,
+                "boundaryNum": 1,
+                "name": "Saar Sahi",
+                "localname": "Saar Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR21",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W008",
+            "children": [
+              {
+                "id": 36,
+                "boundaryNum": 1,
+                "name": "Padhi Sahi",
+                "localname": "Padhi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR22",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 37,
+                "boundaryNum": 1,
+                "name": "Kumbhara Sahi",
+                "localname": "Kumbhara Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR23",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 38,
+                "boundaryNum": 1,
+                "name": "Old Tanla Sahi",
+                "localname": "Old Tanla Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR24",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W009",
+            "children": [
+              {
+                "id": 39,
+                "boundaryNum": 1,
+                "name": "Gauda Sahi",
+                "localname": "Gauda Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR25",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 40,
+                "boundaryNum": 1,
+                "name": "Dhoba Sahi",
+                "localname": "Dhoba Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR26",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 41,
+                "boundaryNum": 1,
+                "name": "Manikarnika Sahi",
+                "localname": "Manikarnika Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR27",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W010",
+            "children": [
+              {
+                "id": 42,
+                "boundaryNum": 1,
+                "name": "Bramhan Sahi",
+                "localname": "Bramhan Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR28",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 43,
+                "boundaryNum": 1,
+                "name": "Dosandhi Sahi",
+                "localname": "Dosandhi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR29",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W011",
+            "children": [
+              {
+                "id": 44,
+                "boundaryNum": 1,
+                "name": "Badhei Sahi",
+                "localname": "Badhei Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR30",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 45,
+                "boundaryNum": 1,
+                "name": "Gadabhitara Sahi",
+                "localname": "Gadabhitara Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR31",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "boundaryNum": 1,
+            "name": "Ward 12",
+            "localname": "Ward12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W012",
+            "children": [
+              {
+                "id": 46,
+                "boundaryNum": 1,
+                "name": "Trinath Chakka",
+                "localname": "Trinath Chakka",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR32",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 47,
+                "boundaryNum": 1,
+                "name": "Madhubana Sahi",
+                "localname": "Madhubana Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR33",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 48,
+                "boundaryNum": 1,
+                "name": "Block Colony",
+                "localname": "Block Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR34",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 49,
+                "boundaryNum": 1,
+                "name": "Chinikala Sahi",
+                "localname": "Chinikala Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR35",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 50,
+                "boundaryNum": 1,
+                "name": "REO Colony",
+                "localname": "REO Colony",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR36",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 51,
+                "boundaryNum": 1,
+                "name": "Khalakhala",
+                "localname": "Khalakhala",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR37",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 52,
+                "boundaryNum": 1,
+                "name": "Gola Pokhari",
+                "localname": "Gola Pokhari",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR38",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "boundaryNum": 1,
+            "name": "Ward 13",
+            "localname": "Ward13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "W013",
+            "children": [
+              {
+                "id": 53,
+                "boundaryNum": 1,
+                "name": "Rout Sahi",
+                "localname": "Rout Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR39",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 54,
+                "boundaryNum": 1,
+                "name": "Umadevi Sahi",
+                "localname": "Umadevi Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR40",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 55,
+                "boundaryNum": 1,
+                "name": "Nuatanla Sahi",
+                "localname": "Nuatanla Sahi",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR41",
+                "pincode": [],
+                "area": "",
+                "children": []
+              },
+              {
+                "id": 56,
+                "boundaryNum": 1,
+                "name": "Nuasahaspur",
+                "localname": "Nuasahaspur",
+                "longitude": 0,
+                "latitude": 0,
+                "label": "Locality",
+                "code": "KPR42",
+                "pincode": [],
+                "area": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

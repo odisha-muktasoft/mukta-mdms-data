@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.balimela",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-BLM",
+            "name": "Balimela"
+        }
+    ]
+}

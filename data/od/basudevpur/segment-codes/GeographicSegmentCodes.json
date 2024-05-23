@@ -1,0 +1,10 @@
+{
+    "tenantId": "od.basudevpur",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+    {
+        "id": "1",
+        "code": "OD-BAS",
+        "name": "Basudevpur"
+    }]
+}
