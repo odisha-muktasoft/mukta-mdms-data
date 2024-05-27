@@ -2319,10 +2319,10 @@
 
     {
       "id": 193,
-      "name": "ACTION_TEST_5MEASUREMENT",
+      "name": "MB_WORK_ORDERS",
       "url": "",
-      "displayName": "ACTION_TEST_5MEASUREMENT",
-      "orderNumber": 1,
+      "displayName": "MB_WORK_ORDERS",
+      "orderNumber": 2,
       "parentModule": "cards",
       "enabled": true,
       "serviceCode": "null",
@@ -2331,9 +2331,9 @@
       },
       {
       "id": 194,
-      "name": "Work Orders",
+      "name": "ACTION_TEST_5MEASUREMENT",
       "url": "",
-      "displayName": "MB_WORK_ORDERS",
+      "displayName": "ACTION_TEST_5MEASUREMENT",
       "orderNumber": 1,
       "parentModule": "cards",
       "enabled": true,
