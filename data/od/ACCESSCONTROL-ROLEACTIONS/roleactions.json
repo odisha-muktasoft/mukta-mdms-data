@@ -2082,12 +2082,6 @@
       "actionid": 193,
       "actioncode": "",
       "tenantId": "od"
-      },
-      {
-      "rolecode": "MB_VIEWER",
-      "actionid": 193,
-      "actioncode": "",
-      "tenantId": "od"
       }
   ]
 }
