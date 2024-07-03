@@ -200,6 +200,11 @@
       "code": "EMP_ORG_ADMIN",
       "name": "Employee Organization Admin",
       "description": "Role for employee organization admin"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous User",
+      "description": "Anonymous User to be used in case of no auth"
     } 
   ]
 }

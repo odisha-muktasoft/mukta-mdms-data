@@ -105,6 +105,14 @@
     {
       "idname": "ifix.program.number",
       "format": "PG/[fy:yyyy-yy]/[SEQ_PROG_NUM]"
+    },
+    {
+      "format": "CMP_[SEQ_CMP_REF_NUM]",
+      "idname": "works.composition.number"
+    },
+    {
+      "format": "TMP_[SEQ_TEMP_REF_NUM]",
+      "idname": "works.template.number"
     }
   ]
 }
