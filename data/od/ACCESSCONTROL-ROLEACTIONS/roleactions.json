@@ -1764,6 +1764,12 @@
       "actionid": 172,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WORK_ORDER_CREATOR",
+      "actionid": 152,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
