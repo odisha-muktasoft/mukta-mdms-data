@@ -2109,6 +2109,162 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
-      }
+      },
+    {
+      "id": 177,
+      "name": "Calculate Rate Analysis",
+      "url": "/rate-analysis/v1/_calculate",
+      "parentModule": "rate-analysis",
+      "displayName": "Calculate Rate Analysis",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "rate-analysis",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 178,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/WORKS-SOR.Composition",
+      "displayName": "create WORKS-SOR.Composition",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 179,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/WORKS-SOR.Composition",
+      "displayName": "Update WORKS-SOR.Composition",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 180,
+      "name": "Job Schedular create",
+      "url": "/rate-analysis/v1/scheduler/_create",
+      "displayName": "Revision of Rate Analysis",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "scheduler",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 181,
+      "name": "Job Schedular search",
+      "url": "/rate-analysis/v1/scheduler/_search",
+      "displayName": "Revision of Rate Analysis",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "scheduler",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 182,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/WORKS.EstimateTemplate",
+      "displayName": "Create WORKS.EstimateTemplate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 183,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/WORKS.EstimateTemplate",
+      "displayName": "Update WORKS.EstimateTemplate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 184,
+      "name": "Analysis Statement Crate",
+      "url": "/statements/v1/analysis/_create",
+      "displayName": "Create Analysis Statement",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 185,
+      "name": "Analysis Statement Search",
+      "url": "/statements/v1/analysis/_search",
+      "displayName": "Search Analysis Statement",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 186,
+      "name": "UtilizationStatement",
+      "url": "/statements/v1/utilization/_create",
+      "displayName": "Utilization Statement",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled":true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 187,
+      "name": "AnalysisStatement",
+      "url": "/works-pdf/download/analysisStatement/analysis-statement",
+      "displayName": "Analysis Statement PDF",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled":true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 188,
+      "name": "UtilizationStatement",
+      "url": "/works-pdf/download/utilizationStatement/utilization-statement",
+      "displayName": "Utilization Statement PDF",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled":true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+      },
+    {
+      "id": 189,
+      "name": "UtilizationStatementSearch",
+      "url": "/statements/v1/utilization/_search",
+      "displayName": "Utilization Statement",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled":true,
+      "serviceCode": "statements",
+      "code": "null",
+      "path": ""
+    }
   ]  
 }
