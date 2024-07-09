@@ -2233,7 +2233,7 @@
     {
       "id": 187,
       "name": "AnalysisStatement",
-      "url": "/works-pdf/download/analysisStatement/analysis-statement",
+      "url": "/egov-pdf/download/analysisStatement/analysis-statement",
       "displayName": "Analysis Statement PDF",
       "orderNumber": 1,
       "parentModule": "",
@@ -2245,7 +2245,7 @@
     {
       "id": 188,
       "name": "UtilizationStatement",
-      "url": "/works-pdf/download/utilizationStatement/utilization-statement",
+      "url": "/egov-pdf/download/utilizationStatement/utilization-statement",
       "displayName": "Utilization Statement PDF",
       "orderNumber": 1,
       "parentModule": "",
