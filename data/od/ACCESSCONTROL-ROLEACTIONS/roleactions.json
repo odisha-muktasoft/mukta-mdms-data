@@ -2010,6 +2010,18 @@
       "actionid": 187,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 191,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

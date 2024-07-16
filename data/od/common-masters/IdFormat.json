@@ -117,6 +117,11 @@
     {
       "format": "JOB-[cy:yyyy]-[SEQ_JOB_NUM]",
       "idname": "rate.analysis.job.number"
+    },
+    {
+      "format": "P[SEQ_PROJ_TYPE_NUM]",
+      "idname": "works.project.type.number"
+      
     }
   ]
 }
