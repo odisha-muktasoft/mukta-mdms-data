@@ -2269,7 +2269,7 @@
     {
       "id": 190,
       "name": "Create Project Type",
-      "url": "/mdms-v2/v2/_create/works.ProjectType",
+      "url": "/mdms-v2/v2/_create/WORKS.ProjectType",
       "displayName": "create project type",
       "orderNumber": 1,
       "parentModule": "",
@@ -2281,7 +2281,7 @@
     {
       "id": 191,
       "name": "Update Project Type",
-      "url": "/mdms-v2/v2/_update/works.ProjectType",
+      "url": "/mdms-v2/v2/_update/WORKS.ProjectType",
       "displayName": "update project type",
       "orderNumber": 1,
       "parentModule": "",
