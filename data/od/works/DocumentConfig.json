@@ -133,16 +133,6 @@
           "maxFilesAllowed": 1
         },
         {
-          "code": "MATERIAL_UTILIZATION_LOG",
-          "name" : "doc_material_utilization_log",
-          "active": true,
-          "isMandatory": true,
-          "showTextInput" : false,
-          "allowedFileTypes": ["pdf"],
-          "maxSizeInMB": null,
-          "maxFilesAllowed": 1
-        },
-        {
           "code": "OTHERS",
           "name" : "doc_others",
           "active": true,
