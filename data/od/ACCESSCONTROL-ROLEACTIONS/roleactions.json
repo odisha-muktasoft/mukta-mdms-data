@@ -2034,6 +2034,30 @@
       "actionid": 191,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 192,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 192,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 193,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_ADMIN",
+      "actionid": 194,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
