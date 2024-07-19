@@ -205,6 +205,11 @@
       "code": "ANONYMOUS",
       "name": "Anonymous User",
       "description": "Anonymous User to be used in case of no auth"
-    } 
+    },
+    {
+      "code": "DASHBOARD_VIEWER",
+      "name": "Dashboard Viewer",
+      "description": "Default role for Dashboard viewer"
+    }
   ]
 }
