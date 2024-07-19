@@ -2289,6 +2289,48 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 192,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "Manage Works SOR Composition",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition",
+      "path": "9MDMS.WORKS-SOR.Composition",
+      "leftIcon": "dynamic:ContractIcon"
+    },
+    {
+      "id": 193,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "Manage Works Estimate Template",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
+      "path": "9MDMS.WORKS-SOR.EstimateTemplate",
+      "leftIcon": "dynamic:ContractIcon"
+    },
+    {
+      "id": 194,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "Manage Works Revision of Rates",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/works-ui/employee/rateAnalysis/search-sor",
+      "path": "9MDMS.WORKS-SOR.RevisionOfRates",
+      "leftIcon": "dynamic:ContractIcon"
     }
   ]  
 }
