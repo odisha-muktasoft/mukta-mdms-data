@@ -37,7 +37,7 @@
             "id": "21",
             "code": "ROM",
             "service": "works.purchase",
-            "description": "Royalty on minerals",
+            "description": "Royalty and Additional Charge",
             "active": true,
             "calculationType":"lumpsum",
             "value": null,
@@ -73,6 +73,28 @@
             "active": true,
             "calculationType":"percentage",
             "value":"1",
+            "effectiveFrom": 1682164954037,
+            "effectiveTo": null
+        },
+        {
+            "id": "26",
+            "service": "works.purchase",
+            "code": "DMF",
+            "description": "District Minerals Foundation",
+            "active": true,
+            "calculationType":"percentage",
+            "value": 10,
+            "effectiveFrom": 1682164954037,
+            "effectiveTo": null
+        },
+        {
+            "id": "27",
+            "service": "works.purchase",
+            "code": "EMF",
+            "description": "Environment Management Fund",
+            "active": true,
+            "calculationType":"percentage",
+            "value": 5,
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         }
