@@ -65,7 +65,7 @@
     {
       "id": "7",
       "code": "ROM",
-      "description": "Royalty on minerals",
+      "description": "Royalty and Additional Charge",
       "category": "deduction",
       "service": "works.purchase",
       "active": true,
@@ -107,6 +107,26 @@
       "category": "deduction",
       "service": "works.wages",
       "description": "Labour Cess",
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
+    },
+     {
+      "id": "13",
+      "code": "EMF",
+      "category": "deduction",
+      "service": "works.purchase",
+      "description": "Environament Management Fund",
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
+    },
+    {
+      "id": "14",
+      "code": "DMF",
+      "category": "deduction",
+      "service": "works.purchase",
+      "description": "District Mineral Fund",
       "active": true,
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
