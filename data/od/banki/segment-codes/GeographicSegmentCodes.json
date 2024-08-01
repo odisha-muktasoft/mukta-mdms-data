@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.banki",
+    "moduleName": "segment-codes",
+    "GeographicSegmentCodes": [
+        {
+            "id": "1",
+            "code": "OD-BNK",
+            "name": "Banki"
+        }
+    ]
+}
