@@ -1820,13 +1820,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "MDMS_CITY_ADMIN",
+      "rolecode": "REVISION_OF_RATES",
       "actionid": 180,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "MDMS_CITY_ADMIN",
+      "rolecode": "REVISION_OF_RATES",
       "actionid": 181,
       "actioncode": "",
       "tenantId": "od"
@@ -2054,7 +2054,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "MDMS_CITY_ADMIN",
+      "rolecode": "REVISION_OF_RATES",
       "actionid": 194,
       "actioncode": "",
       "tenantId": "od"
@@ -2068,6 +2068,24 @@
     {
       "rolecode": "DASHBOARD_VIEWER",
       "actionid": 196,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 177,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 177,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_ADMIN",
+      "actionid": 177,
       "actioncode": "",
       "tenantId": "od"
     }

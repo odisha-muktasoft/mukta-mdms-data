@@ -210,6 +210,11 @@
       "code": "DASHBOARD_VIEWER",
       "name": "Dashboard Viewer",
       "description": "Default role for Dashboard viewer"
+    },
+    {
+      "code": "REVISION_OF_RATES",
+      "name": "Revision of rates",
+      "description": "Revise the rates"
     }
   ]
 }
