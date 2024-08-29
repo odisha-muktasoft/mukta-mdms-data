@@ -148,7 +148,7 @@
       "service": "works.purchase",
       "description": "IT TDS OTI",
       "active": true,
-      "effectiveFrom": 1682164954037,
+      "effectiveFrom": 1724956200000,
       "effectiveTo": null
     }
   ]
