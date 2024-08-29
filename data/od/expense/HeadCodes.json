@@ -140,6 +140,16 @@
       "active": true,
       "effectiveFrom": 1682164954037,
       "effectiveTo": null
+    },
+    {
+      "id": "6",
+      "code": "ITTDSOTI",
+      "category": "deduction",
+      "service": "works.purchase",
+      "description": "IT TDS OTI",
+      "active": true,
+      "effectiveFrom": 1682164954037,
+      "effectiveTo": null
     }
   ]
 }
