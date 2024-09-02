@@ -82,7 +82,7 @@
             "code": "DMF",
             "description": "District Minerals Foundation",
             "active": true,
-            "calculationType":"percentage",
+            "calculationType":"lumpsum",
             "value": null,
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
@@ -104,7 +104,7 @@
             "service": "works.purchase",
             "description": "IT TDS OTI",
             "active": true,
-            "calculationType": "lumpsum",
+            "calculationType": "percentage",
             "value": "2",
             "effectiveFrom": 1724956200000,
             "effectiveTo": null
