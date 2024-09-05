@@ -83,7 +83,7 @@
             "description": "District Minerals Foundation",
             "active": true,
             "calculationType":"lumpsum",
-            "value": 10,
+            "value": null,
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
@@ -94,7 +94,7 @@
             "description": "Environment Management Fund",
             "active": true,
             "calculationType":"lumpsum",
-            "value": 5,
+            "value": null,
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         }
