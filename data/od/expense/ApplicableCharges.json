@@ -82,8 +82,8 @@
             "code": "DMF",
             "description": "District Minerals Foundation",
             "active": true,
-            "calculationType":"lumpsum",
-            "value": null,
+            "calculationType":"percentage",
+            "value": "5",
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
@@ -93,8 +93,8 @@
             "code": "EMF",
             "description": "Environment Management Fund",
             "active": true,
-            "calculationType":"lumpsum",
-            "value": null,
+            "calculationType":"percentage",
+            "value": "10",
             "effectiveFrom": 1682164954037,
             "effectiveTo": null
         },
