@@ -474,7 +474,6 @@
                         "label": "Ward",
                         "code": "W009",
                         "children": [
-                            [
                                 {
                                     "id": 41,
                                     "boundaryNum": 1,
@@ -488,7 +487,6 @@
                                     "area": "",
                                     "children": []
                                 }
-                            ]
                         ]
                     },
                     {
