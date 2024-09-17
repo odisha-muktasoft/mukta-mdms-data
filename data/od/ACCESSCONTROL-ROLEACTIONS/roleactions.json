@@ -1770,6 +1770,300 @@
       "actionid": 152,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 173,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 174,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 175,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 173,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "REVISION_OF_RATES",
+      "actionid": 176,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "REVISION_OF_RATES",
+      "actionid": 177,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 178,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 179,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_APPROVER",
+      "actionid": 180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VERIFIER",
+      "actionid": 180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_APPROVER",
+      "actionid": 181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VERIFIER",
+      "actionid": 181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 182,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 182,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 182,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 182,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+     {
+      "rolecode": "ESTIMATE_VERIFIER",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_CREATOR",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_VIEWER",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ESTIMATE_APPROVER",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TECHNICAL_SANCTIONER",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_APPROVER",
+      "actionid": 185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VIEWER",
+      "actionid": 185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_CREATOR",
+      "actionid": 185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MB_VERIFIER",
+      "actionid": 185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TECHNICAL_SANCTIONER",
+      "actionid": 180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TECHNICAL_SANCTIONER",
+      "actionid": 181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 186,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 187,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 186,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 187,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 188,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 188,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 189,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "REVISION_OF_RATES",
+      "actionid": 190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 191,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "DASHBOARD_VIEWER",
+      "actionid": 192,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 173,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_VIEW_ADMIN",
+      "actionid": 173,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_ADMIN",
+      "actionid": 173,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
