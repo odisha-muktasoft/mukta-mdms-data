@@ -2315,7 +2315,32 @@
       "navigationURL": "kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/261cb0b0-fbde-11ee-b08d-8b505ceea182?_g=[…]use:!t,value:60000),time:(from:now-1y,to:now))",
       "leftIcon": "dynamic:DashboardIcon",
       "rightIcon": ""
-    }
+    },
+
+    {
+      "id": 193,
+      "name": "MB_WORK_ORDERS",
+      "url": "",
+      "displayName": "MB_WORK_ORDERS",
+      "orderNumber": 2,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+      },
+      {
+      "id": 194,
+      "name": "ACTION_TEST_5MEASUREMENT",
+      "url": "",
+      "displayName": "ACTION_TEST_5MEASUREMENT",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+      }
   ]  
 }
   
