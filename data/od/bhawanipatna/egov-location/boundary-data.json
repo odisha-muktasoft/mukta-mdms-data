@@ -17,7 +17,6 @@
                 "label": "City",
                 "code": "od.bhawanipatna",
                 "children": [
-                    [
                         {
                             "id": 2,
                             "boundaryNum": 1,
@@ -1779,7 +1778,7 @@
                                 }
                             ]
                         }
-                    ]
+                    
                 ]
             }
         }

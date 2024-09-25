@@ -105,6 +105,23 @@
     {
       "idname": "ifix.program.number",
       "format": "PG/[fy:yyyy-yy]/[SEQ_PROG_NUM]"
+    },
+    {
+      "format": "CMP_[SEQ_CMP_REF_NUM]",
+      "idname": "works.composition.number"
+    },
+    {
+      "format": "TMP_[SEQ_TEMP_REF_NUM]",
+      "idname": "works.template.number"
+    },
+    {
+      "format": "JOB-[cy:yyyy]-[SEQ_JOB_NUM]",
+      "idname": "rate.analysis.job.number"
+    },
+    {
+      "format": "P[SEQ_PROJ_TYPE_NUM]",
+      "idname": "works.project.type.number"
+      
     }
   ]
 }
