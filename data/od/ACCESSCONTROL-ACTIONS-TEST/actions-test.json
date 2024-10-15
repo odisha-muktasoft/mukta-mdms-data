@@ -14,7 +14,7 @@
       "code": "null",
       "path": "0Home",
       "navigationURL": "/works-ui/employee/",
-      "leftIcon": "dynamic:MuktaHomeIcon",
+      "leftIcon": "MuktaHomeIcon",
       "rightIcon": ""
     },
     {
@@ -64,8 +64,8 @@
       "serviceCode": "HRMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/hrms/inbox",
-      "path": "9HRMS.Search",
-      "leftIcon": "dynamic:HRIcon"
+      "path": "HRMS.Search",
+      "leftIcon": "HRIcon"
     },
     {
       "id": 6,
@@ -150,8 +150,8 @@
       "serviceCode": "HRMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/hrms/create",
-      "path": "9HRMS.Create",
-      "leftIcon": "dynamic:HRIcon"
+      "path": "HRMS.Create",
+      "leftIcon": "HRIcon"
     },
     {
       "id": 14,
@@ -164,8 +164,8 @@
       "serviceCode": "WORKS",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "2ESTIMATE.CreateEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "Estimates.CreateEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 15,
@@ -178,8 +178,8 @@
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/create-project",
-      "path": "1PROJECT.Create",
-      "leftIcon": "dynamic:ProjectIcon"
+      "path": "Projects.Create",
+      "leftIcon": "ProjectIcon"
     },
     {
       "id": 16,
@@ -192,8 +192,8 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate",
-      "path": "2ESTIMATE.SearchEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "Estimates.SearchEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 17,
@@ -206,8 +206,8 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/inbox",
-      "path": "2ESTIMATE.EstimateInbox",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "Estimates.EstimateInbox",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 18,
@@ -220,8 +220,8 @@
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "1PROJECT.search",
-      "leftIcon": "dynamic:ProjectIcon"
+      "path": "Projects.search",
+      "leftIcon": "ProjectIcon"
     },
     {
       "id": 21,
@@ -593,8 +593,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
-      "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "Bills.BillInbox",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 55,
@@ -607,8 +607,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "5BILLS.CreratePurchaseBill",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "Bills.CreratePurchaseBill",
+      "leftIcon": "BillsNewIcon"
     },
     {
       "id": 56,
@@ -621,8 +621,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
-      "path": "BILLS.BillSearch",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "Bills.BillSearch",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 57,
@@ -635,8 +635,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/view-bills/menu",
-      "path": "5BILLS.BillView",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "Bills.BillView",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 58,
@@ -649,8 +649,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/inbox",
-      "path": "3CONTRACTS.Inbox",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "CONTRACTS.Inbox",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 59,
@@ -663,8 +663,8 @@
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/inbox",
-      "path": "4ATTENDENCEMGMT.Inbox",
-      "leftIcon": "dynamic:AttendanceIcon"
+      "path": "ATTENDENCEMGMT.Inbox",
+      "leftIcon": "AttendanceIcon"
     },
     {
       "id": 60,
@@ -677,8 +677,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "3CONTRACTS.Create",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "CONTRACTS.Create",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 61,
@@ -691,8 +691,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "3CONTRACTS.Search",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "CONTRACTS.Search",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 62,
@@ -706,7 +706,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/works/checklistinbox",
       "path": "CHECKLIST.Inbox",
-      "leftIcon": "dynamic:HRIcon"
+      "leftIcon": "HRIcon"
     },
     {
       "id": 63,
@@ -720,7 +720,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/works/checklist",
       "path": "CHECKLIST.Create",
-      "leftIcon": "dynamic:HRIcon"
+      "leftIcon": "HRIcon"
     },
     {
       "id": 64,
@@ -733,8 +733,8 @@
       "serviceCode": "MASTERS",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/create-organization",
-      "path": "7MASTERS.CreateOrganisation",
-      "leftIcon": "dynamic:OrganisationIcon"
+      "path": "MASTERS.CreateOrganisation",
+      "leftIcon": "OrganisationIcon"
     },
     {
       "id": 65,
@@ -903,8 +903,8 @@
       "serviceCode": "WageSeeker",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/search-wageseeker",
-      "path": "8WageSeeker.Search",
-      "leftIcon": "dynamic:WageseekerIcon"
+      "path": "WageSeeker.Search",
+      "leftIcon": "WageseekerIcon"
     },
     {
       "id": 80,
@@ -1030,8 +1030,8 @@
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/search-attendance",
-      "path": "4ATTENDENCEMGMT.Search",
-      "leftIcon": "dynamic:AttendanceIcon"
+      "path": "ATTENDENCEMGMT.Search",
+      "leftIcon": "AttendanceIcon"
     },
     {
       "id": 91,
@@ -1209,8 +1209,8 @@
       "serviceCode": "MASTERS",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/search-organization",
-      "path": "7MASTERS.Search",
-      "leftIcon": "dynamic:OrganisationIcon"
+      "path": "MASTERS.Search",
+      "leftIcon": "OrganisationIcon"
     },
     {
       "id": 106,
@@ -1223,8 +1223,8 @@
       "serviceCode": "WageSeeker",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/create-wageseeker",
-      "path": "8WageSeeker.CreateWageSeeker",
-      "leftIcon": "dynamic:WageseekerIcon"
+      "path": "WageSeeker.CreateWageSeeker",
+      "leftIcon": "WageseekerIcon"
     },
     {
       "id": 107,
@@ -1392,8 +1392,8 @@
       "serviceCode": "PAYMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill?status=APPROVED",
-      "path": "5PAYMENT.GENERATEPAY",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "PAYMENT.GENERATEPAY",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 121,
@@ -1406,8 +1406,8 @@
       "serviceCode": "PAYMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/download-bill",
-      "path": "5PAYMENT.DOWNLOADPAY",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "PAYMENT.DOWNLOADPAY",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 122,
@@ -1420,8 +1420,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
-      "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "Bills.BillInbox",
+      "leftIcon": "BillsNewIcon"
     },
     {
       "id": 123,
@@ -1434,8 +1434,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
-      "path": "5BILLS.BillSearch",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "Bills.BillSearch",
+      "leftIcon": "BillsNewIcon"
     },
     {
       "id": 124,
@@ -1448,8 +1448,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "5BILLS.BillView",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "Bills.BillView",
+      "leftIcon": "BillsNewIcon"
     },
     {
       "id": 125,
@@ -1534,8 +1534,8 @@
       "serviceCode": "PAYMENTINSTRUCTION",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
-      "path": "5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 132,
@@ -1630,8 +1630,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "3MEASUREMENT.Create",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "MeasurementBooks.Create",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 140,
@@ -1644,8 +1644,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/inbox",
-      "path": "3MEASUREMENT.Inbox",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "MeasurementBooks.Inbox",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 141,
@@ -1658,8 +1658,8 @@
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/search",
-      "path": "3MEASUREMENT.Search",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "MeasurementBooks.Search",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 142,
@@ -1672,8 +1672,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Type",
-      "path": "9MDMS.WORKS-SOR.Type",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.Type",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 143,
@@ -1710,8 +1710,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SubType",
-      "path": "9MDMS.WORKS-SOR.SubType",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.SubType",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 146,
@@ -1748,8 +1748,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Variant",
-      "path": "9MDMS.WORKS-SOR.Variant",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.Variant",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 149,
@@ -1786,8 +1786,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SOR",
-      "path": "9MDMS.WORKS-SOR.SOR",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.SOR",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 152,
@@ -1824,8 +1824,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Overhead",
-      "path": "9MDMS.WORKS-SOR.Overhead",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.Overhead",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 155,
@@ -1862,8 +1862,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Rates",
-      "path": "9MDMS.WORKS-SOR.Rates",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.Rates",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 158,
@@ -1923,8 +1923,8 @@
     "serviceCode": "MDMS",
     "code": "null",
     "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM",
-    "path": "9MDMS.commonmasterUOM",
-    "leftIcon": "dynamic:ContractIcon"
+    "path": "MDMS.commonmasterUOM",
+    "leftIcon": "ContractIcon"
   },
   {
     "id": 163,
@@ -1994,8 +1994,8 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "2ESTIMATE.CreateRevisedEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "Estimates.CreateRevisedEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 169,
@@ -2020,8 +2020,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
-      "path": "3CONTRACTS.CREATETE",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "CONTRACTS.CREATETE",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 171,
@@ -2286,8 +2286,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition",
-      "path": "9MDMS.WORKS-SOR.Composition",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.Composition",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 193,
@@ -2300,8 +2300,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
-      "path": "9MDMS.WORKS-SOR.EstimateTemplate",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.EstimateTemplate",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 194,
@@ -2314,8 +2314,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/rateAnalysis/search-sor",
-      "path": "9MDMS.WORKS-SOR.RevisionOfRates",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "MDMS.WORKS-SOR.RevisionOfRates",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 195,
@@ -2329,7 +2329,7 @@
       "code": "null",
       "path": "6Dashboard.MUKTADashboard",
       "navigationURL": "kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/c8d7e730-2252-11ef-98df-3bbfa2125b2b?_g=(filters:!(),time:(from:now-1y,to:now))",
-      "leftIcon": "dynamic:DashboardIcon",
+      "leftIcon": "DashboardIcon",
       "rightIcon": ""
     },
     {
@@ -2344,8 +2344,136 @@
       "code": "null",
       "path": "6Dashboard.RolloutDashboard",
       "navigationURL": "kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/261cb0b0-fbde-11ee-b08d-8b505ceea182?_g=[…]use:!t,value:60000),time:(from:now-1y,to:now))",
-      "leftIcon": "dynamic:DashboardIcon",
+      "leftIcon": "DashboardIcon",
       "rightIcon": ""
+    },
+    {
+      "id": 197,
+      "name": "Create boundary hierarchy",
+      "url": "/boundary-service/boundary-hierarchy-definition/_create",
+      "displayName": "Create boundary hierarchy",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 198,
+      "name": "Search boundary hierarchy",
+      "url": "/boundary-service/boundary-hierarchy-definition/_search",
+      "displayName": "Search boundary hierarchy",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 199,
+      "name": "Create boundary entity",
+      "url": "/boundary-service/boundary/_create",
+      "displayName": "Create boundary entity",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 200,
+      "name": "Search boundary entity",
+      "url": "/boundary-service/boundary/_search",
+      "displayName": "Search boundary entity",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 201,
+      "name": "Create boundary relationship",
+      "url": "/boundary-service/boundary-relationships/_create",
+      "displayName": "Create boundary relationship",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 202,
+      "name": "Search boundary relationship",
+      "url": "/boundary-service/boundary-relationships/_search",
+      "displayName": "Search boundary relationship",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "boundary-hierarchy",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 203,
+      "name": "Payment Tracker Excel Create",
+      "url": "/wms/report/payment-tracker/_create",
+      "parentModule": "works-management-service",
+      "displayName": "Payment Tracker Excel Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 204,
+      "name": "Payment Tracker Excel Search",
+      "url": "/wms/report/payment-tracker/_search",
+      "parentModule": "works-management-service",
+      "displayName": "Payment Tracker Excel Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 205,
+      "name": "Create Payment tracker report",
+      "url": "/wms/report/payment-tracker/_create",
+      "displayName": "Create Payment tracker report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wms",
+      "name": "Mukta iFix PI search",
+      "url": "/mukta-ifix-adapter/v1/pi/_search",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 206,
+      "name": "Search Payment tracker report",
+      "url": "/wms/report/payment-tracker/_search",
+      "displayName": "Search Payment tracker report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wms",
+      "name": "Mukta iFix PI create",
+      "url": "/mukta-ifix-adapter/v1/pi/_create",
+      "parentModule": "mukta-ifix-adapter",
+      "displayName": "MUKTA-IFIX-PI Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mukta-ifix-adapter",
+      "code": "null",
+      "path": ""
     }
   ]  
 }

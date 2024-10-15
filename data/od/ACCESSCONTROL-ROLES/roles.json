@@ -215,6 +215,11 @@
       "code": "REVISION_OF_RATES",
       "name": "Revision of rates",
       "description": "Revise the rates"
+    },
+    {
+      "code": "REPORT_VIEWER",
+      "name": "Report Viewer User",
+      "description": "Default role for accessing reports"
     }
   ]
 }

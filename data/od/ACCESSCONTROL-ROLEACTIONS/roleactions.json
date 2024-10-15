@@ -2088,6 +2088,96 @@
       "actionid": 177,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 197,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 198,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 199,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 200,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 201,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "LOC_ADMIN",
+      "actionid": 202,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 203,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 204,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 205,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 205,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 205,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BILL_CREATOR",
+      "actionid": 206,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 206,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 206,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 202,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
