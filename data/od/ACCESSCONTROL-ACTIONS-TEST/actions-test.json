@@ -2474,6 +2474,17 @@
       "serviceCode": "mukta-ifix-adapter",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 207,
+      "name": "Payment Tracker Pdf",
+      "url": "/egov-pdf/download/paymentTracker/payment-tracker",
+      "displayName": "Payment Tracker",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-pdf",
+      "code": "null",
+      "path": ""
     }
   ]  
 }
