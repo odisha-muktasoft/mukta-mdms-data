@@ -2126,49 +2126,25 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "BILL_ACCOUNTANT",
       "actionid": 203,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "BILL_ACCOUNTANT",
       "actionid": 204,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "BILL_CREATOR",
-      "actionid": 205,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "BILL_ACCOUNTANT",
       "actionid": 205,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE_COMMON",
-      "actionid": 205,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "BILL_CREATOR",
-      "actionid": 206,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "BILL_ACCOUNTANT",
-      "actionid": 206,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE_COMMON",
       "actionid": 206,
       "actioncode": "",
       "tenantId": "od"
@@ -2180,26 +2156,14 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BILL_CREATOR",
-      "actionid": 207,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "BILL_ACCOUNTANT",
       "actionid": 207,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE_COMMON",
-      "actionid": 207,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 207,
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 208,
       "actioncode": "",
       "tenantId": "od"
     }
