@@ -2459,8 +2459,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
-      "path": "BILLS.SEARCHPAYMENTTRACKER",
-      "leftIcon": "ExpenditureIcon"
+      "path": "Bills.PaymentTracker",
+      "leftIcon": "BillsNewIcon"
     },
     {
       "id": 207,
