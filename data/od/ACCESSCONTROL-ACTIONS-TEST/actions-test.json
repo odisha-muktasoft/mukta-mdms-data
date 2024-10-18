@@ -213,7 +213,7 @@
       "id": 18,
       "name": "PROJECT",
       "url": "url",
-      "displayName": "PROJECT Search",
+      "displayName": "Project Search",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
@@ -608,7 +608,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
       "path": "Bills.CreratePurchaseBill",
-      "leftIcon": "BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 56,
@@ -656,14 +656,14 @@
       "id": 59,
       "name": "ATTENDENCEMGMT",
       "url": "url",
-      "displayName": "ATTENDENCEMGMT Inbox",
+      "displayName": "Attendencemgmt Inbox",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/inbox",
-      "path": "ATTENDENCEMGMT.Inbox",
+      "path": "Attendencemgmt.Inbox",
       "leftIcon": "AttendanceIcon"
     },
     {
@@ -677,7 +677,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "CONTRACTS.Create",
+      "path": "Contracts.Create",
       "leftIcon": "ContractIcon"
     },
     {
@@ -691,7 +691,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "CONTRACTS.Search",
+      "path": "Contracts.Search",
       "leftIcon": "ContractIcon"
     },
     {
@@ -1023,14 +1023,14 @@
       "id": 90,
       "name": "ATTENDENCEMGMT",
       "url": "url",
-      "displayName": "ATTENDENCEMGMT Search",
+      "displayName": "Attendencemgmt Search",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/search-attendance",
-      "path": "ATTENDENCEMGMT.Search",
+      "path": "Attendencemgmt.Search",
       "leftIcon": "AttendanceIcon"
     },
     {
@@ -1421,7 +1421,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
       "path": "Bills.BillInbox",
-      "leftIcon": "BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 123,
@@ -1435,7 +1435,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
       "path": "Bills.BillSearch",
-      "leftIcon": "BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 124,
@@ -1449,7 +1449,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
       "path": "Bills.BillView",
-      "leftIcon": "BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 125,
@@ -1527,14 +1527,14 @@
       "id": 131,
       "name": "PAYMENTINSTRUCTION",
       "url": "url",
-      "displayName": "PAYMENTINSTRUCTION",
+      "displayName": "Payment Instruction",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "PAYMENTINSTRUCTION",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
-      "path": "PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
+      "path": "PaymentInstruction.SEARCHPAYMENTINSTRUCTION",
       "leftIcon": "ExpenditureIcon"
     },
     {
@@ -1919,7 +1919,7 @@
     "displayName": "Manage UOM Master",
     "orderNumber": 1,
     "parentModule": "",
-    "enabled": true,
+    "enabled": false,
     "serviceCode": "MDMS",
     "code": "null",
     "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM",
@@ -2020,7 +2020,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
-      "path": "CONTRACTS.CREATETE",
+      "path": "Contracts.CREATETE",
       "leftIcon": "ContractIcon"
     },
     {
@@ -2321,13 +2321,13 @@
       "id": 195,
       "name": "MUKTA Dashboard",
       "url": "url",
-      "displayName": "MUKTA Dashboard",
+      "displayName": "Mukta Dashboard",
       "orderNumber": 1,
       "parentModule": "dss-dashboard",
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "6Dashboard.MUKTADashboard",
+      "path": "Dashboard.MUKTADashboard",
       "navigationURL": "kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/c8d7e730-2252-11ef-98df-3bbfa2125b2b?_g=(filters:!(),time:(from:now-1y,to:now))",
       "leftIcon": "DashboardIcon",
       "rightIcon": ""
@@ -2342,7 +2342,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "6Dashboard.RolloutDashboard",
+      "path": "Dashboard.RolloutDashboard",
       "navigationURL": "kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/261cb0b0-fbde-11ee-b08d-8b505ceea182?_g=[…]use:!t,value:60000),time:(from:now-1y,to:now))",
       "leftIcon": "DashboardIcon",
       "rightIcon": ""
@@ -2460,7 +2460,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
       "path": "Bills.PaymentTracker",
-      "leftIcon": "BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 207,
@@ -2473,6 +2473,48 @@
       "serviceCode": "BILLS",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 208,
+    "name": "MDMS",
+    "url": "url",
+    "displayName": "Manage Project Type Master",
+    "orderNumber": 2,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "MDMS",
+    "code": "null",
+    "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=works&masterName=ProjectType",
+    "path": "MDMS.commonmasterProjectType",
+    "leftIcon": "ContractIcon"
+    },
+    {
+      "id": 209,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "Manage Works SOR Rate Composition",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition",
+      "path": "MDMS.WORKS-SOR.RateAnalysis",
+      "leftIcon": "ContractIcon"
+    },
+    {
+    "id": 210,
+    "name": "MDMS",
+    "url": "url",
+    "displayName": "Manage Estimate Template Master",
+    "orderNumber": 3,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "MDMS",
+    "code": "null",
+    "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
+    "path": "MDMS.estimateTemplate",
+    "leftIcon": "ContractIcon"
     }
   ]  
 }
