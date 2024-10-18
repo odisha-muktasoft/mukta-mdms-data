@@ -2415,30 +2415,6 @@
     },
     {
       "id": 203,
-      "name": "Payment Tracker Excel Create",
-      "url": "/wms/report/payment-tracker/_create",
-      "parentModule": "works-management-service",
-      "displayName": "Payment Tracker Excel Create",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BILLS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 204,
-      "name": "Payment Tracker Excel Search",
-      "url": "/wms/report/payment-tracker/_search",
-      "parentModule": "works-management-service",
-      "displayName": "Payment Tracker Excel Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BILLS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 205,
       "name": "Create Payment tracker report",
       "url": "/wms/report/payment-tracker/_create",
       "displayName": "Create Payment tracker report",
@@ -2450,7 +2426,7 @@
       "path": ""
     },
     {
-      "id": 206,
+      "id": 204,
       "name": "Search Payment tracker report",
       "url": "/wms/report/payment-tracker/_search",
       "displayName": "Search Payment tracker report",
@@ -2462,7 +2438,7 @@
       "path": ""
     },
     {
-      "id": 207,
+      "id": 205,
       "name": "Payment Tracker Pdf",
       "url": "/egov-pdf/download/paymentTracker/payment-tracker",
       "displayName": "Payment Tracker",
@@ -2473,7 +2449,7 @@
       "path": ""
     },
     {
-      "id": 208,
+      "id": 206,
       "name": "Payment Tracker",
       "url": "url",
       "displayName": "Payment Tracker",
@@ -2485,6 +2461,18 @@
       "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
       "path": "BILLS.SEARCHPAYMENTTRACKER",
       "leftIcon": "ExpenditureIcon"
+    },
+    {
+      "id": 207,
+      "name": "Payment Tracker Report Search",
+      "url": "/wms/report/payment_tracker",
+      "parentModule": "",
+      "displayName": "Payment Tracker Report Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BILLS",
+      "code": "null",
+      "path": ""
     }
   ]  
 }

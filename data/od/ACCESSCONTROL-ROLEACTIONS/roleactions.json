@@ -2160,12 +2160,6 @@
       "actionid": 207,
       "actioncode": "",
       "tenantId": "od"
-    },
-    {
-      "rolecode": "BILL_ACCOUNTANT",
-      "actionid": 208,
-      "actioncode": "",
-      "tenantId": "od"
     }
   ]
 }
