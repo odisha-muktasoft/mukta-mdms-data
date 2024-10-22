@@ -164,7 +164,7 @@
       "serviceCode": "WORKS",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "Estimates.CreateEstimate",
+      "path": "ACTION_TEST_2ESTIMATE.CreateEstimate",
       "leftIcon": "EstimateIcon"
     },
     {
@@ -178,7 +178,7 @@
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/create-project",
-      "path": "Projects.Create",
+      "path": "ACTION_TEST_1PROJECT.Create",
       "leftIcon": "ProjectIcon"
     },
     {
@@ -192,7 +192,7 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate",
-      "path": "Estimates.SearchEstimate",
+      "path": "ACTION_TEST_2ESTIMATE.SearchEstimate",
       "leftIcon": "EstimateIcon"
     },
     {
@@ -206,7 +206,7 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/inbox",
-      "path": "Estimates.EstimateInbox",
+      "path": "ACTION_TEST_2ESTIMATE.EstimateInbox",
       "leftIcon": "EstimateIcon"
     },
     {
@@ -220,7 +220,7 @@
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "Projects.search",
+      "path": "ACTION_TEST_1PROJECT.search",
       "leftIcon": "ProjectIcon"
     },
     {
@@ -649,7 +649,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/inbox",
-      "path": "Contracts.Inbox",
+      "path": "3CONTRACRS.Inbox",
       "leftIcon": "ContractIcon"
     },
     {
@@ -677,7 +677,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "Contracts.Create",
+      "path": "ACTION_TEST_3CONTRACTS.Create",
       "leftIcon": "ContractIcon"
     },
     {
@@ -691,7 +691,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "Contracts.Search",
+      "path": "ACTION_TEST_3CONTRACTS.Search",
       "leftIcon": "ContractIcon"
     },
     {
@@ -1994,7 +1994,7 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "Estimates.CreateRevisedEstimate",
+      "path": "ACTION_TEST_2ESTIMATE.CreateRevisedEstimate",
       "leftIcon": "EstimateIcon"
     },
     {
@@ -2020,7 +2020,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
-      "path": "Contracts.CREATETE",
+      "path": "ACTION_TEST_3CONTRACTS.CREATETE",
       "leftIcon": "ContractIcon"
     },
     {
