@@ -217,11 +217,6 @@
       "description": "Revise the rates"
     },
     {
-      "code": "REPORT_VIEWER",
-      "name": "Report Viewer User",
-      "description": "Default role for accessing reports"
-    },
-    {
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
