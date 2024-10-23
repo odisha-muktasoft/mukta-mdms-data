@@ -859,7 +859,7 @@
           "name": "projectId",
           "path": "Data.additionalDetails.projectId.keyword",
           "isMandatory": false,
-          "operator": "FUZZY"
+          "operator": "EQUAL"
         },
         {
           "name": "createdFrom",
