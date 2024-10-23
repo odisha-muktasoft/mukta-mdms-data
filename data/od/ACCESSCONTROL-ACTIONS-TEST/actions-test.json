@@ -663,7 +663,7 @@
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/inbox",
-      "path": "Attendencemgmt.Inbox",
+      "path": "Attendance Management.Inbox",
       "leftIcon": "AttendanceIcon"
     },
     {
@@ -1030,7 +1030,7 @@
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/search-attendance",
-      "path": "Attendencemgmt.Search",
+      "path": "Attendance Management.Search",
       "leftIcon": "AttendanceIcon"
     },
     {
