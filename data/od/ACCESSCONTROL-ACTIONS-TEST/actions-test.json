@@ -649,7 +649,7 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/inbox",
-      "path": "3CONTRACRS.Inbox",
+      "path": "ACTION_TEST_3CONTRACTS.Inbox",
       "leftIcon": "ContractIcon"
     },
     {
