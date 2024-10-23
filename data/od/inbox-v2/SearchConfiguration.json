@@ -853,7 +853,7 @@
           "name": "projectType",
           "path": "Data.additionalDetails.projectType.keyword",
           "isMandatory": false,
-          "operator": "FUZZY"
+          "operator": "EQUAL"
         },
         {
           "name": "projectId",
@@ -877,7 +877,7 @@
           "name": "ward",
           "path": "Data.additionalDetails.ward.keyword",
           "isMandatory": false,
-          "operator": "FUZZY"
+          "operator": "EQUAL"
         }
       ],
       "sortBy": {
