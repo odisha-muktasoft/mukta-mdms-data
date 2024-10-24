@@ -2509,7 +2509,7 @@
     "displayName": "ACTION_TEST_MANAGE_WORKS_ESTIMATE_TEMPLATE",
     "orderNumber": 3,
     "parentModule": "",
-    "enabled": true,
+    "enabled": false,
     "serviceCode": "MDMS",
     "code": "null",
     "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
