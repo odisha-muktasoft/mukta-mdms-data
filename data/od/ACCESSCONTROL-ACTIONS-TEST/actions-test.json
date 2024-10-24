@@ -2518,7 +2518,7 @@
     },
     {
       "id": 211,
-      "name": "Rollout Dashboard",
+      "name": "Payment Tracker",
       "url": "url",
       "displayName": "ACTION_TEST_PAYMENT_TRACKER",
       "orderNumber": 1,
@@ -2526,7 +2526,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "ACTION_TEST_6DASHBOARD.RolloutDashboard",
+      "path": "ACTION_TEST_6DASHBOARD.PaymentTracker",
       "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
       "leftIcon": "DashboardIcon",
       "rightIcon": ""
