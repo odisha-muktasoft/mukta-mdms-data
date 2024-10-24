@@ -600,14 +600,14 @@
       "id": 55,
       "name": "BILLS",
       "url": "url",
-      "displayName": "Create Purchase Bill",
+      "displayName": "ACTION_TEST_CREATE_PURCHASE_BILL",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": false,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "Bills.CreratePurchaseBill",
+      "path": "ACTION_TEST_5BILLS.CreratePurchaseBill",
       "leftIcon": "ExpenditureIcon"
     },
     {
@@ -2515,6 +2515,21 @@
     "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
     "path": "ACTION_TEST_9MDMS.estimateTemplate",
     "leftIcon": "ContractIcon"
+    },
+    {
+      "id": 211,
+      "name": "Rollout Dashboard",
+      "url": "url",
+      "displayName": "ACTION_TEST_PAYMENT_TRACKER",
+      "orderNumber": 1,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "ACTION_TEST_6DASHBOARD.RolloutDashboard",
+      "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
+      "leftIcon": "DashboardIcon",
+      "rightIcon": ""
     }
   ]  
 }
