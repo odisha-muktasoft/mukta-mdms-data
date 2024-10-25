@@ -863,13 +863,13 @@
         },
         {
           "name": "createdFrom",
-          "path": "Data.additionalDetails.projectCreatedTime",
+          "path": "Data.additionalDetails.projectCreatedDate",
           "isMandatory": false,
           "operator": "GTE"
         },
         {
           "name": "createdTo",
-          "path": "Data.additionalDetails.projectCreatedTime",
+          "path": "Data.additionalDetails.projectCreatedDate",
           "isMandatory": false,
           "operator": "LTE"
         },
