@@ -45,7 +45,6 @@
                 "populators": {
                   "name": "type",
                   "optionsKey": "name",
-                  "optionsCustomStyle": { "top": "2.3rem" },
                   "mdmsConfig": {
                     "masterName": "OrgType",
                     "moduleName": "common-masters",
@@ -84,7 +83,6 @@
                 "populators": {
                   "name": "applicationStatus",
                   "optionsKey": "name",
-                  "optionsCustomStyle": { "top": "2.3rem" },
                   "options": [
                     { "code": "ACTIVE", "name": "MASTERS_ORG_STATUS_ACTIVE" },
                     {

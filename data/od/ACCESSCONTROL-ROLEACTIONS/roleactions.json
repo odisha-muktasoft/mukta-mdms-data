@@ -2088,7 +2088,121 @@
           "actionid": 194,
           "actioncode": "",
           "tenantId": "od"
-          }
+        },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 197,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 198,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 199,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 200,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 201,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_COMMON",
+      "actionid": 202,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 203,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 204,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 205,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ORG_ADMIN",
+      "actionid": 202,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 207,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 208,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_ADMIN",
+      "actionid": 208,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 209,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_CITY_VIEW_ADMIN",
+      "actionid": 209,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 210,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MDMS_STATE_ADMIN",
+      "actionid": 210,
+      "actioncode": "",
+      "tenantId": "od"
+    }, 
+    {
+      "rolecode": "BILL_ACCOUNTANT",
+      "actionid": 211,
+      "actioncode": "",
+      "tenantId": "od"
+    }
       
   ]
 }

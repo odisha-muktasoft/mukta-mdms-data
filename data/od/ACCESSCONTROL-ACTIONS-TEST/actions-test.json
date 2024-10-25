@@ -6,15 +6,15 @@
       "id": 1,
       "name": "Home",
       "url": "url",
-      "displayName": "Home",
+      "displayName": "ACTION_TEST_HOME",
       "orderNumber": 1,
       "parentModule": "works",
       "enabled": true,
       "serviceCode": "works",
       "code": "null",
-      "path": "0Home",
+      "path": "ACTION_TEST_0HOME",
       "navigationURL": "/works-ui/employee/",
-      "leftIcon": "dynamic:MuktaHomeIcon",
+      "leftIcon": "MuktaHomeIcon",
       "rightIcon": ""
     },
     {
@@ -57,15 +57,15 @@
       "id": 5,
       "name": "HRMS",
       "url": "url",
-      "displayName": "Search Employee",
+      "displayName": "ACTION_TEST_SEARCH_EMPLOYEE",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/hrms/inbox",
-      "path": "9HRMS.Search",
-      "leftIcon": "dynamic:HRIcon"
+      "path": "ACTION_TEST_9HRMS.Search",
+      "leftIcon": "HRIcon"
     },
     {
       "id": 6,
@@ -143,15 +143,15 @@
       "id": 13,
       "name": "HRMS",
       "url": "url",
-      "displayName": "Create Employee",
+      "displayName": "ACTION_TEST_CREATE_EMPLOYEE",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/hrms/create",
-      "path": "9HRMS.Create",
-      "leftIcon": "dynamic:HRIcon"
+      "path": "ACTION_TEST_9HRMS.Create",
+      "leftIcon": "HRIcon"
     },
     {
       "id": 14,
@@ -164,22 +164,22 @@
       "serviceCode": "WORKS",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "2ESTIMATE.CreateEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "ACTION_TEST_2ESTIMATE.CreateEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 15,
       "name": "PROJECT",
       "url": "url",
-      "displayName": "Create Project",
+      "displayName": "ACTION_TEST_CREATE_PROJECT",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/create-project",
-      "path": "1PROJECT.Create",
-      "leftIcon": "dynamic:ProjectIcon"
+      "path": "ACTION_TEST_1PROJECT.Create",
+      "leftIcon": "ProjectIcon"
     },
     {
       "id": 16,
@@ -192,8 +192,8 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate",
-      "path": "2ESTIMATE.SearchEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "ACTION_TEST_2ESTIMATE.SearchEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 17,
@@ -206,22 +206,22 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/inbox",
-      "path": "2ESTIMATE.EstimateInbox",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "ACTION_TEST_2ESTIMATE.EstimateInbox",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 18,
       "name": "PROJECT",
       "url": "url",
-      "displayName": "PROJECT Search",
+      "displayName": "ACTION_TEST_PROJECT_SEARCH",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "PROJECT",
       "code": "null",
       "navigationURL": "/works-ui/employee/project/search-project",
-      "path": "1PROJECT.search",
-      "leftIcon": "dynamic:ProjectIcon"
+      "path": "ACTION_TEST_1PROJECT.search",
+      "leftIcon": "ProjectIcon"
     },
     {
       "id": 21,
@@ -589,26 +589,26 @@
       "displayName": "Bill Inbox",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
-      "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "ACTION_TEST_5BILLS.BillInbox",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 55,
       "name": "BILLS",
       "url": "url",
-      "displayName": "Create Purchase Bill",
+      "displayName": "ACTION_TEST_CREATE_PURCHASE_BILL",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "5BILLS.CreratePurchaseBill",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "path": "ACTION_TEST_5BILLS.CreratePurchaseBill",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 56,
@@ -617,12 +617,12 @@
       "displayName": "Bill Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
       "path": "BILLS.BillSearch",
-      "leftIcon": "dynamic:BillsNewIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 57,
@@ -635,8 +635,8 @@
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/view-bills/menu",
-      "path": "5BILLS.BillView",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "ACTION_TEST_5BILLS.BillView",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 58,
@@ -649,22 +649,22 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/inbox",
-      "path": "3CONTRACTS.Inbox",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_3CONTRACTS.Inbox",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 59,
       "name": "ATTENDENCEMGMT",
       "url": "url",
-      "displayName": "ATTENDENCEMGMT Inbox",
+      "displayName": "ACTION_TEST_ATTENDENCEMGMT_INBOX",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/inbox",
-      "path": "4ATTENDENCEMGMT.Inbox",
-      "leftIcon": "dynamic:AttendanceIcon"
+      "path": "ACTION_TEST_4ATTENDENCEMGMT.Inbox",
+      "leftIcon": "AttendanceIcon"
     },
     {
       "id": 60,
@@ -677,8 +677,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "3CONTRACTS.Create",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_3CONTRACTS.Create",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 61,
@@ -691,8 +691,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "3CONTRACTS.Search",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_3CONTRACTS.Search",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 62,
@@ -706,7 +706,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/works/checklistinbox",
       "path": "CHECKLIST.Inbox",
-      "leftIcon": "dynamic:HRIcon"
+      "leftIcon": "HRIcon"
     },
     {
       "id": 63,
@@ -720,21 +720,21 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/works/checklist",
       "path": "CHECKLIST.Create",
-      "leftIcon": "dynamic:HRIcon"
+      "leftIcon": "HRIcon"
     },
     {
       "id": 64,
       "name": "MASTERS",
       "url": "url",
-      "displayName": "Masters Create Organisation",
+      "displayName": "ACTION_TEST_MASTERS_CREATE_ORGANISATION",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MASTERS",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/create-organization",
-      "path": "7MASTERS.CreateOrganisation",
-      "leftIcon": "dynamic:OrganisationIcon"
+      "path": "ACTION_TEST_7MASTERS.CreateOrganisation",
+      "leftIcon": "OrganisationIcon"
     },
     {
       "id": 65,
@@ -896,15 +896,15 @@
       "id": 78,
       "name": "WAGESEEKER",
       "url": "url",
-      "displayName": "Masters Search Wageseeker",
+      "displayName": "ACTION_TEST_MASTERS_SEARCH_WAGESEEKER",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "WageSeeker",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/search-wageseeker",
-      "path": "8WageSeeker.Search",
-      "leftIcon": "dynamic:WageseekerIcon"
+      "path": "ACTION_TEST_8WAGESEEKER.Search",
+      "leftIcon": "WageseekerIcon"
     },
     {
       "id": 79,
@@ -916,9 +916,9 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "6Dashboard.Mukta",
+      "path": "ACTION_TEST_6DASHBOARD.Mukta",
       "navigationURL": "/works-ui/employee/dss/dashboard/mukta",
-      "leftIcon": "dynamic:DashboardIcon",
+      "leftIcon": "DashboardIcon",
       "rightIcon": ""
     },
     {
@@ -1038,15 +1038,15 @@
       "id": 90,
       "name": "ATTENDENCEMGMT",
       "url": "url",
-      "displayName": "ATTENDENCEMGMT Search",
+      "displayName": "ACTION_TEST_ATTENDENCEMGMT_SEARCH",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "ATTENDENCEMGMT",
       "code": "null",
       "navigationURL": "/works-ui/employee/attendencemgmt/search-attendance",
-      "path": "4ATTENDENCEMGMT.Search",
-      "leftIcon": "dynamic:AttendanceIcon"
+      "path": "ACTION_TEST_4ATTENDENCEMGMT.Search",
+      "leftIcon": "AttendanceIcon"
     },
     {
       "id": 91,
@@ -1217,29 +1217,29 @@
       "id": 105,
       "name": "MASTERS",
       "url": "url",
-      "displayName": "Masters Search Organisation",
+      "displayName": "ACTION_TEST_MASTERS_SEARCH_ORGANISATION",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MASTERS",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/search-organization",
-      "path": "7MASTERS.Search",
-      "leftIcon": "dynamic:OrganisationIcon"
+      "path": "ACTION_TEST_7MASTERS.Search",
+      "leftIcon": "OrganisationIcon"
     },
     {
       "id": 106,
       "name": "WAGESEEKER",
       "url": "url",
-      "displayName": "Masters Create WageSeeker",
+      "displayName": "ACTION_TEST_MASTERS_CREATE_WAGESEEKER",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "WageSeeker",
       "code": "null",
       "navigationURL": "/works-ui/employee/masters/create-wageseeker",
-      "path": "8WageSeeker.CreateWageSeeker",
-      "leftIcon": "dynamic:WageseekerIcon"
+      "path": "ACTION_TEST_8WAGESEEKER.CreateWageSeeker",
+      "leftIcon": "WageseekerIcon"
     },
     {
       "id": 107,
@@ -1408,7 +1408,7 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill?status=APPROVED",
       "path": "5PAYMENT.GENERATEPAY",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 121,
@@ -1422,49 +1422,49 @@
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/download-bill",
       "path": "5PAYMENT.DOWNLOADPAY",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 122,
       "name": "BILLS",
       "url": "url",
-      "displayName": "Bill Inbox",
+      "displayName": "ACTION_TEST_BILL_INBOX",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/billinbox",
-      "path": "5BILLS.BillInbox",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "ACTION_TEST_5BILLS.BillInbox",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 123,
       "name": "BILLS",
       "url": "url",
-      "displayName": "Bill Search",
+      "displayName": "ACTION_TEST_BILL_SEARCH",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-bill",
-      "path": "5BILLS.BillSearch",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "ACTION_TEST_5BILLS.BillSearch",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 124,
       "name": "BILLS",
       "url": "",
-      "displayName": "Bill Create",
+      "displayName": "ACTION_TEST_CREATE_PURCHASE_BILL",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BILLS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract",
-      "path": "5BILLS.BillView",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "ACTION_TEST_5BILLS.BillView",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 125,
@@ -1542,15 +1542,15 @@
       "id": 131,
       "name": "PAYMENTINSTRUCTION",
       "url": "url",
-      "displayName": "PAYMENTINSTRUCTION",
+      "displayName": "ACTION_TEST_PAYMENTINSTRUCTION",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "PAYMENTINSTRUCTION",
       "code": "null",
       "navigationURL": "/works-ui/employee/expenditure/search-payment-instruction",
-      "path": "5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
-      "leftIcon": "dynamic:ExpenditureIcon"
+      "path": "ACTION_TEST_5PAYMENTINSTRUCTION.SEARCHPAYMENTINSTRUCTION",
+      "leftIcon": "ExpenditureIcon"
     },
     {
       "id": 132,
@@ -1829,141 +1829,141 @@
       "id": 155,
       "name": "MEASUREMENT",
       "url": "url",
-      "displayName": "Measurement Create",
+      "displayName": "ACTION_TEST_MEASUREMENT_CREATE",
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED",
-      "path": "3MEASUREMENT.Create",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "ACTION_TEST_3MEASUREMENT.Create",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 156,
       "name": "MEASUREMENT",
       "url": "url",
-      "displayName": "Measurement Inbox",
+      "displayName": "ACTION_TEST_MEASUREMENT_INBOX",
       "orderNumber": 3,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/inbox",
-      "path": "3MEASUREMENT.Inbox",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "ACTION_TEST_3MEASUREMENT.Inbox",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 157,
       "name": "MEASUREMENT",
       "url": "url",
-      "displayName": "Measurement Search",
+      "displayName": "ACTION_TEST_MEASUREMENT_SEARCH",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MEASUREMENT",
       "code": "null",
       "navigationURL": "/works-ui/employee/measurement/search",
-      "path": "3MEASUREMENT.Search",
-      "leftIcon": "dynamic:MeasurementMuktaIcon"
+      "path": "ACTION_TEST_3MEASUREMENT.Search",
+      "leftIcon": "MeasurementMuktaIcon"
     },
     {
       "id": 158,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Type",
-      "path": "9MDMS.WORKS-SOR.Type",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.Type",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 159,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR SubType",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_SUBTYPE",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SubType",
-      "path": "9MDMS.WORKS-SOR.SubType",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.SubType",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 160,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR Variant",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_VARIANT",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Variant",
-      "path": "9MDMS.WORKS-SOR.Variant",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.Variant",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 161,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR SOR",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_SOR",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SOR",
-      "path": "9MDMS.WORKS-SOR.SOR",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.SOR",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 162,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR Overhead",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_OVERHEAD",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Overhead",
-      "path": "9MDMS.WORKS-SOR.Overhead",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.Overhead",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 163,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR Rates",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_RATES",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Rates",
-      "path": "9MDMS.WORKS-SOR.Rates",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.Rates",
+      "leftIcon": "ContractIcon"
     },
    {
     "id": 164,
     "name": "MDMS",
     "url": "url",
-    "displayName": "Manage UOM Master",
+    "displayName": "ACTION_TEST_MANAGE_UOM_MASTER",
     "orderNumber": 1,
     "parentModule": "",
-    "enabled": true,
+    "enabled": false,
     "serviceCode": "MDMS",
     "code": "null",
     "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM",
-    "path": "9MDMS.commonmasterUOM",
-    "leftIcon": "dynamic:ContractIcon"
+    "path": "ACTION_TEST_9MDMS.commonmasterUOM",
+    "leftIcon": "ContractIcon"
   },
     {
       "id": 165,
@@ -1987,8 +1987,8 @@
       "serviceCode": "ESTIMATE",
       "code": "null",
       "navigationURL": "/works-ui/employee/estimate/search-estimate?status=APPROVED",
-      "path": "2ESTIMATE.CreateRevisedEstimate",
-      "leftIcon": "dynamic:EstimateIcon"
+      "path": "ACTION_TEST_2ESTIMATE.CreateRevisedEstimate",
+      "leftIcon": "EstimateIcon"
     },
     {
       "id": 167,
@@ -2013,8 +2013,8 @@
       "serviceCode": "CONTRACTS",
       "code": "null",
       "navigationURL": "/works-ui/employee/contracts/search-contract?status=ACCEPTED&businessService=CONTRACT",
-      "path": "3CONTRACTS.CREATETE",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_3CONTRACTS.CREATETE",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 169,
@@ -2248,57 +2248,57 @@
       "id": 188,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works SOR Composition",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_COMPOSITION",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition",
-      "path": "9MDMS.WORKS-SOR.Composition",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.Composition",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 189,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works Estimate Template",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_ESTIMATE_TEMPLATE",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
-      "path": "9MDMS.WORKS-SOR.EstimateTemplate",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.EstimateTemplate",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 190,
       "name": "MDMS",
       "url": "url",
-      "displayName": "Manage Works Revision of Rates",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_REVISION_OF_RATES",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "MDMS",
       "code": "null",
       "navigationURL": "/works-ui/employee/rateAnalysis/search-sor",
-      "path": "9MDMS.WORKS-SOR.RevisionOfRates",
-      "leftIcon": "dynamic:ContractIcon"
+      "path": "ACTION_TEST_9MDMS.WORKS-SOR.RevisionOfRates",
+      "leftIcon": "ContractIcon"
     },
     {
       "id": 191,
       "name": "MUKTA Dashboard",
       "url": "url",
-      "displayName": "MUKTA Dashboard",
+      "displayName": "ACTION_TEST_MUKTA_DASHBOARD",
       "orderNumber": 1,
       "parentModule": "dss-dashboard",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "6Dashboard.MUKTADashboard",
-      "navigationURL": "kibana-v8/app/dashboards#/view/fcba7d24-851a-4b11-b792-e790a86bab3d?_g=[…]!t,value:60000),time:(from:now-1y%2Fd,to:now))",
-      "leftIcon": "dynamic:DashboardIcon",
+      "path": "ACTION_TEST_6DASHBOARD.MUKTADashboard",
+      "navigationURL": "/kibana-v8/app/dashboards#/view/fcba7d24-851a-4b11-b792-e790a86bab3d?_g=[…]!t,value:60000),time:(from:now-1y%2Fd,to:now))",
+      "leftIcon": "DashboardIcon",
       "rightIcon": ""
     },
     {
@@ -2311,9 +2311,9 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "6Dashboard.RolloutDashboard",
-      "navigationURL": "kibana-v8/app/dashboards#/view/1cb35e7c-2a53-45e2-a46b-018d17ae4c15?_g=[…]!t,value:60000),time:(from:now-1y%2Fd,to:now))",
-      "leftIcon": "dynamic:DashboardIcon",
+      "path": "ACTION_TEST_6DASHBOARD.RolloutDashboard",
+      "navigationURL": "/kibana-v8/app/dashboards#/view/1cb35e7c-2a53-45e2-a46b-018d17ae4c15?_g=[…]!t,value:60000),time:(from:now-1y%2Fd,to:now))",
+      "leftIcon": "DashboardIcon",
       "rightIcon": ""
     },
 
@@ -2340,6 +2340,190 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+      },
+      {
+        "id": 197,
+        "name": "Create boundary hierarchy",
+        "url": "/boundary-service/boundary-hierarchy-definition/_create",
+        "displayName": "Create boundary hierarchy",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 198,
+        "name": "Search boundary hierarchy",
+        "url": "/boundary-service/boundary-hierarchy-definition/_search",
+        "displayName": "Search boundary hierarchy",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 199,
+        "name": "Create boundary entity",
+        "url": "/boundary-service/boundary/_create",
+        "displayName": "Create boundary entity",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 200,
+        "name": "Search boundary entity",
+        "url": "/boundary-service/boundary/_search",
+        "displayName": "Search boundary entity",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 201,
+        "name": "Create boundary relationship",
+        "url": "/boundary-service/boundary-relationships/_create",
+        "displayName": "Create boundary relationship",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 202,
+        "name": "Search boundary relationship",
+        "url": "/boundary-service/boundary-relationships/_search",
+        "displayName": "Search boundary relationship",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "boundary-hierarchy",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 203,
+        "name": "Create Payment tracker report",
+        "url": "/wms/report/payment-tracker/_create",
+        "displayName": "Create Payment tracker report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "wms",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 204,
+        "name": "Search Payment tracker report",
+        "url": "/wms/report/payment-tracker/_search",
+        "displayName": "Search Payment tracker report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "wms",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 205,
+        "name": "Payment Tracker Pdf",
+        "url": "/egov-pdf/download/paymentTracker/payment-tracker",
+        "displayName": "Payment Tracker",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "egov-pdf",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 206,
+        "name": "Payment Tracker",
+        "url": "url",
+        "displayName": "Payment Tracker",
+        "orderNumber": 5,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "BILLS",
+        "code": "null",
+        "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
+        "path": "Bills.PaymentTracker",
+        "leftIcon": "ExpenditureIcon"
+      },
+      {
+        "id": 207,
+        "name": "Payment Tracker Report Search",
+        "url": "/wms/report/payment_tracker",
+        "parentModule": "",
+        "displayName": "Payment Tracker Report Search",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "BILLS",
+        "code": "null",
+        "path": ""
+      },
+      {
+      "id": 208,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "ACTION_TEST_PROJECT_TYPE_MASTER",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=works&masterName=ProjectType",
+      "path": "ACTION_TEST_9MDMS.commonmasterProjectType",
+      "leftIcon": "ContractIcon"
+      },
+      {
+        "id": 209,
+        "name": "MDMS",
+        "url": "url",
+        "displayName": "ACTION_TEST_MANAGE_WORKS_SOR_COMPOSITION",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "MDMS",
+        "code": "null",
+        "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition",
+        "path": "ACTION_TEST_9MDMS.WORKS-SOR.RateAnalysis",
+        "leftIcon": "ContractIcon"
+      },
+      {
+      "id": 210,
+      "name": "MDMS",
+      "url": "url",
+      "displayName": "ACTION_TEST_MANAGE_WORKS_ESTIMATE_TEMPLATE",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate",
+      "path": "ACTION_TEST_9MDMS.estimateTemplate",
+      "leftIcon": "ContractIcon"
+      },
+      {
+        "id": 211,
+        "name": "Payment Tracker",
+        "url": "url",
+        "displayName": "ACTION_TEST_PAYMENT_TRACKER",
+        "orderNumber": 1,
+        "parentModule": "dss-dashboard",
+        "enabled": true,
+        "serviceCode": "DSS",
+        "code": "null",
+        "path": "ACTION_TEST_6DASHBOARD.PaymentTracker",
+        "navigationURL": "/works-ui/employee/expenditure/payment-tracker",
+        "leftIcon": "DashboardIcon",
+        "rightIcon": ""
       }
   ]  
 }
