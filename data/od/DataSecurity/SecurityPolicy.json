@@ -418,7 +418,7 @@
       "roleBasedDecryptionPolicy": [
 	    {
 		    
-          "roles": ["BILL_ACCOUNTANT", "MUKTA_ADMIN"],
+          "roles": ["MUKTA_ADMIN"],
           "attributeAccessList": [
             {
               "attribute": "accountHolderName",
