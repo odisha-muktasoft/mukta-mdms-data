@@ -3,6 +3,30 @@
   "moduleName": "muktaNotification",
   "NotificationTemplateAndActionMapping": [
     {
+      "templateCode": "JIT_PAYMENT_SUCCESSFUL",
+      "templateId": "1007491667544994495",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "JIT_PAYMENT_SUCCESSFUL",
+      "templateId": "1007855873417554275",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
+      "templateCode": "JIT_PAYMENT_FAILED",
+      "templateId": "1007063521180942790",
+      "action": "singleSMS",
+      "locale": "en_IN"
+    },
+    {
+      "templateCode": "JIT_PAYMENT_FAILED",
+      "templateId": "1007785215042619713",
+      "action": "singlewithbulkunicodeSMS",
+      "locale": "or_IN"
+    },
+    {
       "templateCode": "MB_APPROVE",
       "templateId": "1007665544200114485",
       "action": "singleSMS",
